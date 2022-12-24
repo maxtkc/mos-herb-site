@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Mo's Herb Site"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+  A one stop shop for all of your herbal needs
 
 email: mkatzchristy@gmail.com
 #blog logo
