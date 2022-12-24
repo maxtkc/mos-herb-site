@@ -24,7 +24,7 @@ paginate:	5
 
 domain: mkatzchristy.github.io
 # url: "http://myblog.***.***" # the base hostname & protocol for your site
-url: https://mkatzchristy.github.io
+url: https://mollykc.github.io
 baseurl: /mos-herb-site/
 #used to display twitter cards
 #twitter_handle: '@dirkfabisch'
