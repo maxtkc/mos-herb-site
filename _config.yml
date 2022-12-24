@@ -29,7 +29,7 @@ github_username:  mollykc
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: mediator
 plugins:
   - jekyll-feed
 
