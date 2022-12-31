@@ -34,15 +34,15 @@ navigation_header:
 - title: Home
   url: /
 - title: About
-  url: /about/
+  url: /about
 - title: Work with me
-  url: /work_w_me/
+  url: /work_w_me
 - title: Testimonials
-  url: /testimonials/
+  url: /testimonials
 - title: Contact
-  url: /contact/
+  url: /contact
 - title: Search
-  url: /search/
+  url: /search
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
