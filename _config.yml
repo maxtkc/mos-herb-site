@@ -44,6 +44,20 @@ navigation_header:
 - title: Search
   url: /search
 
+navigation_footer:
+- title: Home
+  url: /
+- title: About
+  url: /about
+- title: Work with me
+  url: /work_w_me
+- title: Testimonials
+  url: /testimonials
+- title: Contact
+  url: /contact
+- title: Search
+  url: /search
+
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   /assets/images/big_red_flower.jpg
