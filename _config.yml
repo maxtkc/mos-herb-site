@@ -69,6 +69,11 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
