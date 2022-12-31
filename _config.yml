@@ -1,17 +1,28 @@
-# Build settings
-gems:
-  - jemoji
-  - jekyll-paginate
-
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
 title: "Mo's Herb Site"
-description: > # this means to ignore newlines until "email:"
+description: >
   A one stop shop for all of your herbal needs
 
 email: mkatzchristy@gmail.com
-#blog logo
-logo: "/assets/images/df_logo.jpg"
-float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/canning_pic.jpg"
@@ -20,46 +31,33 @@ name: 'Mo Katz-Christy'
 author: 'Mo Katz-Christy'
 author_image: "/assets/images/author.jpeg"
 
-paginate:	5
-
 domain: mkatzchristy.github.io
-# url: "http://myblog.***.***" # the base hostname & protocol for your site
 url: https://mollykc.github.io
-baseurl: /mos-herb-site/
-#used to display twitter cards
-#twitter_handle: '@dirkfabisch'
 
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+# Build settings
+# theme: minima
+remote_theme: daviddarnes/alembic@main
 
-#google_analytics: UA-XXXXX-X
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
 
-# social icons and sharing options
-social:
-  #   - icon:	twitter
-  #     url:	https://twitter.com/dirkfabisch
-  #     desc: Follow me on twitter
-  #     share_url: http://twitter.com/share
-  #     share_title: ?text=
-  #     share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/mkatzchristy
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
