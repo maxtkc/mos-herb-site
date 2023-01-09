@@ -28,6 +28,6 @@ Mo is especially interested in supporting anyone, including elders,
 neurodivergent and queer folks, who has felt marginalized by their healthcare
 professionals.
 
-Education:
+**Herbal Education**
 
-Vermont Center for Integrative Herbalism - 1300+ hours (2022 - 3 years)
+> Vermont Center for Integrative Herbalism - 1300+ hours (2022 - 3 years)
