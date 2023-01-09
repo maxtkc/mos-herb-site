@@ -44,8 +44,6 @@ and can require more care and attention.
 |Follow-up|30-60 minutes|\$60|
 |Bundle||Initial and two follow-ups for \$200|
 
-<br>
-
 #### Cost of herbs
 
 Herbs can cost anywhere from \$50-\$200 per month. You are welcome to source
