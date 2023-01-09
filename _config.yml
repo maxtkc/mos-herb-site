@@ -73,7 +73,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 domain: mkatzchristy.github.io
 url: https://mollykc.github.io
-baseurl: /mos-herb-site/
+baseurl: /mos-herb-site
 
 # Build settings
 # theme: minima
