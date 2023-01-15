@@ -1,0 +1,16 @@
+{
+  "lang": "en-US",
+  "name": "Mo's Herb Site",
+  "short_name": "Mo'sHerbSite",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "icons": [
+      {
+        "src": "",
+        "sizes": "x"
+      }
+      
+    ],
+  "start_url": "/",
+  "display": "standalone"
+}

@@ -1,0 +1,47 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Welcome to Jekyll!",
+        "excerpt": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n\n",
+        "content": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n\nJekyll requires blog post files to be named according to the following format:\n\nYEAR-MONTH-DAY-title.MARKUP\n\nWhere YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.\n\nJekyll also offers powerful support for code snippets:\n\ndef print_hi(name)\n  puts \"Hi, #{name}\"\nend\nprint_hi('Tom')\n#=&gt; prints 'Hi, Tom' to STDOUT.\n\nCheck out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.\n\n",
+        "url": "/mos-herb-site/jekyll/update/2022/12/30/welcome-to-jekyll.html"
+      },
+    
+  
+  
+  
+  {
+    "title": "About",
+    "excerpt": "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals.\n",
+    "content": "Mo believes in the inherent capacity of bodies to heal, and uses plants to help\nsupport that capacity. They know what it’s like to feel at the end of your rope\nwith the healthcare system, and also what it’s like to find healing beyond that\nplace. They want to help you connect to the knowledge that you already have\nabout your body and herbs through exploring your ancestral traditions,\ncommunity networks, and gardens and kitchens — especially if you don’t believe\nyou have this knowledge!\n\nMo is a queer Ashkenazi Jew who grew up tending and harvesting roadside fruit\nwith their family in Boston. They currently work and live at Haley House, on\nunceded Massachusett tribal lands, where they lead the preparation of\nnourishing and delicious meals for unhoused neighbors and coordinate the\ndistribution of hundreds of bags of groceries to Chinese neighbors. Stop by\nduring soup kitchen hours and you might find them cooking hundreds of latkes in\nthe soup kitchen or learning Cantonese from an elderly friend!\n\nMo is especially interested in supporting anyone, including elders,\nneurodivergent and queer folks, who has felt marginalized by their healthcare\nprofessionals.\n\nHerbal Education\n\n\n  Vermont Center for Integrative Herbalism - 1300+ hours (2022 - 3 years)\n\n",
+    "url": "/mos-herb-site/about.html"
+  },
+  
+  {
+    "title": "Contact",
+    "excerpt": "\n",
+    "content": "\n          \n            Email address\n            \n          \n          \n            Name\n            \n          \n          \n            Favourite Platform\n            \n              Github\n              Gitlab\n              Bitbucket\n            \n          \n          \n          \n            Upload your CV:\n            \n          \n          \n          Submit\n        \n",
+    "url": "/mos-herb-site/contact.html"
+  },
+  
+  {
+    "title": "Home",
+    "excerpt": "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals.\n",
+    "content": "\n  Healthcare should be personal, thorough, and integrated.\n\n\nWant to work to shift the root patterns that are causing your symptoms, without increasing your medications?\n\nI can help you advocate for yourself in a conventional setting as well as give you the tools to understand your body from an herbal perspective – one that integrates modern scientific research with centuries of tradition of botanical uses.\n\nI have experience supporting clients with:\n\n\n  diabetes\n  Hashimoto’s thyroiditis and fatigue\n  sleep issues\n  depression and anxiety\n  migraines\n  GI dysregulation - diverticulitis, constipation, etc.\n  gender-affirming hormone therapy\n  immune support\n  allergies and asthma\n  skin issues, inc. MRSA infections and wound healing and much, much more!\n\n",
+    "url": "/mos-herb-site/"
+  },
+  
+  {
+    "title": "Work with me",
+    "excerpt": "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals.\n",
+    "content": "\n\nSchedule a consultation to have an in-depth\nconversation with Mo about how herbs, dietary supports, and lifestyle shifts\ncan support you to meet your health goals.\n\nWhat does an herbal consult look like?\n\nWe meet for 1.5-2 hours for a thorough intake where we go through all of your\nbody systems and see which patterns might be feeding into the symptoms you are\nexperiencing. I spend ~2-3 hours afterwards researching and writing up\na thorough protocol for you, which I’ll email you. Once we settle on a protocol\nthat you feel excited about, I’ll send the formulas to an apothecary to be\nfilled, and you’ll receive your herbs in the mail.\n\nHow often do we check in?\n\nAs often as feels productive to you! Often, it is hard for us to track our own\nprocess – I often see clients who forget they used to have headaches and are\nvery pleased when we meet and they realize that their headaches are gone! For\nmost people, I recommend meeting once every six weeks for at least three visits\nand then every 3-6 months afterwards. However, some chronic issues can be like\nonions – once we peel one layer away we discover another layer to care for –\nand can require more care and attention.\n\nAppointment Pricing\n\n\n  \n    \n      Initial consult\n      90-120 minutes\n      $120\n    \n    \n      Follow-up\n      30-60 minutes\n      $60\n    \n    \n      Bundle\n       \n      Initial and two follow-ups for $200\n    \n  \n\n\nCost of herbs\n\nHerbs can cost anywhere from $50-$200 per month. You are welcome to source\nyour herbs anywhere and I can support you in using foods or lower-cost remedies\nto work within your budget. I primarily use Heart Hand Lands apothecary for my\nclients’ formulas because they source quality, sustainable, relatively\naffordable herbs. I do not receive any income from the sale of herbs.\n",
+    "url": "/mos-herb-site/work_w_me.html"
+  }
+  
+]
+
