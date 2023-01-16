@@ -4,7 +4,7 @@ title: Work with me
 feature_text: |
   ## Mo Katz-Christy, Clinical Herbalist
     Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals.
-feature_image: "/assets/images/mo_reaches_into_tree.jpg"
+feature_image: "/assets/images/planting_seeds.jpg"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
