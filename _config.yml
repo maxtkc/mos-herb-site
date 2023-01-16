@@ -65,7 +65,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 domain: www.mokatzchristy.com
 url: https://www.mokatzchristy.com
-baseurl: /mos-herb-site
+baseurl: /
 
 # Build settings
 # theme: minima
