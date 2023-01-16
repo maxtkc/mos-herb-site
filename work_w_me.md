@@ -22,6 +22,7 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
     </div>
 </details>
 
+![Mo Finds Tree](/assets/images/mo_reaches_into_tree.jpg){: style="float: right; width: 40%"}
 
 Schedule a consultation above to have an in-depth conversation with Mo about
 how herbs, dietary supports, and lifestyle shifts can support you to meet your
