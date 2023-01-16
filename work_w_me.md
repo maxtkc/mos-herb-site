@@ -8,15 +8,24 @@ feature_image: "/assets/images/planting_seeds.jpg"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-<!--
-TODO: embed this properly with a modal or something
-<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
-<div class="zcal-inline-widget"><a href="https://zcal.co/i/xJPSKcgN">30 Minute Meeting - Schedule a meeting</a></div>
--->
+<details>
+    <summary>
+        <span class="summary-title">Schedule a consultation</span>
+        <div class="summary-chevron-up">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+    </summary>
+    <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
+    <div class="zcal-inline-widget"><a href="https://zcal.co/i/xJPSKcgN">30 Minute Meeting - Schedule a meeting</a></div>
+        <div class="summary-chevron-down">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+    </div>
+</details>
 
-[Schedule a consultation](https://zcal.co/i/xJPSKcgN) to have an in-depth
-conversation with Mo about how herbs, dietary supports, and lifestyle shifts
-can support you to meet your health goals. 
+
+Schedule a consultation above to have an in-depth conversation with Mo about
+how herbs, dietary supports, and lifestyle shifts can support you to meet your
+health goals.
 
 #### What does an herbal consult look like?
 

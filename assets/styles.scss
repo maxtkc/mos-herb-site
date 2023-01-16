@@ -65,3 +65,68 @@ table td {
 .feature h2, .feature p {
     color: white;
 }
+
+// https://codepen.io/NielsVoogt/pen/YbaNPd
+$details-padding: 1em;
+
+details {
+	font-size: 1rem;
+	margin: 1em 0;
+	box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+		0 10px 10px -5px rgba(0, 0, 0, 0.04);
+	width: 100%;
+	background: #ffffff;
+	border-radius: 8px;
+	position: relative;
+	width: 500px;
+
+	.summary-title {
+		user-select: none;
+	}
+
+	&:hover {
+		cursor: pointer;
+	}
+
+	.summary-content {
+		border-top: 1px solid #e2e8f0;
+		cursor: default;
+		padding: $details-padding;
+		font-weight: 300;
+		line-height: 1.5;
+	}
+
+	summary {
+		list-style: none;
+		padding: $details-padding;
+
+		&:focus {
+			outline: none;
+		}
+
+		&:hover .summary-chevron-up svg {
+			opacity: 1;
+		}
+	}
+
+	.summary-chevron-up svg {
+		opacity: 0.5;
+	}
+
+	.summary-chevron-up,
+	.summary-chevron-down {
+		pointer-events: none;
+		position: absolute;
+		top: 0.75em;
+		right: $details-padding;
+		background: #ffffff;
+
+		svg {
+			display: block;
+		}
+	}
+
+	summary::-webkit-details-marker {
+		display: none;
+	}
+}
