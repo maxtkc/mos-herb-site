@@ -74,6 +74,7 @@ remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 fonts:
   preconnect_urls:
