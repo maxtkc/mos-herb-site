@@ -8,7 +8,7 @@ feature_image: "/assets/images/little_pink_flowers.jpg"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-![Mo Finds Tree](/assets/images/mo_and_friend_laugh.jpg){: style="float: right; width: 40%"}
+![](/assets/images/mo_has_a_mug.jpg){: style="float: right; width: 60%"}
 
 Mo believes in the inherent capacity of bodies to heal, and uses plants to help
 support that capacity. They know what it’s like to feel at the end of your rope
