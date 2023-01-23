@@ -131,7 +131,12 @@ details {
 	}
 }
 
-p img {
+p img[style*="float: right"] {
     padding-top: 40px;
     padding-left: 20px;
+}
+
+p img[style*="float: left"] {
+    padding-top: 40px;
+    padding-right: 20px;
 }
