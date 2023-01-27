@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Mo's Herb Site"
+title: "Mo Katz-Christy, Clinical Herbalist"
 description: >
   A one stop shop for all of your herbal needs
 
