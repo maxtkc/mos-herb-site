@@ -32,12 +32,12 @@ I have experience supporting clients with:
 ![](/assets/images/mo_and_friend_laugh.jpg){: style="float: right; width: 50%"}
 
 > When I first considered seeing Mo, I thought: "do I really need an
-herbalist?” I know now what a silly question it was! If you eat food, you need
-an herbalist! Mo has thoughtfully explained how herbs can support me, and has
-empowered me to be an active participant in my general healthcare, and to learn
-more about plants and our relationship to nature. Immune support with young
-kids has been so important, and support through winter during breastfeeding has
-helped me immensely in knowing I’m doing the right thing for my body and
-infant. Mo has recommended several books on herbs and growing my own herbs.
-I feel so supported! Mo meets you where you are, with no judgement, only kind
-consideration. If you’re on the fence, do it!
+herbalist?” I know now what a silly question it was! **If you eat food, you
+need an herbalist!** Mo has thoughtfully explained how herbs can support me,
+and has empowered me to be an active participant in my general healthcare, and
+to learn more about plants and our relationship to nature. Immune support with
+young kids has been so important, and support through winter during
+breastfeeding has helped me immensely in knowing I’m doing the right thing for
+my body and infant. Mo has recommended several books on herbs and growing my
+own herbs. **I feel so supported! Mo meets you where you are, with no
+judgement, only kind consideration. If you’re on the fence, do it!**
