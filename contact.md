@@ -7,7 +7,7 @@ feature_text: |
 feature_image: "/assets/images/orange_flowers_garden.jpg"
 ---
 
-Send a message here or email Mo at mkatzchristy (at) gmail.com and I'll get back to you as soon as I can.
+Send a message here or email Mo at mkatzchristy (at) gmail.com
 
 <div id="ff-compose"></div>
 <script async defer src="https://formfacade.com/include/116772473875516402284/form/1FAIpQLSeO9cSNr4xOcExlGfPAfhaIF9hgQOTSBrnIp8HHxRfnQmiUsA/classic.js?div=ff-compose"></script>
