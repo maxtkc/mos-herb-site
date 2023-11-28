@@ -32,4 +32,5 @@ professionals.
 
 **Herbal Education**
 
-> Vermont Center for Integrative Herbalism - 1300+ hours (2022 - 3 years)
+> [Vermont Center for Integrative Herbalism](https://vtherbcenter.org/) -
+graduated from the Clinical Herbalist Program in 2022 (1300+ hours)
