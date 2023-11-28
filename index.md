@@ -4,13 +4,13 @@ title: Home
 feature_text: |
   ## Mo Katz-Christy, Clinical Herbalist
     Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals.
-feature_image: "/assets/images/fuzzy_bee_plant_cropped.jpg"
+feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
 > Healthcare should be personal, thorough, and integrated.
 
-![](/assets/images/pink_spikey_flower.jpg){: style="float: left; width: 40%"}
+![](/assets/images/webp/pink_spikey_flower.webp){: style="float: left; width: 40%"}
 
 Want to work to shift the root patterns that are causing your symptoms, without increasing your medications?
 
@@ -29,7 +29,7 @@ I have experience supporting clients with:
 - allergies and asthma
 - skin issues, inc. MRSA infections and wound healing and much, much more!
 
-![](/assets/images/mo_and_friend_laugh.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/mo_and_friend_laugh.webp){: style="float: right; width: 50%"}
 
 > When I first considered seeing Mo, I thought: "do I really need an
 herbalist?” I know now what a silly question it was! **If you eat food, you
