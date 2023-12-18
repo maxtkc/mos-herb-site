@@ -10,25 +10,13 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 
 ![](/assets/images/webp/mo_has_a_mug.webp){: style="float: right; width: 60%"}
 
-Mo believes in the inherent capacity of bodies to heal, and uses plants to help
-support that capacity. They know what it’s like to feel at the end of your rope
-with the healthcare system, and also what it’s like to find healing beyond that
-place. They want to help you connect to the knowledge that you already have
-about your body and herbs through exploring your ancestral traditions,
-community networks, and gardens and kitchens — especially if you don’t believe
-you have this knowledge!
+Mo believes in the inherent capacity of bodies to heal, and uses plants to help support that capacity. They know what it’s like to feel at the end of your rope with the healthcare system, and also what it’s like to find healing beyond that place. They work to help clients connect to the knowledge that you already have about your body and herbs through exploring your ancestral traditions, community networks, and gardens and kitchens — especially if you don’t believe you have this knowledge!
 
-Mo is a queer Ashkenazi Jew who grew up tending and harvesting roadside fruit
-with their family in Boston. They currently work and live at Haley House, on
-unceded Massachusett tribal lands, where they lead the preparation of
-nourishing and delicious meals for unhoused neighbors and coordinate the
-distribution of hundreds of bags of groceries to Chinese neighbors. Stop by
-during soup kitchen hours and you might find them cooking hundreds of latkes in
-the soup kitchen or learning Cantonese from an elderly friend!
+Mo is a queer Ashkenazi Jew who grew up tending and harvesting roadside fruit trees and arbors with their family in Boston, on Massachusett, Pawtucket, Wampanoag, and Nipmuc land. They have been working with plants and people since childhood and are so grateful for this early connection to food and community. They currently work as a landscaper for Gardens by Ruth and incorporate medicinal herbs into clients’ gardens.
 
-Mo is especially interested in supporting anyone, including elders,
-neurodivergent and queer folks, who has felt marginalized by their healthcare
-professionals.
+Mo spent three years studying herbalism in-depth at the Vermont Center for Integrative Herbalism. In their final year they worked in the sliding-scale student clinic, where they saw dozens of clients and received support from their colleagues and teachers. They feel so fortunate to have learned from many brilliant teachers with differing perspectives including Betzy Bancroft, Larken Bunce, Linden de Voil, Kristin Henningsen, Guido Masé, Ember Peters, and many others. They continue to learn from the plants and from lectures, books, and conferences — and from their garden and kitchen!
+
+They especially value supporting anyone who has felt marginalized by healthcare professionals including elders, neurodivergent and queer folks.
 
 **Herbal Education**
 
