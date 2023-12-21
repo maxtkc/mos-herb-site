@@ -8,29 +8,32 @@ feature_image: "/assets/images/webp/planting_seeds.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-<details>
-    <summary>
-        <span class="summary-title">Schedule a consultation</span>
-        <div class="summary-chevron-up">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </div>
-    </summary>
-    <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
-    <div class="zcal-inline-widget"><a href="https://zcal.co/i/xJPSKcgN">30 Minute Meeting - Schedule a meeting</a></div>
-        <div class="summary-chevron-down">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
-    </div>
-</details>
+{% capture consultation %}
+<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
+<div class="zcal-inline-widget"><a href="https://zcal.co/i/xJPSKcgN">30 Minute Meeting - Schedule a meeting</a></div>
+{% endcapture %}
 
+{% include components/dropdown.html 
+  title = "Schedule a consultation"
+  content = consultation
+%}
+
+{% capture follow_up %}
+<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
+<div class="zcal-inline-widget"><a href="https://zcal.co/i/bKxLxPnA">30 Minute Meeting - Schedule a meeting</a></div>
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Schedule a follow up"
+  content = follow_up
+%}
 <details>
     <summary>
-        <span class="summary-title">Schedule a follow up</span>
+        <span class="summary-title"></span>
         <div class="summary-chevron-up">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
         </div>
     </summary>
-    <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
-    <div class="zcal-inline-widget"><a href="https://zcal.co/i/bKxLxPnA">30 Minute Meeting - Schedule a meeting</a></div>
         <div class="summary-chevron-down">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
     </div>
