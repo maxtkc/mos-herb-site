@@ -23,7 +23,7 @@ Herbal landscaping can:
 Each garden will be customized for the needs of your yard and family. We offer
 three basic gardens, as well as a build-your-own option:
 
-#### Chef’s Garden
+{% capture chefs_garden %}
 
 Food is medicine! This garden will include culinary delights such as:
 
@@ -38,9 +38,14 @@ Products from this garden may include:
 - herbal infused vinegars
 - herb salts
 - and more!
+{% endcapture %}
 
-#### Sleep and Relaxation Garden
+{% include components/dropdown.html 
+  title = "Chef’s Garden"
+  content = chefs_garden
+%}
 
+{% capture sleep_and_relax %}
 Your garden should help you relax! This garden will include herbs that can
 promote sleep and relaxation such as:
 
@@ -54,9 +59,14 @@ Products from this garden may include:
 - custom-formulated sleep tinctures
 - relaxing foot soaks
 - and more!
+{% endcapture %}
 
-#### Cocktail (or Mocktail) Garden
+{% include components/dropdown.html 
+  title = "Sleep and Relaxation Garden"
+  content = sleep_and_relax
+%}
 
+{% capture cocktail_garden %}
 Delight your neighbors with these fresh drinks! Herbs may include:
 
 - lemon verbena
@@ -70,6 +80,12 @@ Potential mixers:
 - edible flowers
 - homemade bitters
 - and more!
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Cocktail (or Mocktail) Garden"
+  content = cocktail_garden
+%}
 
 #### Build-Your-Own Garden
 
