@@ -4,9 +4,11 @@ title: Grow
 feature_text: |
   ## Mo Katz-Christy, Clinical Herbalist
     Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals.
-feature_image: "/assets/images/webp/hosing_seeds.webp"
+feature_image: "/assets/images/mos_garden.jpg"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
+
+![](/assets/images/juanito_and_divora.jpg){: style="float: right; width: 40%"}
 
 Now offering herbal gardens! Let us plant you a personalized herb garden in
 your front yard. We offer full-service herb gardens or DIY options for each
@@ -101,6 +103,8 @@ Let’s design a garden together! Some other garden possibilities include:
 %}
 
 #### Add-ons
+
+![](/assets/images/mo_in_garden.jpg){: style="float: right; width: 40%"}
 
 - From garden to cupboard: Our clinical herbalist can bring your garden into your
 spice rack! Let Mo know how you’d like to use your garden, and leave the
