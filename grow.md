@@ -100,16 +100,11 @@ Let’s design a garden together! Some other garden possibilities include:
   content = byo_garden
 %}
 
-{% capture add_ons %}
+#### Add-ons
+
 - From garden to cupboard: Our clinical herbalist can bring your garden into your
 spice rack! Let Mo know how you’d like to use your garden, and leave the
 processing to them.
 - DIY: Want to learn how to make medicine yourself? Mo will come show your
 family how!
 {: .fancy-list}
-{% endcapture %}
-
-{% include components/dropdown.html 
-  title = "Add-ons"
-  content = add_ons
-%}
