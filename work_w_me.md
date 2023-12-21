@@ -62,7 +62,7 @@ and can require more care and attention.
 
 #### Cost of herbs
 
-Herbs can cost anywhere from \$50-\$300 per month. You are welcome to source
+Herbs can cost anywhere from \$50-\$200 per month. You are welcome to source
 your herbs anywhere and I can support you in using foods or lower-cost remedies
 to work within your budget. I primarily use Heart Hand Lands apothecary for my
 clients’ formulas because they source quality, sustainable, relatively
