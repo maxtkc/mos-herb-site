@@ -15,9 +15,9 @@ harvesting, and making medicine.
 
 Herbal landscaping can:
 
-- nourish your health
-- add flavor to your life
-- create fun for your family!
+- nourish your **health**
+- add **flavor** to your life
+- create **fun** for your family!
 {: .fancy-list}
 
 Each garden will be customized for the needs of your yard and family. We offer
