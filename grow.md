@@ -78,7 +78,7 @@ Let’s design a garden together! Some other garden possibilities include:
 - focus garden
 - immune support garden
 
-Add-ons:
+#### Add-ons
 
 From garden to cupboard: Our clinical herbalist can bring your garden into your
 spice rack! Let Mo know how you’d like to use your garden, and leave the
