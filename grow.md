@@ -87,19 +87,29 @@ Potential mixers:
   content = cocktail_garden
 %}
 
-#### Build-Your-Own Garden
-
+{% capture byo_garden %}
 Let’s design a garden together! Some other garden possibilities include:
 
 - first aid kit
 - focus garden
 - immune support garden
+{% endcapture %}
 
-#### Add-ons
+{% include components/dropdown.html 
+  title = "Build-Your-Own Garden"
+  content = byo_garden
+%}
 
+{% capture add_ons %}
 - From garden to cupboard: Our clinical herbalist can bring your garden into your
 spice rack! Let Mo know how you’d like to use your garden, and leave the
 processing to them.
 - DIY: Want to learn how to make medicine yourself? Mo will come show your
 family how!
 {: .fancy-list}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Add-ons"
+  content = add_ons
+%}
