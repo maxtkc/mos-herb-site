@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2024 classes coming soon!
+title: Upcoming Community Classes
 feature_text: |
   ## Mo Katz-Christy, Clinical Herbalist
     Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals.
@@ -8,9 +8,21 @@ feature_image: "/assets/images/webp/hosing_seeds.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-#### 2023 classes:
+#### Herbal Tincture Making Workshop
+
+> March 28th, 6-8pm, Union Square Culture House
+
+Learn how to make an alcoholic herbal extract! Infusing herbs in alcohol is a great way to preserve them so that you have them readily on hand. And they last for years!
+
+This workshop will teach the aspiring herbalist everything you need to know to make a high-quality tincture. We will go over each step of the process including sourcing herbs and alcohol, measuring the appropriate ratios, macerating the tincture, straining, and finally using your tincture.
+
+Each participant will leave with a jar of herbal tincture and a cheesecloth to strain their tincture at home.
+
+**Registration required**: https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/
 
 ---
+
+### 2023 classes:
 
 ##### Herb of the Month Series 
 
