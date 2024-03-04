@@ -19,7 +19,7 @@ This workshop will teach the aspiring herbalist everything you need to know to m
 
 Each participant will leave with a jar of herbal tincture and a cheesecloth to strain their tincture at home.
 
-**Registration required**: [https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/](url)
+**Registration required**: [https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/](https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/)
 
 ---
 
