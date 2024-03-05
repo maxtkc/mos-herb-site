@@ -8,6 +8,19 @@ feature_image: "/assets/images/webp/hosing_seeds.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
+#### Herbal Tincture Making Workshop
+
+> March 28th, 6-8pm, Union Square Culture House
+
+Learn how to make an alcoholic herbal extract! Infusing herbs in alcohol is a great way to preserve them so that you have them readily on hand. And they last for years!
+
+This workshop will teach the aspiring herbalist everything you need to know to make a high-quality tincture. We will go over each step of the process including sourcing herbs and alcohol, measuring the appropriate ratios, macerating the tincture, straining, and finally using your tincture.
+
+Each participant will leave with a jar of herbal tincture and a cheesecloth to strain their tincture at home.
+
+**Registration required**: [https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/](https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/)
+
+
 ![](/assets/images/Medicine%20on%20the%20Seder%20Plate%20Registeration%20Ad.png){: style="float: right; width: 40%"}
 
 #### Medicine on the Seder Plate: Parsley, lettuce, horseradish, and more!
@@ -21,18 +34,6 @@ We will discuss how our body’s needs correspond with the seasons of the year, 
 Join us for an herbal exploration into the plants of the seder plate!
 
 **Registration required**: [Register here](https://docs.google.com/forms/d/e/1FAIpQLSd5PZ-_tdqZ7T-pf2OIub3CUAcRn69ckKRPdQ2GMlHkZGf0_g/viewform?fbclid=IwAR2VBRc2Zaiv0c2v9s-HS0PbsoqDkVqSyiZfUByZT46CAa8cm6lq6vB0Dsw)
-
-#### Herbal Tincture Making Workshop
-
-> March 28th, 6-8pm, Union Square Culture House
-
-Learn how to make an alcoholic herbal extract! Infusing herbs in alcohol is a great way to preserve them so that you have them readily on hand. And they last for years!
-
-This workshop will teach the aspiring herbalist everything you need to know to make a high-quality tincture. We will go over each step of the process including sourcing herbs and alcohol, measuring the appropriate ratios, macerating the tincture, straining, and finally using your tincture.
-
-Each participant will leave with a jar of herbal tincture and a cheesecloth to strain their tincture at home.
-
-**Registration required**: [https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/](https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/)
 
 ---
 
