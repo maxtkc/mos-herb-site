@@ -10,7 +10,7 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 
 ![](/assets/images/63f7c90a1d6c4ad9193d7c9172f473e1340dc844-2-crop.jpeg){: style="float: right; width: 50%"}
 
-#### Herbal Tincture Making Workshop
+### Herbal Tincture Making Workshop
 
 > March 28th, 6-8pm, Union Square Culture House
 
