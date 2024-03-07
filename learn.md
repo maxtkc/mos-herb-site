@@ -27,7 +27,7 @@ Each participant will leave with a jar of herbal tincture and a cheesecloth to s
 ![](/assets/images/Maror1.png){: style="float: left; width: 50%"}
 
 #### Northampton
-> April 7th 1-2:30pm, Abundance Farm\
+> April 7th 1-2:30pm, [Abundance Farm](https://www.abundancefarm.org/)\
 > $1-$50 sliding scale\
 > **Registration required:** [Register here](https://docs.google.com/forms/d/e/1FAIpQLSe1Gs1lJHLrYhh-fdNfLE8kqBh0r5qHn9ckvbay9pSt1KSZDw/viewform)
 
@@ -35,7 +35,7 @@ Each participant will leave with a jar of herbal tincture and a cheesecloth to s
 {: style="clear: left"}
 
 #### Boston
-> April 14th 1-2:30pm, Kavod Boston\
+> April 14th 1-2:30pm, [Kavod Boston](https://www.kavodboston.org/)\
 > free!\
 > **Registration required:** [Register here](https://docs.google.com/forms/d/e/1FAIpQLSd5PZ-_tdqZ7T-pf2OIub3CUAcRn69ckKRPdQ2GMlHkZGf0_g/viewform?fbclid=IwAR2VBRc2Zaiv0c2v9s-HS0PbsoqDkVqSyiZfUByZT46CAa8cm6lq6vB0Dsw)
 
