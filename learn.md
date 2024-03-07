@@ -21,7 +21,7 @@ Each participant will leave with a jar of herbal tincture and a cheesecloth to s
 **Registration required**: [https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/](https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/)
 
 
-![](/assets/images/Medicine%20on%20the%20Seder%20Plate%20Registeration%20Ad.png){: style="float: center; width: 80%"}
+![](/assets/images/Medicine%20on%20the%20Seder%20Plate%20Registeration%20Ad.png){: style="float: right; width: 50%"}
 
 #### Medicine on the Seder Plate: Parsley, lettuce, horseradish, and more!
 
