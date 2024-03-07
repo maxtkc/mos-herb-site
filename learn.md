@@ -8,6 +8,8 @@ feature_image: "/assets/images/webp/hosing_seeds.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
+![](/assets/images/63f7c90a1d6c4ad9193d7c9172f473e1340dc844-2-crop.jpeg){: style="float: right; width: 50%"}
+
 #### Herbal Tincture Making Workshop
 
 > March 28th, 6-8pm, Union Square Culture House
@@ -20,12 +22,21 @@ Each participant will leave with a jar of herbal tincture and a cheesecloth to s
 
 **Registration required**: [https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/](https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-tincture/)
 
+#### Medicine on the Seder Plate: Parlsey, Lettuce, Horseradish, and More!
+
+![](/assets/images/Maror1.png){: style="float: left; width: 50%"}
+
+### Northampton
+> April 7th 1-2:30pm, Abundance Farm
+> $1-$50 sliding scale
+> **Registration required**: [Register here](https://docs.google.com/forms/d/e/1FAIpQLSe1Gs1lJHLrYhh-fdNfLE8kqBh0r5qHn9ckvbay9pSt1KSZDw/viewform)
 
 ![](/assets/images/Medicine%20on%20the%20Seder%20Plate%20Registeration%20Ad.png){: style="float: right; width: 50%"}
 
-#### Medicine on the Seder Plate: Parsley, lettuce, horseradish, and more!
-
+### Boston
 > April 14th 1-2:30pm, Kavod Boston
+> free!
+> **Registration required**: [Register here](https://docs.google.com/forms/d/e/1FAIpQLSd5PZ-_tdqZ7T-pf2OIub3CUAcRn69ckKRPdQ2GMlHkZGf0_g/viewform?fbclid=IwAR2VBRc2Zaiv0c2v9s-HS0PbsoqDkVqSyiZfUByZT46CAa8cm6lq6vB0Dsw)
 
 Bitter herbs, spring greens -- these plants contain nutrients and flavors that are essential to our springtime bodies. In this class, we will explore the physiological wisdom in the plants we hold sacred. We will delve into the bitter flavor, as we discuss why neither horseradish nor lettuce -- the foods often included as “bitter herbs” on the seder plate -- are particularly bitter. We will learn about the vital importance of the bitter flavor for the functioning of our body systems, as well as the uses of the other flavors in these plants.
 
@@ -33,7 +44,7 @@ We will discuss how our body’s needs correspond with the seasons of the year, 
 
 Join us for an herbal exploration into the plants of the seder plate!
 
-**Registration required**: [Register here](https://docs.google.com/forms/d/e/1FAIpQLSd5PZ-_tdqZ7T-pf2OIub3CUAcRn69ckKRPdQ2GMlHkZGf0_g/viewform?fbclid=IwAR2VBRc2Zaiv0c2v9s-HS0PbsoqDkVqSyiZfUByZT46CAa8cm6lq6vB0Dsw)
+
 
 ---
 
