@@ -46,7 +46,17 @@ We will discuss how our body’s needs correspond with the seasons of the year, 
 
 Join us for an herbal exploration into the plants of the seder plate!
 
+![](/assets/images/pexels-petr-ganaj-19632845.jpg){: style="float: right; width: 50%"}
+{: style="clear: left"}
 
+> April 28th, 4-5:30pm\
+> Somerville Community Growing Center\
+> Free or optional donation\
+> No registration required
+
+Spend the afternoon getting deeply acquainted with one medicinal plant each month! We’ll learn through drawing, tasting, science, and storytelling. Bring your journal and leave with an in-depth account of botany, history, clinical use, and more.
+
+Join us for the first event in this series, which will run from April-November.
 
 ---
 
