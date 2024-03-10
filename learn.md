@@ -49,6 +49,7 @@ Join us for an herbal exploration into the plants of the seder plate!
 ![](/assets/images/pexels-petr-ganaj-19632845.jpg){: style="float: right; width: 50%"}
 {: style="clear: left"}
 
+### Herb of the Month Series: Violet
 > April 28th, 4-5:30pm\
 > Somerville Community Growing Center\
 > Free or optional donation\
