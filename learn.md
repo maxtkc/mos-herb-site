@@ -46,7 +46,7 @@ We will discuss how our body’s needs correspond with the seasons of the year, 
 
 Join us for an herbal exploration into the plants of the seder plate!
 
-![](/assets/images/pexels-petr-ganaj-19632845.jpg){: style="float: right; width: 50%"}
+![](/assets/images/pexels-petr-ganaj-19632845.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
 ### Herb of the Month Series: Violet
@@ -58,6 +58,19 @@ Join us for an herbal exploration into the plants of the seder plate!
 Spend the afternoon getting deeply acquainted with one medicinal plant each month! We’ll learn through drawing, tasting, science, and storytelling. Bring your journal and leave with an in-depth account of botany, history, clinical use, and more.
 
 Join us for the first event in this series, which will run from April-November.
+
+![](/assets/images/pexels-petr-ganaj-19632845.jpg){: style="float: left; width: 40%"}
+{: style="clear: left"}
+
+### April Medicinal Plant Walk
+> April 24th, 5:30-6:30pm\
+> Somerville Community Growing Center\
+> Free or optional donation\
+> No registration required
+
+Join me for a stroll about town to meet the plants in our neighborhood! We will explore botany and medicinal uses and have lots of space for questions and conversation.
+
+This is also the first in a monthly series, which will be held at locations around town including the Somerville Community Growing Center and local libraries. 
 
 ---
 
