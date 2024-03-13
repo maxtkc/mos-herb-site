@@ -47,6 +47,8 @@ We will discuss how our body’s needs correspond with the seasons of the year, 
 
 Join us for an herbal exploration into the plants of the seder plate!
 
+This program is supported in part by a grant from the Harold Grinspoon Foundation.
+
 ![](/assets/images/pexels-petr-ganaj-19632845.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
