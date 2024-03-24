@@ -14,7 +14,7 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 {% endcapture %}
 
 {% include components/dropdown.html 
-  title = "Schedule a consultation"
+  title = "Schedule a free 15-minute intro call"
   content = intro_call
 %}
 
