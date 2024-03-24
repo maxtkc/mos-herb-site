@@ -15,8 +15,7 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 {% endcapture %}
 
 {% include components/dropdown.html 
-  title = "Let's chat about your garden!\
-  Schedule a free info call"
+  title = "Let's chat about your garden!\n  Schedule a free info call"
   content = garden_call
 %}
 
