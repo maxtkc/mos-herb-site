@@ -8,6 +8,16 @@ feature_image: "/assets/images/webp/planting_seeds.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
+{% capture intro_call %}
+<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
+<div class="zcal-inline-widget"><a href="https://zcal.co/i/skfZFt1q">Free 15-minute intro call - Schedule a meeting</a></div>
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Schedule a consultation"
+  content = intro_call
+%}
+
 {% capture consultation %}
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
 <div class="zcal-inline-widget"><a href="https://zcal.co/i/xJPSKcgN">30 Minute Meeting - Schedule a meeting</a></div>
