@@ -8,6 +8,17 @@ feature_image: "/assets/images/webp/mos_garden.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
+{% capture garden_call %}
+<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
+<div class="zcal-inline-widget"><a href="https://zcal.co/i/Jg-yY2mV">Let's talk about your garden! Free info call - Schedule a meeting</a></div>
+
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Let's chat about your garden! Schedule a free info call"
+  content = garden_call
+%}
+
 ![](/assets/images/webp/juanito_and_divora.webp){: style="float: right; width: 40%"}
 
 Now offering herbal gardens! Let us plant you a personalized herb garden in
