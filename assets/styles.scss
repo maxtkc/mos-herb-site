@@ -5,12 +5,16 @@
 
 ul, blockquote {
     padding-left: 30px;
-    display: grid;
 }
 
 blockquote p {
     margin-bottom: 0px !important;
     font-size: 1rem;
+    display: grid;
+}
+
+blockquote p a {
+    width: fit-content;
 }
 
 form {
