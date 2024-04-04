@@ -40,23 +40,21 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 
 ![Mo Finds Tree](/assets/images/webp/mo_reaches_into_tree.webp){: style="float: right; width: 40%"}
 
-Schedule a consultation above to have an in-depth conversation with Mo about
-how herbs, dietary supports, and lifestyle shifts can support you to meet your
-health goals.
+Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other. For most people, this is your first time meeting with a clinical herbalist and it can be helpful to talk through what you're looking for and see if I might be able to support you.
 
 #### What does an herbal consult look like?
 
-We meet for 1.5-2 hours for a thorough intake where we go through all of your
-body systems and see which patterns might be feeding into the symptoms you are
+We meet for 1.5-2 hours for a thorough conversation where we go through all of your
+body systems and see which patterns might be at the root of the symptoms you are
 experiencing. I spend ~2-3 hours afterwards researching and writing up
-a thorough protocol for you, which I’ll email you. Once we settle on a protocol
+a thorough protocol for you, which I’ll send to you by email. Once we settle on a protocol
 that you feel excited about, I’ll send the formulas to an apothecary to be
 filled, and you’ll receive your herbs in the mail.
 
 #### How often do we check in?
 
 As often as feels productive to you! Often, it is hard for us to track our own
-process -- I often see clients who forget they used to have headaches and are
+process -- I have clients who forget they used to have headaches and are
 very pleased when we meet and they realize that their headaches are gone! For
 most people, I recommend meeting once every six weeks for at least three visits
 and then every 3-6 months afterwards. However, some chronic issues can be like
@@ -66,6 +64,7 @@ and can require more care and attention.
 #### Appointment Pricing
 
 |------|------|------|
+|Complementary intro call|15 minutes|free!|
 |Initial consult|90-120 minutes|\$120|
 |Follow-up|30-60 minutes|\$60|
 |Bundle||Initial and two follow-ups for \$200|
