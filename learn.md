@@ -8,6 +8,9 @@ feature_image: "/assets/images/webp/hosing_seeds.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
+![](/assets/images/Herb_of_the_Month_2024.png){: style="float: left; width: 100%"}
+{: style="clear: left"}
+
 ![](/assets/images/pexels-petr-ganaj-19632845.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
@@ -17,9 +20,7 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 > Free or optional donation\
 > No registration required
 
-Spend the afternoon getting deeply acquainted with one medicinal plant each month! We’ll learn through drawing, tasting, science, and storytelling. Bring your journal and leave with an in-depth account of botany, history, clinical use, and more.
-
-Join us for the first event in this series, which will run from April-November.
+Come spend the afternoon with violet! This is the first event in a monthly series at the Growing Center.
 
 ---
 
