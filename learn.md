@@ -21,7 +21,7 @@ Spend the afternoon getting deeply acquainted with one medicinal plant each mont
 
 Join us for the first event in this series, which will run from April-November.
 
-![](/assets/images/52543056668_b37beffb9c_5k.jpg){: style="float: left; width: 40%"}
+![](/assets/images/Medicinal_Plant_Walks_2024.png){: style="float: left; width: 70%"}
 {: style="clear: left"}
 
 ### April Medicinal Plant Walk
