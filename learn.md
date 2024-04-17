@@ -27,6 +27,9 @@ Come spend the afternoon with violet! This is the first event in a monthly serie
 ![](/assets/images/Medicinal_Plant_Walks_2024.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
+![](/assets/images/52543056668_b37beffb9c_5k.jpg){: style="float: right; width: 40%"}
+{: style="clear: left"}
+
 ### April Medicinal Plant Walk
 > April 24th, 5:30-6:30pm\
 > Somerville Community Growing Center\
