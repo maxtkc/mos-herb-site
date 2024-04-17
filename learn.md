@@ -21,18 +21,16 @@ Spend the afternoon getting deeply acquainted with one medicinal plant each mont
 
 Join us for the first event in this series, which will run from April-November.
 
-![](/assets/images/Medicinal_Plant_Walks_2024.png){: style="float: left; width: 70%"}
+### April Medicinal Plant Walk
+![](/assets/images/Medicinal_Plant_Walks_2024.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-### April Medicinal Plant Walk
 > April 24th, 5:30-6:30pm\
 > Somerville Community Growing Center\
 > Free or optional donation\
 > No registration required
 
-Join me for a stroll about town to meet the plants in our neighborhood! We will explore botany and medicinal uses and have lots of space for questions and conversation.
-
-This is also the first in a monthly series, which will be held at locations around town including the Somerville Community Growing Center and local libraries. 
+Join us for the first plant walk in a monthly series, which will be held at various locations including the Somerville Community Growing Center and local libraries. 
 
 ---
 
