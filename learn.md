@@ -40,6 +40,25 @@ Join us for the first plant walk in a monthly series, which will be held at vari
 
 ---
 
+![](/assets/images/Tea_blending.PNG){: style="float: left; width: 100%"}
+{: style="clear: left"}
+
+### Demystifying Tea Blending
+> May 19th, 6:30-8pm\
+> Cambridge Naturals\
+> $5-$40 sliding scale\
+> [Registration required](https://www.cambridgenaturals.com/events/demystifying-tea-blending-with-mo-katz-christy)
+
+Move beyond tea bags and learn how to make a delicious, medicinal, loose-leaf herbal tea blend! In this class, we will discuss a handful of common herbs for tea: their uses, flavors, energies, and what they add to a blend. We will smell and taste each of the herbs, learning how the flavors blend and complement each other.
+
+We will discuss different considerations for the process of making tea including infusing versus boiling, temperature of the water, and length of time infused.
+
+Part information and science, part sensory exploration, this class will be as playful as it is educational!
+
+All attendees will receive a 15% off coupon to Cambridge Naturals
+
+---
+
 ### Past classes:
 
 
