@@ -8,33 +8,6 @@ feature_image: "/assets/images/webp/hosing_seeds.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-### Medicine on the Seder Plate: Parlsey, Lettuce, Horseradish, and More!
-
-![](/assets/images/Maror1.png){: style="float: left; width: 50%"}
-
-#### Northampton
-> April 7th 1-2:30pm, [Abundance Farm](https://www.abundancefarm.org/)\
-> $1-$50 sliding scale\
-> **Registration required:** [Register here](https://docs.google.com/forms/d/e/1FAIpQLSe1Gs1lJHLrYhh-fdNfLE8kqBh0r5qHn9ckvbay9pSt1KSZDw/viewform)
-
-![](/assets/images/Medicine%20on%20the%20Seder%20Plate%20Registeration%20Ad.png){: style="float: right; width: 50%"}
-{: style="clear: left"}
-
-#### Boston
-> April 14th 1-2:30pm, [Kavod Boston](https://www.kavodboston.org/)\
-> Free\
-> Along with herbalists Liz Krushnic and Naomi Spector\
-> **Registration required:** [Register here](https://docs.google.com/forms/d/e/1FAIpQLSd5PZ-_tdqZ7T-pf2OIub3CUAcRn69ckKRPdQ2GMlHkZGf0_g/viewform?fbclid=IwAR2VBRc2Zaiv0c2v9s-HS0PbsoqDkVqSyiZfUByZT46CAa8cm6lq6vB0Dsw)
-
-Bitter herbs, spring greens -- these plants contain nutrients and flavors that are essential to our springtime bodies. In this class, we will explore the physiological wisdom in the plants we hold sacred. We will delve into the bitter flavor, as we discuss why neither horseradish nor lettuce -- the foods often included as “bitter herbs” on the seder plate -- are particularly bitter. We will learn about the vital importance of the bitter flavor for the functioning of our body systems, as well as the uses of the other flavors in these plants.
-{: style="clear: right"}
-
-We will discuss how our body’s needs correspond with the seasons of the year, and how these differ by climate. What does your body crave in springtime, and how is (or isn’t) that reflected in our Jewish traditions? We will taste the plants on the seder plate and learn how these tastes interact with our bodies.
-
-Join us for an herbal exploration into the plants of the seder plate!
-
-Supported in part by a grant from the Harold Grinspoon Foundation.
-
 ![](/assets/images/pexels-petr-ganaj-19632845.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
@@ -64,6 +37,22 @@ This is also the first in a monthly series, which will be held at locations arou
 ---
 
 ### Past classes:
+
+
+##### Medicine on the Seder Plate: Parlsey, Lettuce, Horseradish, and More!
+> April 7th 1-2:30pm, [Abundance Farm](https://www.abundancefarm.org/)\
+> April 14th 1-2:30pm, [Kavod Boston](https://www.kavodboston.org/)
+
+Bitter herbs, spring greens -- these plants contain nutrients and flavors that are essential to our springtime bodies. In this class, we will explore the physiological wisdom in the plants we hold sacred. We will delve into the bitter flavor, as we discuss why neither horseradish nor lettuce -- the foods often included as “bitter herbs” on the seder plate -- are particularly bitter. We will learn about the vital importance of the bitter flavor for the functioning of our body systems, as well as the uses of the other flavors in these plants.
+{: style="clear: right"}
+
+We will discuss how our body’s needs correspond with the seasons of the year, and how these differ by climate. What does your body crave in springtime, and how is (or isn’t) that reflected in our Jewish traditions? We will taste the plants on the seder plate and learn how these tastes interact with our bodies.
+
+Join us for an herbal exploration into the plants of the seder plate!
+
+Supported in part by a grant from the Harold Grinspoon Foundation.
+
+---
 
 ##### Herbal Tincture-Making Workshop
 
