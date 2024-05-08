@@ -11,7 +11,7 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 ![](/assets/images/Herb_of_Month_1.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-![](/assets/images/pexels-petr-ganaj-19632845.jpg){: style="float: right; width: 40%"}
+![](/assets/images/lemon_balm.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
 ### Herb of the Month Series: Violet
