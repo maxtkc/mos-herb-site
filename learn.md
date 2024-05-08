@@ -14,7 +14,7 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 ![](/assets/images/lemon_balm.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
-### Herb of the Month Series: Violet
+### Herb of the Month Series: Lemon Balm!
 > May 26th, 4-5:30pm\
 > Somerville Community Growing Center\
 > Free or optional donation\
