@@ -15,12 +15,12 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 {: style="clear: left"}
 
 ### Herb of the Month Series: Violet
-> April 28th, 4-5:30pm\
+> May 26th, 4-5:30pm\
 > Somerville Community Growing Center\
 > Free or optional donation\
 > No registration required
 
-Come spend the afternoon with violet! This is the first event in a monthly series at the Growing Center.
+Lemon balm is out already! You may have smelled it as you brushed past the dead stalks or seen some growth peeking up in a neighbor’s garden. Come learn what makes it such a delightful friend.
 
 ---
 
@@ -30,13 +30,13 @@ Come spend the afternoon with violet! This is the first event in a monthly serie
 ![](/assets/images/IMG_2236.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
-### April Medicinal Plant Walk
-> April 24th, 5:30-6:30pm\
+### May Medicinal Plant Walk
+> May 29th, 5:30-6:30pm\
 > Somerville Community Growing Center\
 > Free or optional donation\
 > No registration required
 
-Join us for the first plant walk in a monthly series, which will be held at various locations including the Somerville Community Growing Center and local libraries. 
+Join us for the second plant walk in a monthly series, which will be held at various locations including the Somerville Community Growing Center and local libraries. 
 
 ---
 
