@@ -40,6 +40,8 @@ Join us for the second plant walk in a monthly series, which will be held at var
 
 ---
 
+![](/assets/images/Herbstalk.jpg){: style="float: right; width: 40%"}
+{: style="clear: left"}
 
 ### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
 ##### I'm delighted to be teaching at Herbstalk this year, a wonderful weekend-long herb festival. Come for both days or just drop in for a class or two!
