@@ -66,12 +66,27 @@ where experiential and scientific knowledge meet!
 ### Herbal Syrup Workshop
 > June 6th, 6-8pm\
 > Culture House Union Square\
-> Free! Bring $5 and a jar if you want to bring some home
+> Free! Bring $5 and a jar if you want to bring some home\
 > [Registration required](https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-syrup/)
 
 The sweetness of honey combined with the flavorful tartness of medicinal berries…come learn how to make an herbal syrup! In this class, we will discuss what herbal syrups are, what they are used for, and how to make one.
 
 We will make an elderberry syrup together — bring $5 and a jar if you’d like to take some home with you!
+
+---
+
+![](/assets/images/Bridgerton.png){: style="float: left; width: 100%"}
+{: style="clear: left"}
+
+### Bridgerton Afternoon Tea
+> June 9th, 2pm\
+> Somerville Library: Main Branch\
+> Free!
+> [Registration required](https://somervillepubliclibrary.assabetinteractive.com/calendar/bridgerton-afternoon-tea-2/)
+
+Please join us on Sunday, June 9th in the Central Library Auditorium for Bridgerton Afternoon Tea! Come celebrate the release of Season 3 of Bridgerton (attention all Penelope and Colin --Polin -- fans!) with a tasting of teas donated by Mem Tea, light refreshments, a presentation on tea blending by local herbalist Mo Katz-Christy, and Bridgerton trivia. 
+
+Fancy dress is highly encouraged, and RSVP-ing in the form of registration is the height of good manners...
 
 ---
 
