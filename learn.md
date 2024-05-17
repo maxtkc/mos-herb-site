@@ -45,7 +45,7 @@ Join us for the second plant walk in a monthly series, which will be held at var
 
 ### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
 > June 2nd, 11am-12:30pm\
-> Herbstalk @ the Armory
+> Herbstalk @ the Armory\
 > [Tickets required](https://www.herbstalk.org/herbstalk-2024.html)
 
 Why do all alliums have that strong garlicky smell? How do I know if the dried
@@ -57,6 +57,18 @@ see, smell, and taste different preparations of the same herbs to learn the
 flavors and mouthfeel of specific molecules, and to learn which preparations
 extract which constituents. Bring your favorite mug and a pen and come join me
 where experiential and scientific knowledge meet!
+
+---
+
+### Herbal Syrup Workshop
+> June 6th, 6-8pm\
+> Culture House Union Square\
+> Free! Bring $5 and a jar if you want to bring some home
+> [Registration required](https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-syrup/)
+
+The sweetness of honey combined with the flavorful tartness of medicinal berries…come learn how to make an herbal syrup! In this class, we will discuss what herbal syrups are, what they are used for, and how to make one.
+
+We will make an elderberry syrup together — bring $5 and a jar if you’d like to take some home with you!
 
 ---
 
