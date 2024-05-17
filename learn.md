@@ -40,10 +40,29 @@ Join us for the second plant walk in a monthly series, which will be held at var
 
 ---
 
+
+### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
+##### I'm delighted to be teaching at Herbstalk this year, a wonderful weekend-long herb festival. Come for both days or just drop in for a class or two!
+> June 2nd, 11am-12:30pm\
+> Herbstalk @ the Armory
+> [Tickets required](https://www.herbstalk.org/herbstalk-2024.html)
+
+Why do all alliums have that strong garlicky smell? How do I know if the dried
+herbs I've had in my cabinet for five years are still good? In this class you
+will begin to practice using your senses to teach you about the chemical
+constituents in your foods and medicine. We will discuss the primary atoms that
+make up plant molecules, and some common forms that they take. You will get to
+see, smell, and taste different preparations of the same herbs to learn the
+flavors and mouthfeel of specific molecules, and to learn which preparations
+extract which constituents. Bring your favorite mug and a pen and come join me
+where experiential and scientific knowledge meet!
+
 ![](/assets/images/Tea_blending.PNG){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-### Demystifying Tea Blending
+---
+
+### Demystifying Tea Blending - SOLD OUT
 > May 19th, 6:30-8pm\
 > Cambridge Naturals\
 > $5-$40 sliding scale\
