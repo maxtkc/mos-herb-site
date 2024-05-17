@@ -60,6 +60,9 @@ where experiential and scientific knowledge meet!
 
 ---
 
+![](/assets/images/Syrup.jpeg){: style="float: left; width: 100%"}
+{: style="clear: left"}
+
 ### Herbal Syrup Workshop
 > June 6th, 6-8pm\
 > Culture House Union Square\
