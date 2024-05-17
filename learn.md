@@ -60,7 +60,7 @@ where experiential and scientific knowledge meet!
 
 ---
 
-![](/assets/images/Syrup.jpeg){: style="float: left; width: 100%"}
+![](/assets/images/Syrup.jpeg){: style="float: left; width: 40%"}
 {: style="clear: left"}
 
 ### Herbal Syrup Workshop
@@ -75,7 +75,7 @@ We will make an elderberry syrup together — bring $5 and a jar if you’d like
 
 ---
 
-![](/assets/images/Bridgerton.png){: style="float: left; width: 100%"}
+![](/assets/images/Bridgerton.png){: style="float: left; width: 40%"}
 {: style="clear: left"}
 
 ### Bridgerton Afternoon Tea
