@@ -59,10 +59,10 @@ flavors and mouthfeel of specific molecules, and to learn which preparations
 extract which constituents. Bring your favorite mug and a pen and come join me
 where experiential and scientific knowledge meet!
 
+---
+
 ![](/assets/images/Tea_blending.PNG){: style="float: left; width: 100%"}
 {: style="clear: left"}
-
----
 
 ### Demystifying Tea Blending - SOLD OUT
 > May 19th, 6:30-8pm\
