@@ -20,7 +20,7 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 > May 26th, 4-5:30pm\
 > Somerville Community Growing Center\
 > Free or optional donation\
-> No registration required
+> [Register here](https://docs.google.com/forms/d/1ett9wLqlCbdp6IrYaL4Kk-lFYjych1PCKG-xM-v92Yo/edit#responses)
 
 Lemon balm is out already! You may have smelled it as you brushed past the dead stalks or seen some growth peeking up in a neighbor’s garden. Come learn what makes it such a delightful friend.
 
@@ -36,7 +36,7 @@ Lemon balm is out already! You may have smelled it as you brushed past the dead 
 > May 29th, 5:30-6:30pm\
 > Somerville Community Growing Center\
 > Free or optional donation\
-> No registration required
+> [Register here](https://docs.google.com/forms/d/1JVgmcMoVdpUe_ra0n1NN7q-qkH7Hv9ndenDpT00NUoA/edit#responses)
 
 Join us for the second plant walk in a monthly series, which will be held at various locations including the Somerville Community Growing Center and local libraries. 
 
