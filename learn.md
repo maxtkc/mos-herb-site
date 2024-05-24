@@ -8,7 +8,7 @@ feature_image: "/assets/images/webp/hosing_seeds.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-{% include components/subscribe.html %}
+{% include components/subscribe.html label="Stay up to date with classes by joining my monthly mailing list!" %}
 
 ![](/assets/images/Herb_of_Month_1.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
