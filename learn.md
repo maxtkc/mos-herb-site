@@ -16,13 +16,13 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 ![](/assets/images/lemon_balm.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
-### Herb of the Month Series: Lemon Balm!
-> May 26th, 4-5:30pm\
+### Herb of the Month Series: St John's Wort!
+> June 30th, 4-5:30pm\
 > Somerville Community Growing Center\
 > Free or optional donation\
-> [Register here](https://docs.google.com/forms/d/1ett9wLqlCbdp6IrYaL4Kk-lFYjych1PCKG-xM-v92Yo/edit#responses)
+> [Register here](https://forms.gle/91RPFRvg6NTuSXp56)
 
-Lemon balm is out already! You may have smelled it as you brushed past the dead stalks or seen some growth peeking up in a neighbor’s garden. Come learn what makes it such a delightful friend.
+St John’s Wort may be one of the most well-researched herbs in the medical system! It has been shown to work comparably to SSRIs in depression and is fantastic for nerve pain. However, it is not appropriate for everyone as it can interact with many medications. Stop by the Growing Center to learn more!
 
 ---
 
@@ -32,23 +32,26 @@ Lemon balm is out already! You may have smelled it as you brushed past the dead 
 ![](/assets/images/IMG_2236.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
-### May Medicinal Plant Walk
-> May 29th, 5:30-6:30pm\
-> Somerville Community Growing Center\
+### June Medicinal Plant Walk - FULL
+> June 26th, 5:30-6:30pm\
+> Somerville Public Library: East Branch\
 > Free or optional donation\
-> [Register here](https://docs.google.com/forms/d/1JVgmcMoVdpUe_ra0n1NN7q-qkH7Hv9ndenDpT00NUoA/edit#responses)
+> [Add your name to the waitlist](https://somervillepubliclibrary.assabetinteractive.com/calendar/plant-walk-at-east/?mc_cid=6c40851003&mc_eid=08838eb076)
 
-Join us for the second plant walk in a monthly series, which will be held at various locations including the Somerville Community Growing Center and local libraries. 
+Join me for a stroll about town to meet the plants in our neighborhood! We will explore botany and medicinal uses and have lots of space for questions and conversation.
+
+This plant walk is part of a monthly series, held at locations around town including the Somerville Community Growing Center and local libraries. Pre-register for July [here](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-west/).
 
 ---
+
+### Past classes:
 
 ![](/assets/images/Herbstalk.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
-### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
+##### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
 > June 2nd, 11am-12:30pm\
 > Herbstalk @ the Armory\
-> [Tickets required](https://www.herbstalk.org/herbstalk-2024.html)
 
 Why do all alliums have that strong garlicky smell? How do I know if the dried
 herbs I've had in my cabinet for five years are still good? In this class you
@@ -65,11 +68,9 @@ where experiential and scientific knowledge meet!
 ![](/assets/images/Syrup.jpeg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
-### Herbal Syrup Workshop
+##### Herbal Syrup Workshop
 > June 6th, 6-8pm\
 > Culture House Union Square\
-> Free! Bring $5 and a jar if you want to bring some home\
-> [Registration required](https://culturehouse.cc/wp-event/learn-how-to-make-an-herbal-syrup/)
 
 The sweetness of honey combined with the flavorful tartness of medicinal berries…come learn how to make an herbal syrup! In this class, we will discuss what herbal syrups are, what they are used for, and how to make one.
 
@@ -80,11 +81,9 @@ We will make an elderberry syrup together — bring $5 and a jar if you’d like
 ![](/assets/images/Bridgerton.png){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
-### Bridgerton Afternoon Tea
+##### Bridgerton Afternoon Tea
 > June 9th, 2pm\
 > Somerville Library: Main Branch\
-> Free!
-> [Registration required](https://somervillepubliclibrary.assabetinteractive.com/calendar/bridgerton-afternoon-tea-2/)
 
 Please join us on Sunday, June 9th in the Central Library Auditorium for Bridgerton Afternoon Tea! Come celebrate the release of Season 3 of Bridgerton (attention all Penelope and Colin --Polin -- fans!) with a tasting of teas donated by Mem Tea, light refreshments, a presentation on tea blending by local herbalist Mo Katz-Christy, and Bridgerton trivia. 
 
@@ -95,11 +94,9 @@ Fancy dress is highly encouraged, and RSVP-ing in the form of registration is th
 ![](/assets/images/Tea_blending.PNG){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-### Demystifying Tea Blending - SOLD OUT
+##### Demystifying Tea Blending
 > May 19th, 6:30-8pm\
 > Cambridge Naturals\
-> $5-$40 sliding scale\
-> [Registration required](https://www.cambridgenaturals.com/events/demystifying-tea-blending-with-mo-katz-christy)
 
 Move beyond tea bags and learn how to make a delicious, medicinal, loose-leaf herbal tea blend! In this class, we will discuss a handful of common herbs for tea: their uses, flavors, energies, and what they add to a blend. We will smell and taste each of the herbs, learning how the flavors blend and complement each other.
 
@@ -110,9 +107,6 @@ Part information and science, part sensory exploration, this class will be as pl
 All attendees will receive a 15% off coupon to Cambridge Naturals
 
 ---
-
-### Past classes:
-
 
 ##### Medicine on the Seder Plate: Parlsey, Lettuce, Horseradish, and More!
 > April 7th 1-2:30pm, [Abundance Farm](https://www.abundancefarm.org/)\
@@ -138,34 +132,3 @@ Learn how to make an alcoholic herbal extract! Infusing herbs in alcohol is a gr
 This workshop will teach the aspiring herbalist everything you need to know to make a high-quality tincture. We will go over each step of the process including sourcing herbs and alcohol, measuring the appropriate ratios, macerating the tincture, straining, and finally using your tincture.
 
 Each participant will leave with a jar of herbal tincture and a cheesecloth to strain their tincture at home.
-
----
-
-##### Herb of the Month Series 
-
-> May 28, June 4, July 9 2023, 4-5:30pm, Somerville Community Growing Center
-
-Come spend the afternoon getting deeply acquainted with one medicinal plant
-each month! We’ll spend time getting to know each plant through drawing, taste,
-science, and stories of herbalists’ experience. Bring your journal and leave
-with an in-depth account of botany, history, clinical use, safety, preparation
-and dosage, and much much more.
-
-Come each month to build your materia medica or just once to meet a new plant
-friend!
-
----
-
-##### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
-
-> September 10 2023, 4-5:30pm, Somerville Community Growing Center
-
-Why do all alliums have that strong garlicky smell? How do I know if the dried
-herbs I've had in my cabinet for five years are still good? In this class you
-will begin to practice using your senses to teach you about the chemical
-constituents in your foods and medicine. We will discuss the primary atoms that
-make up plant molecules, and some common forms that they take. You will get to
-see, smell, and taste different preparations of the same herbs to learn the
-flavors and mouthfeel of specific molecules, and to learn which preparations
-extract which constituents. Bring your favorite mug and a pen and come join me
-where experiential and scientific knowledge meet!
