@@ -13,16 +13,16 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 ![](/assets/images/Herb_of_Month_1.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-![](/assets/images/lemon_balm.jpg){: style="float: right; width: 40%"}
+![](/assets/images/1024px-Calendula-Feld_Heilpflanzengarten.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
-### Herb of the Month Series: St John's Wort!
-> June 30th, 4-5:30pm\
+### Herb of the Month Series: Calendula
+> July 21, 4-5:30pm\
 > Somerville Community Growing Center\
 > Free or optional donation\
-> [Register here](https://forms.gle/91RPFRvg6NTuSXp56)
+> [Register here](https://forms.gle/sfboAHGUWn6G6PhJ7)
 
-St John’s Wort may be one of the most well-researched herbs in the medical system! It has been shown to work comparably to SSRIs in depression and is fantastic for nerve pain. However, it is not appropriate for everyone as it can interact with many medications. Stop by the Growing Center to learn more!
+One of the easiest herbs to grow in your garden, calendula is gentle enough to use on babies and powerful enough to heal just about anything. Come play in the garden with us!
 
 ---
 
@@ -32,15 +32,15 @@ St John’s Wort may be one of the most well-researched herbs in the medical sys
 ![](/assets/images/IMG_2236.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
-### June Medicinal Plant Walk - FULL
-> June 26th, 5:30-6:30pm\
-> Somerville Public Library: East Branch\
+### July Medicinal Plant Walk - FULL
+> July 31st, 5:30-6:30pm\
+> Somerville Public Library: West Branch\
 > Free or optional donation\
-> [Add your name to the waitlist](https://somervillepubliclibrary.assabetinteractive.com/calendar/plant-walk-at-east/?mc_cid=6c40851003&mc_eid=08838eb076)
+> [Add your name to the waitlist](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-west/)
 
 Join me for a stroll about town to meet the plants in our neighborhood! We will explore botany and medicinal uses and have lots of space for questions and conversation.
 
-This plant walk is part of a monthly series, held at locations around town including the Somerville Community Growing Center and local libraries. Pre-register for July [here](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-west/).
+This plant walk is part of a monthly series, held at locations around town including the Somerville Community Growing Center and local libraries. Register for August [here](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-the-central-library/).
 
 ---
 
