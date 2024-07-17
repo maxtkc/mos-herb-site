@@ -40,7 +40,7 @@ Yes, marshmallows did originally come from this plant (Althea officinalis)! Come
 ![](/assets/images/Medicinal_Plant_Walks_2024.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-![](/assets/images/west.jpg){: style="float: right; width: 40%"}
+![](/assets/images/west.jpg){: style="float: right; width: 100%"}
 {: style="clear: left"}
 
 ### July Medicinal Plant Walk - FULL
@@ -53,7 +53,7 @@ Join me for a stroll about town to meet the plants in our neighborhood! We will 
 
 This plant walk is part of a monthly series, held at locations around town including the Somerville Community Growing Center and local libraries. Register for August [here](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-the-central-library/).
 
-![](/assets/images/lavender.jpeg){: style="float: right; width: 40%"}
+![](/assets/images/lavender.jpeg){: style="float: left; width: 50%"}
 {: style="clear: left"}
 
 ### Fresh Herb Tea Blending
@@ -64,7 +64,7 @@ This plant walk is part of a monthly series, held at locations around town inclu
 
 Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in the garden to learn about the uses, flavors, and energies of different tea herbs. This class will be primarily play and exploration, with science and botany blended in.
 
-![](/assets/images/IMG_2236.jpg){: style="float: right; width: 40%"}
+![](/assets/images/IMG_2236.jpg){: style="float: right; width: 50%"}
 {: style="clear: left"}
 
 ### Gilman Square Plant Walk
