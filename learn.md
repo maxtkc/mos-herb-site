@@ -24,23 +24,57 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 
 One of the easiest herbs to grow in your garden, calendula is gentle enough to use on babies and powerful enough to heal just about anything. Come play in the garden with us!
 
+![](/assets/images/marshmallow.jpg){: style="float: right; width: 40%"}
+{: style="clear: left"}
+
+### Marshmallow
+> August 18th, 4-5:30pm\
+> Somerville Community Growing Center\
+> Free or optional donation\
+> [Register here](https://forms.gle/QvCEu9Ucjcmnpw478)
+
+Yes, marshmallows did originally come from this plant (Althea officinalis)! Come learn how it can soothe every mucus membrane from a hoarse cough to dryness in the GI tract.
+
 ---
 
 ![](/assets/images/Medicinal_Plant_Walks_2024.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-![](/assets/images/IMG_2236.jpg){: style="float: right; width: 40%"}
+![](/assets/images/west.jpg){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
 ### July Medicinal Plant Walk - FULL
 > July 31st, 5:30-6:30pm\
 > Somerville Public Library: West Branch\
-> Free or optional donation\
+> Free!\
 > [Add your name to the waitlist](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-west/)
 
 Join me for a stroll about town to meet the plants in our neighborhood! We will explore botany and medicinal uses and have lots of space for questions and conversation.
 
 This plant walk is part of a monthly series, held at locations around town including the Somerville Community Growing Center and local libraries. Register for August [here](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-the-central-library/).
+
+![](/assets/images/lavender.jpeg){: style="float: right; width: 40%"}
+{: style="clear: left"}
+
+### Fresh Herb Tea Blending
+> August 4th, 2-3:30pm\
+> Somerville Community Growing Center\
+> Free or optional donation\
+> [Register here](https://forms.gle/s8SLc4GTf26bCqsD6)
+
+Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in the garden to learn about the uses, flavors, and energies of different tea herbs. This class will be primarily play and exploration, with science and botany blended in.
+
+![](/assets/images/IMG_2236.jpg){: style="float: right; width: 40%"}
+{: style="clear: left"}
+
+### Gilman Square Plant Walk
+> August 8th, 6pm\
+> Gilman Pop-Up Park\
+> 350 Medford Street, Somerville, MA\
+> Free!\
+> [Register here](https://forms.gle/u6PYjM3BQaGjDAfy9)
+
+The library plant walks have been filling up quickly, so this month we added another plant walk! CultureHouse and the City of Somerville have collaborated to create an outdoor park in Gilman Square this summer with lots of free programming. If you were not able to register for the July plant walk and are itching to get out and meet the plants of our city streets, this is for you!
 
 ---
 
