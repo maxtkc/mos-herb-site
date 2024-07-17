@@ -40,11 +40,10 @@ Yes, marshmallows did originally come from this plant (Althea officinalis)! Come
 ![](/assets/images/Medicinal_Plant_Walks_2024.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-### July Medicinal Plant Walk - FULL
-
 ![](/assets/images/west.jpg){: style="float: right; width: 100%"}
 {: style="clear: left"}
 
+### July Medicinal Plant Walk - FULL
 > [Add your name to the waitlist](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-west/)
 
 Join me for a stroll about town to meet the plants in our neighborhood! We will explore botany and medicinal uses and have lots of space for questions and conversation.
@@ -53,6 +52,8 @@ This plant walk is part of a monthly series, held at locations around town inclu
 
 ![](/assets/images/lavender.jpeg){: style="float: left; width: 50%"}
 {: style="clear: left"}
+
+---
 
 ### Fresh Herb Tea Blending
 > August 4th, 2-3:30pm\
@@ -64,6 +65,8 @@ Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in th
 
 ![](/assets/images/IMG_2236.jpg){: style="float: right; width: 50%"}
 {: style="clear: left"}
+
+---
 
 ### Gilman Square Plant Walk
 > August 8th, 6pm\
