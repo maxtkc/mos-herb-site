@@ -50,10 +50,10 @@ Join me for a stroll about town to meet the plants in our neighborhood! We will 
 
 This plant walk is part of a monthly series, held at locations around town including the Somerville Community Growing Center and local libraries. Register for August [here](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-the-central-library/).
 
+---
+
 ![](/assets/images/lavender.jpeg){: style="float: left; width: 50%"}
 {: style="clear: left"}
-
----
 
 ### Fresh Herb Tea Blending
 > August 4th, 2-3:30pm\
@@ -63,10 +63,10 @@ This plant walk is part of a monthly series, held at locations around town inclu
 
 Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in the garden to learn about the uses, flavors, and energies of different tea herbs. This class will be primarily play and exploration, with science and botany blended in.
 
+---
+
 ![](/assets/images/IMG_2236.jpg){: style="float: right; width: 50%"}
 {: style="clear: left"}
-
----
 
 ### Gilman Square Plant Walk
 > August 8th, 6pm\
