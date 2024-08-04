@@ -8,7 +8,7 @@ feature_image: "/assets/images/webp/mos_garden.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-This is now the grapes page. Yum
+Grape page in progress! Other herbal garden info below:
 
 {% capture garden_call %}
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
