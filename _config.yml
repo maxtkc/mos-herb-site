@@ -39,8 +39,8 @@ navigation_header:
   url: /work_w_me.html
 - title: Learn
   url: /learn.html
-- title: Grow
-  url: /grow.html
+- title: Grapes
+  url: /grapes.html
 - title: Contact
   url: /contact.html
 
@@ -51,8 +51,8 @@ navigation_footer:
   url: /about.html
 - title: Work with me
   url: /work_w_me.html
-- title: Grow
-  url: /grow.html
+- title: Grapes
+  url: /grapes.html
 - title: Contact
   url: /contact.html
 
