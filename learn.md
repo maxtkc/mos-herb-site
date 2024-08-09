@@ -32,7 +32,7 @@ Yes, marshmallows did originally come from this plant (Althea officinalis)! Come
 ![](/assets/images/central.jpg){: style="float: right; width: 100%"}
 {: style="clear: left"}
 
-### Agust Medicinal Plant Walk - FULL
+### August Medicinal Plant Walk - FULL
 > [Add your name to the waitlist](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-the-central-library/)
 
 Join me for a stroll about town to meet the plants in our neighborhood! We will explore botany and medicinal uses and have lots of space for questions and conversation.
