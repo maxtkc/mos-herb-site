@@ -15,7 +15,7 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 ![](/assets/images/Herb_of_Month_1.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-![](/assets/images/marshmallow.jpg){: style="float: right; width: 40%"}
+![](/assets/images/webp/marshmallow.webp){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
 ### Herb of the Month Series: Marshmallow
@@ -31,7 +31,7 @@ Yes, marshmallows did originally come from this plant (Althea officinalis)! Come
 ![](/assets/images/Medicinal_Plant_Walks_2024.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-![](/assets/images/central.jpg){: style="float: right; width: 100%"}
+![](/assets/images/webp/central.webp){: style="float: right; width: 100%"}
 {: style="clear: left"}
 
 ### August Medicinal Plant Walk - FULL
@@ -45,7 +45,7 @@ This plant walk is part of a monthly series, held at locations around town inclu
 
 ### Past classes:
 
-![](/assets/images/Herbstalk.jpg){: style="float: right; width: 40%"}
+![](/assets/images/webp/Herbstalk.webp){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
 ##### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
@@ -64,7 +64,7 @@ where experiential and scientific knowledge meet!
 
 ---
 
-![](/assets/images/lavender.jpeg){: style="float: left; width: 50%"}
+![](/assets/images/webp/lavender.webp){: style="float: left; width: 50%"}
 {: style="clear: left"}
 
 ### Fresh Herb Tea Blending
@@ -77,7 +77,7 @@ Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in th
 
 ---
 
-![](/assets/images/Syrup.jpeg){: style="float: right; width: 40%"}
+![](/assets/images/webp/Syrup.webp){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
 ##### Herbal Syrup Workshop
