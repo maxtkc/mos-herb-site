@@ -23,3 +23,5 @@ Certainly! While grapes are my specialty, I’m happy to prune any other fruit t
 I just love them! And I deeply believe in supporting our community in growing our own food in our soil as much as possible. While much of the city soil contains lead, woody plants including grapes do not uptake lead into their fruit, making urban fruit an important and safe local food source.
 
 [Contact me](https://mokatzchristy.com/contact.html) to get on my list for 2025!
+
+![](/assets/images/image000002.jpg){: style="float: right; width: 100%"}
