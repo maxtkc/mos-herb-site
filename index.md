@@ -12,9 +12,9 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 
 ![](/assets/images/webp/pink_spikey_flower.webp){: style="float: left; width: 40%"}
 
-Want to work to shift the root patterns that are causing your symptoms, without increasing your medications?
+Want to address the root imbalances that are leading to dysregulation in your body systems?
 
-I can help you advocate for yourself in a conventional setting as well as give you the tools to understand your body from an herbal perspective -- one that integrates modern scientific research with centuries of tradition of botanical uses.
+I can partner with you to understand your body from an herbal perspective – one that integrates modern scientific research with centuries of tradition of botanical uses.
 
 I have experience supporting clients with:
 
@@ -27,7 +27,8 @@ I have experience supporting clients with:
 - gender-affirming hormone therapy
 - immune support
 - allergies and asthma
-- skin issues, inc. MRSA infections and wound healing and much, much more!
+- skin issues
+- and much, much more!
 
 {% include components/subscribe.html %}
 
