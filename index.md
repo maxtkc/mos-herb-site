@@ -10,8 +10,6 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 
 > Healthcare should be personal, thorough, and integrated.
 
-{% include components/subscribe.html %}
-
 ![](/assets/images/webp/pink_spikey_flower.webp){: style="float: left; width: 40%"}
 
 Want to work to shift the root patterns that are causing your symptoms, without increasing your medications?
@@ -30,6 +28,8 @@ I have experience supporting clients with:
 - immune support
 - allergies and asthma
 - skin issues, inc. MRSA infections and wound healing and much, much more!
+
+{% include components/subscribe.html %}
 
 ![](/assets/images/webp/mo_and_friend_laugh.webp){: style="float: right; width: 50%"}
 
