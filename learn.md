@@ -8,7 +8,7 @@ feature_image: "/assets/images/webp/hosing_seeds.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%237CB342&title=Herb%20Classes&src=YTFkMWFhZWFiNDA0ZDNlMDIyYzM2N2E1Mjg0YzJlMTM0NDBhYjJjNWQ2YWVmNmZhNjkxODhiNTRlMmIwYjViM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%23ffffff&title=Herb%20Classes&src=YTFkMWFhZWFiNDA0ZDNlMDIyYzM2N2E1Mjg0YzJlMTM0NDBhYjJjNWQ2YWVmNmZhNjkxODhiNTRlMmIwYjViM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 {% include components/subscribe.html label="Stay up to date with classes by joining my monthly mailing list!" %}
 
