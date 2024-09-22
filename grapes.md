@@ -8,7 +8,7 @@ feature_image: "/assets/images/image_50774017.JPG"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-![](/assets/images/mograpebags.jpg){: style="float: right; width: 40%"}
+![](/assets/images/webp/mograpebags.webp){: style="float: right; width: 40%"}
 
 I offer grape pruning for home arbors in the Boston area! Grape pruning happens January-March, but now is a great time to [get on my list](https://mokatzchristy.com/contact.html) for 2025.\
 \
@@ -24,4 +24,4 @@ I just love them! And I deeply believe in supporting our community in growing ou
 
 [Contact me](https://mokatzchristy.com/contact.html) to get on my list for 2025!
 
-![](/assets/images/image000002.jpg){: style="float: right; width: 100%"}
+![](/assets/images/webp/image000002.webp){: style="float: right; width: 100%"}
