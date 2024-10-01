@@ -16,7 +16,7 @@ Grape arbors provide food (+ drink!), shade, and beauty. But they grow like craz
 
 ---
 
-![](/assets/images/webp/image000002.webp){: style="float: left; width: 40%"}
+![](/assets/images/webp/image000002.webp){: style="float: left; width: 60%"}
 
 **Do you prune other fruit trees?**\
 Certainly! While grapes are my specialty, I’m happy to prune any other fruit trees including apples, pears, peaches, etc.
