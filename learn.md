@@ -15,31 +15,10 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 ![](/assets/images/Herb_of_Month_1.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-![](/assets/images/webp/marshmallow.webp){: style="float: right; width: 40%"}
-{: style="clear: left"}
-
-### Herb of the Month Series: Marshmallow
-> August 18th, 4-5:30pm\
-> Somerville Community Growing Center\
-> Free or optional donation\
-> [Register here](https://forms.gle/QvCEu9Ucjcmnpw478)
-
-Yes, marshmallows did originally come from this plant (Althea officinalis)! Come learn how it can soothe every mucus membrane from a hoarse cough to dryness in the GI tract.
-
 ---
 
 ![](/assets/images/Medicinal_Plant_Walks_2024.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
-
-![](/assets/images/webp/central.webp){: style="float: right; width: 100%"}
-{: style="clear: left"}
-
-### August Medicinal Plant Walk - FULL
-> [Add your name to the waitlist](https://somervillepubliclibrary.assabetinteractive.com/calendar/medicinal-plant-walk-at-the-central-library/)
-
-Join me for a stroll about town to meet the plants in our neighborhood! We will explore botany and medicinal uses and have lots of space for questions and conversation.
-
-This plant walk is part of a monthly series, held at locations around town including the Somerville Community Growing Center and local libraries. Register for September [here](https://cambridgepl.libcal.com/event/12168254).
 
 ---
 
