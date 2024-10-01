@@ -4,11 +4,11 @@ title: Grapes
 feature_text: |
   ## Mo Katz-Christy, Clinical Herbalist
     Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals.
-feature_image: "/assets/images/image_50774017.JPG"
+feature_image: "/assets/images/grapesky.jpg"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-![](/assets/images/grapesky.jpg){: style="float: right; width: 40%"}
+![](/assets/images/webp/mograpebags.webp){: style="float: right; width: 40%"}
 
 I offer grape pruning for home arbors in the Boston area! Grape pruning happens January-March, but now is a great time to [get on my list](https://mokatzchristy.com/contact.html) for 2025.\
 \
