@@ -16,6 +16,8 @@ Grape arbors provide food (+ drink!), shade, and beauty. But they grow like craz
 
 ---
 
+![](/assets/images/webp/image000002.webp){: style="float: left; width: 40%"}
+
 **Do you prune other fruit trees?**\
 Certainly! While grapes are my specialty, I’m happy to prune any other fruit trees including apples, pears, peaches, etc.
 
@@ -23,5 +25,3 @@ Certainly! While grapes are my specialty, I’m happy to prune any other fruit t
 I just love them! And I deeply believe in supporting our community in growing our own food in our soil as much as possible. While much of the city soil contains lead, woody plants including grapes do not uptake lead into their fruit, making urban fruit an important and safe local food source.
 
 [Contact me](https://mokatzchristy.com/contact.html) to get on my list for 2025!
-
-![](/assets/images/webp/image000002.webp){: style="float: right; width: 100%"}
