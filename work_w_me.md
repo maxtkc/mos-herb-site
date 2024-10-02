@@ -44,8 +44,8 @@ and can require more care and attention.
 #### Appointment Pricing
 |------|------|------|
 |Complementary intro call|15 minutes|free!|
-|Initial consult|90-120 minutes|\$120-$200|
-|Follow-up|30-60 minutes|\$60-$100|
+|Initial consult|90-120 minutes|\$120|
+|Follow-up|30-60 minutes|\$60|
 |Bundle|Initial and one follow-up|\$180|
 
 {% capture consultation %}
