@@ -18,26 +18,6 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
   content = intro_call
 %}
 
-{% capture consultation %}
-<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
-<div class="zcal-inline-widget"><a href="https://zcal.co/i/xJPSKcgN">30 Minute Meeting - Schedule a meeting</a></div>
-{% endcapture %}
-
-{% include components/dropdown.html 
-  title = "Schedule a consultation"
-  content = consultation
-%}
-
-{% capture follow_up %}
-<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
-<div class="zcal-inline-widget"><a href="https://zcal.co/i/bKxLxPnA">30 Minute Meeting - Schedule a meeting</a></div>
-{% endcapture %}
-
-{% include components/dropdown.html 
-  title = "Schedule a follow up"
-  content = follow_up
-%}
-
 ![Mo Finds Tree](/assets/images/webp/mo_reaches_into_tree.webp){: style="float: right; width: 40%"}
 
 Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other. For most people, this is your first time meeting with a clinical herbalist and it can be helpful to talk through what you're looking for and see if I might be able to support you.
@@ -68,6 +48,26 @@ and can require more care and attention.
 |Initial consult|90-120 minutes|\$120|
 |Follow-up|30-60 minutes|\$60|
 |Bundle||Initial and two follow-ups for \$200|
+
+{% capture consultation %}
+<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
+<div class="zcal-inline-widget"><a href="https://zcal.co/i/xJPSKcgN">30 Minute Meeting - Schedule a meeting</a></div>
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Schedule a consultation"
+  content = consultation
+%}
+
+{% capture follow_up %}
+<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
+<div class="zcal-inline-widget"><a href="https://zcal.co/i/bKxLxPnA">30 Minute Meeting - Schedule a meeting</a></div>
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Schedule a follow up"
+  content = follow_up
+%}
 
 #### Cost of herbs
 
