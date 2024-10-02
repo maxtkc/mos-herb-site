@@ -27,6 +27,12 @@ To subscribe to the calendar, click the +GoogleCalendar button on the bottom rig
 \
 Not seeing a class you’re interested in? Interested in bringing me to your organization or workplace? [Contact me!](https://mokatzchristy.com/contact.html)
 
+![](/assets/images/smartbear.jpg){: style="float: left; width: 25%"}
+{: style="clear: left"}
+
+![](/assets/images/mint.jpg){: style="float: left; width: 25%"}
+{: style="clear: left"}
+
 ---
 
 ### Past classes:
