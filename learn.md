@@ -37,7 +37,7 @@ Not seeing a class you’re interested in? Interested in bringing me to your org
 
 ##### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
 > June 2nd, 11am-12:30pm\
-> Herbstalk @ the Armory\
+> Herbstalk @ the Armory
 
 Why do all alliums have that strong garlicky smell? How do I know if the dried
 herbs I've had in my cabinet for five years are still good? In this class you
@@ -69,7 +69,7 @@ Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in th
 
 ##### Herbal Syrup Workshop
 > June 6th, 6-8pm\
-> Culture House Union Square\
+> Culture House Union Square
 
 The sweetness of honey combined with the flavorful tartness of medicinal berries…come learn how to make an herbal syrup! In this class, we will discuss what herbal syrups are, what they are used for, and how to make one.
 
@@ -82,7 +82,7 @@ We will make an elderberry syrup together — bring $5 and a jar if you’d like
 
 ##### Bridgerton Afternoon Tea
 > June 9th, 2pm\
-> Somerville Library: Main Branch\
+> Somerville Library: Main Branch
 
 Please join us on Sunday, June 9th in the Central Library Auditorium for Bridgerton Afternoon Tea! Come celebrate the release of Season 3 of Bridgerton (attention all Penelope and Colin --Polin -- fans!) with a tasting of teas donated by Mem Tea, light refreshments, a presentation on tea blending by local herbalist Mo Katz-Christy, and Bridgerton trivia. 
 
@@ -95,7 +95,7 @@ Fancy dress is highly encouraged, and RSVP-ing in the form of registration is th
 
 ##### Demystifying Tea Blending
 > May 19th, 6:30-8pm\
-> Cambridge Naturals\
+> Cambridge Naturals
 
 Move beyond tea bags and learn how to make a delicious, medicinal, loose-leaf herbal tea blend! In this class, we will discuss a handful of common herbs for tea: their uses, flavors, energies, and what they add to a blend. We will smell and taste each of the herbs, learning how the flavors blend and complement each other.
 
