@@ -42,12 +42,11 @@ onions -- once we peel one layer away we discover another layer to care for --
 and can require more care and attention.
 
 #### Appointment Pricing
-
 |------|------|------|
 |Complementary intro call|15 minutes|free!|
-|Initial consult|90-120 minutes|\$120|
-|Follow-up|30-60 minutes|\$60|
-|Bundle||Initial and two follow-ups for \$200|
+|Initial consult|90-120 minutes|\$120-$200|
+|Follow-up|30-60 minutes|\$60-$100|
+|Bundle|Initial and one follow-up|\$180|
 
 {% capture consultation %}
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
@@ -69,10 +68,13 @@ and can require more care and attention.
   content = follow_up
 %}
 
+#### Low-income herbal consults
+I offer one $10 initial consultation and one $5 follow-up per month. These are available first come, first served, and are for clients who cannot afford my full prices. You can request one of these sessions by writing "$10/$5 consult" in the "notes" section of the scheduler above. I cannot offer sliding scale herbs since I don't use my own apothecary (see below).
+
 #### Cost of herbs
 
 Herbs can cost anywhere from \$50-\$200 per month. You are welcome to source
-your herbs anywhere and I can support you in using foods or lower-cost remedies
+your herbs anywhere and I can support you in using foods and lower-cost remedies
 to work within your budget. I primarily use [Heart Hand Lands apothecary](https://hearthandland.com/) for my
 clients’ formulas because they source quality, sustainable, relatively
 affordable herbs. I do not receive any income from the sale of herbs.
