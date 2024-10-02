@@ -14,7 +14,7 @@ I teach classes at libraries, community centers, herb stores, farms, software co
 
 To subscribe to the calendar, click the +GoogleCalendar button on the bottom right
 
-{% include components/subscribe.html label="To stay up to date with classes, joining my monthly mailing list!" %}
+{% include components/subscribe.html label="To stay up to date with classes, join my monthly mailing list!" %}
 
 ![](/assets/images/Herb_of_Month_1.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
