@@ -10,7 +10,7 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 
 > Healthcare should be personal, thorough, and integrated.
 
-![](/assets/images/webp/pink_spikey_flower.webp){: style="float: left; width: 40%"}
+![](/assets/images/webp/pink_spikey_flower.webp){: style="float: right; width: 40%"}
 
 Want to address the root imbalances that are leading to dysregulation in your body systems?
 
