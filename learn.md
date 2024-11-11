@@ -12,9 +12,11 @@ I teach classes at libraries, community centers, herb stores, farms, software co
  
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%23ffffff&title=Herb%20Classes&showTitle=0&src=YTFkMWFhZWFiNDA0ZDNlMDIyYzM2N2E1Mjg0YzJlMTM0NDBhYjJjNWQ2YWVmNmZhNjkxODhiNTRlMmIwYjViM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-To subscribe to the calendar, click the +GoogleCalendar button on the bottom right
+To subscribe to the calendar, click "add to Google Calendar" (it may look differently on different devices)
 
-{% include components/subscribe.html label="To stay up to date with classes, join my monthly mailing list!" %}
+{% include components/subscribe.html label="Join my monthly mailing list!" %}
+
+This is where I share the classes I'm teaching each month and any updates. Very straightforward, no nonsense!
 
 ![](/assets/images/Herb_of_Month_1.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
