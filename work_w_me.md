@@ -72,7 +72,7 @@ and can require more care and attention.
 %}
 
 #### Low-income herbal consults
-I offer one $10 initial consultation and one $5 follow-up per month. These are available first come, first served, and are for clients who cannot afford my full prices. You can request one of these sessions by writing "$10/$5 consult" in the "notes" section of the scheduler above. I cannot offer sliding scale herbs since I don't use my own apothecary (see below).
+I offer a limited number of $10 initial consultations and $5 follow-ups per month. These are available first come, first served, and are for clients who cannot afford my full prices. You can request one of these sessions by writing "$10/$5 consult" in the "notes" section of the scheduler above. I cannot offer sliding scale herbs since I don't use my own apothecary (see below).
 
 #### Cost of herbs
 
