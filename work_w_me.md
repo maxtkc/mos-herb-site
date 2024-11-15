@@ -22,6 +22,8 @@ excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help
 
 Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other. For most people, this is your first time meeting with a clinical herbalist and it can be helpful to talk through what you're looking for and see if I might be able to support you.
 
+None of the above times work? Send me a message at mkatzchristy (at) gmail.com with your availability, and I'll see what I'm able to do!
+
 #### What does an herbal consult look like?
 
 We meet for 1.5-2 hours for a thorough conversation where we go through all of your
