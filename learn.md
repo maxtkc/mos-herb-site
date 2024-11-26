@@ -37,7 +37,7 @@ Not seeing a class you’re interested in? Interested in bringing me to your org
 {: style="clear: left"}
 
 ##### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
-> Herbstalk @ the Armory
+> [Herbstalk](https://www.herbstalk.org/) @ the Armory
 
 Why do all alliums have that strong garlicky smell? How do I know if the dried
 herbs I've had in my cabinet for five years are still good? In this class you
@@ -50,6 +50,18 @@ extract which constituents. Bring your favorite mug and a pen and come join me
 where experiential and scientific knowledge meet!
 
 ---
+
+![](/assets/images/cambridgenaturals_cr.jpg){: style="float: right; width: 40%"}
+{: style="clear: left"}
+
+##### From Chicken Soup to Elderberry Syrup: Herbal Immune Support
+> [Cambridge Naturals](https://www.cambridgenaturals.com/)
+
+Something going around the daycare again? Still coughing from an infection that cleared months ago? From Covid to the common cold, keeping our immune system resilient is key to staying well and smooth recovery from infections.
+
+Come learn how to keep your immune system robust all winter, address an illness when you first feel symptoms, support your body to fully clear the infection, and regain strength afterwards. Believe it or not, each of these stages of illness requires a different approach!
+
+We will discuss herbs, foods, and supportive strategies, focusing on the most accessible methods. We will discuss different herbal preparations including steams, syrups, tinctures. From chicken soup to elderberry syrup, this class will help you weather the infections that come your way.
 
 ![](/assets/images/webp/lavender.webp){: style="float: left; width: 50%"}
 {: style="clear: left"}
