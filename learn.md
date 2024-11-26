@@ -33,7 +33,7 @@ Not seeing a class you’re interested in? Interested in bringing me to your org
 
 ### Past classes:
 
-![](/assets/images/webp/Herbstalk.webp){: style="float: right; width: 40%"}
+![](/assets/images/webp/Herbstalk.webp){: style="float: left; width: 40%"}
 {: style="clear: left"}
 
 ##### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
@@ -66,7 +66,7 @@ We will discuss herbs, foods, and supportive strategies, focusing on the most ac
 ![](/assets/images/webp/lavender.webp){: style="float: left; width: 50%"}
 {: style="clear: left"}
 
-### Fresh Herb Tea Blending
+##### Fresh Herb Tea Blending
 > Somerville Community Growing Center
 
 Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in the garden to learn about the uses, flavors, and energies of different tea herbs. This class will be primarily play and exploration, with science and botany blended in.
@@ -85,7 +85,7 @@ We will make an elderberry syrup together — bring $5 and a jar if you’d like
 
 ---
 
-![](/assets/images/Bridgerton.png){: style="float: right; width: 40%"}
+![](/assets/images/Bridgerton.png){: style="float: left; width: 40%"}
 {: style="clear: left"}
 
 ##### Bridgerton Afternoon Tea
@@ -113,7 +113,7 @@ All attendees will receive a 15% off coupon to Cambridge Naturals
 
 ---
 
-![](/assets/images/abundancefarm.jpg){: style="float: right; width: 40%"}
+![](/assets/images/abundancefarm.jpg){: style="float: right; width: 50%"}
 {: style="clear: left"}
 
 ##### Medicine on the Seder Plate: Parlsey, Lettuce, Horseradish, and More!
@@ -131,7 +131,7 @@ Supported in part by a grant from the Harold Grinspoon Foundation.
 
 ---
 
-![](/assets/images/tincturemaking.jpeg){: style="float: right; width: 40%"}
+![](/assets/images/tincturemaking.jpeg){: style="float: left; width: 40%"}
 {: style="clear: left"}
 
 ##### Herbal Tincture-Making Workshop
