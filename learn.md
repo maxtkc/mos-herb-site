@@ -116,6 +116,9 @@ Supported in part by a grant from the Harold Grinspoon Foundation.
 
 ---
 
+![](/assets/images/tincturemaking.jpeg){: style="float: right; width: 40%"}
+{: style="clear: left"}
+
 ##### Herbal Tincture-Making Workshop
 
 > March 28th, 6-8pm, Union Square Culture House
