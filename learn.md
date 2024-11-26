@@ -101,6 +101,9 @@ All attendees will receive a 15% off coupon to Cambridge Naturals
 
 ---
 
+![](/assets/images/abundancefarm.jpg){: style="float: right; width: 40%"}
+{: style="clear: left"}
+
 ##### Medicine on the Seder Plate: Parlsey, Lettuce, Horseradish, and More!
 > [Abundance Farm](https://www.abundancefarm.org/)\
 > [Kavod Boston](https://www.kavodboston.org/)
