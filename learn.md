@@ -8,7 +8,7 @@ feature_image: "/assets/images/webp/hosing_seeds.webp"
 excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
 ---
 
-I teach classes at libraries, community centers, herb stores, farms, software companies, and more! Details and registration information for all upcoming classes is available on this calendar:
+I teach classes at libraries, community centers, herb stores, farms, software companies, schools, and more! Details and registration information for all upcoming classes is available on this calendar:
  
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%23ffffff&title=Herb%20Classes&showTitle=0&src=YTFkMWFhZWFiNDA0ZDNlMDIyYzM2N2E1Mjg0YzJlMTM0NDBhYjJjNWQ2YWVmNmZhNjkxODhiNTRlMmIwYjViM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -37,7 +37,6 @@ Not seeing a class you’re interested in? Interested in bringing me to your org
 {: style="clear: left"}
 
 ##### Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
-> June 2nd, 11am-12:30pm\
 > Herbstalk @ the Armory
 
 Why do all alliums have that strong garlicky smell? How do I know if the dried
@@ -56,10 +55,7 @@ where experiential and scientific knowledge meet!
 {: style="clear: left"}
 
 ### Fresh Herb Tea Blending
-> August 4th, 2-3:30pm\
-> Somerville Community Growing Center\
-> Free or optional donation\
-> [Register here](https://forms.gle/s8SLc4GTf26bCqsD6)
+> Somerville Community Growing Center
 
 Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in the garden to learn about the uses, flavors, and energies of different tea herbs. This class will be primarily play and exploration, with science and botany blended in.
 
@@ -69,7 +65,6 @@ Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in th
 {: style="clear: left"}
 
 ##### Herbal Syrup Workshop
-> June 6th, 6-8pm\
 > Culture House Union Square
 
 The sweetness of honey combined with the flavorful tartness of medicinal berries…come learn how to make an herbal syrup! In this class, we will discuss what herbal syrups are, what they are used for, and how to make one.
@@ -82,7 +77,6 @@ We will make an elderberry syrup together — bring $5 and a jar if you’d like
 {: style="clear: left"}
 
 ##### Bridgerton Afternoon Tea
-> June 9th, 2pm\
 > Somerville Library: Main Branch
 
 Please join us on Sunday, June 9th in the Central Library Auditorium for Bridgerton Afternoon Tea! Come celebrate the release of Season 3 of Bridgerton (attention all Penelope and Colin --Polin -- fans!) with a tasting of teas donated by Mem Tea, light refreshments, a presentation on tea blending by local herbalist Mo Katz-Christy, and Bridgerton trivia. 
@@ -95,7 +89,6 @@ Fancy dress is highly encouraged, and RSVP-ing in the form of registration is th
 {: style="clear: left"}
 
 ##### Demystifying Tea Blending
-> May 19th, 6:30-8pm\
 > Cambridge Naturals
 
 Move beyond tea bags and learn how to make a delicious, medicinal, loose-leaf herbal tea blend! In this class, we will discuss a handful of common herbs for tea: their uses, flavors, energies, and what they add to a blend. We will smell and taste each of the herbs, learning how the flavors blend and complement each other.
@@ -109,8 +102,8 @@ All attendees will receive a 15% off coupon to Cambridge Naturals
 ---
 
 ##### Medicine on the Seder Plate: Parlsey, Lettuce, Horseradish, and More!
-> April 7th 1-2:30pm, [Abundance Farm](https://www.abundancefarm.org/)\
-> April 14th 1-2:30pm, [Kavod Boston](https://www.kavodboston.org/)
+> [Abundance Farm](https://www.abundancefarm.org/)\
+> [Kavod Boston](https://www.kavodboston.org/)
 
 Bitter herbs, spring greens -- these plants contain nutrients and flavors that are essential to our springtime bodies. In this class, we will explore the physiological wisdom in the plants we hold sacred. We will delve into the bitter flavor, as we discuss why neither horseradish nor lettuce -- the foods often included as “bitter herbs” on the seder plate -- are particularly bitter. We will learn about the vital importance of the bitter flavor for the functioning of our body systems, as well as the uses of the other flavors in these plants.
 {: style="clear: right"}
