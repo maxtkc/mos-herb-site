@@ -26,10 +26,7 @@ None of the above times work? Send me a message at mkatzchristy (at) gmail.com w
 
 #### What does an herbal consult look like?
 
-We meet for 1.5-2 hours for a thorough conversation where we go through all of your
-body systems and see which patterns might be at the root of the symptoms you are
-experiencing. I spend ~2-3 hours afterwards researching and writing up
-a thorough protocol for you, which I’ll send to you by email. Once we settle on a protocol
+We meet for 1.5-2 hours for a thorough conversation in which I listen to your story and we try to uncover which patterns might be at the root of your symptoms. Afterwards, I'll do some research and then send you detailed recommendations including herbal formulas, food guidance (if you'd like it) and other guidance (blood tests, movement/massage, referrals to other practitioners). Once we settle on a protocol
 that you feel excited about, I’ll send the formulas to an apothecary to be
 filled, and you’ll receive your herbs in the mail.
 
