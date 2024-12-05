@@ -14,7 +14,7 @@ The body has an inherent capacity to heal, and Mo uses plants to help support th
 
 Mo is a queer Ashkenazi Jew who grew up tending and harvesting roadside fruit trees and arbors with their family in Boston, on Massachusett and Pawtucket land. They have been working with plants and people since childhood and are so grateful for this early connection to food and community. They currently work as a landscaper for Gardens by Ruth and incorporate medicinal herbs into clients’ gardens.
 
-![](/assets/images/hhfarm.jpeg){: style="float: left; width: 50%"}
+![](/assets/images/webp/hhfarm.webp){: style="float: left; width: 50%"}
 
 Mo spent three years studying herbalism in-depth at the Vermont Center for Integrative Herbalism. In their final year they worked in the sliding-scale student clinic, where they saw dozens of clients and received support from their colleagues and teachers. They feel so fortunate to have learned from many brilliant teachers with differing perspectives including Betzy Bancroft, Larken Bunce, Linden de Voil, Kristin Henningsen, Guido Masé, Ember Peters, and many others. They continue to learn from the plants and from lectures, books, and conferences — and from their garden and kitchen!
 

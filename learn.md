@@ -51,7 +51,7 @@ where experiential and scientific knowledge meet!
 
 ---
 
-![](/assets/images/cambridgenaturals_cr.jpg){: style="float: right; width: 40%"}
+![](/assets/images/webp/cambridgenaturals_cr.webp){: style="float: right; width: 40%"}
 {: style="clear: left"}
 
 ##### From Chicken Soup to Elderberry Syrup: Herbal Immune Support
@@ -113,7 +113,7 @@ All attendees will receive a 15% off coupon to Cambridge Naturals
 
 ---
 
-![](/assets/images/abundancefarm.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/abundancefarm.webp){: style="float: right; width: 50%"}
 {: style="clear: left"}
 
 ##### Medicine on the Seder Plate: Parlsey, Lettuce, Horseradish, and More!
@@ -131,7 +131,7 @@ Supported in part by a grant from the Harold Grinspoon Foundation.
 
 ---
 
-![](/assets/images/tincturemaking.jpeg){: style="float: left; width: 40%"}
+![](/assets/images/webp/tincturemaking.webp){: style="float: left; width: 40%"}
 {: style="clear: left"}
 
 ##### Herbal Tincture-Making Workshop

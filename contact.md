@@ -4,7 +4,7 @@ title: Contact
 feature_text: |
   ## Mo Katz-Christy, Clinical Herbalist
     Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals.
-feature_image: "/assets/images/leaves1.jpg"
+feature_image: "/assets/images/webp/leaves1.webp"
 ---
 
 {% include components/subscribe.html %}
