@@ -159,3 +159,11 @@ p img[style*="float: left"] {
 ul.fancy-list {
     list-style-type: '⮚ ';
 }
+
+a {
+    color: #006244;
+}
+
+.item--current a {
+    color: #606060;
+}
