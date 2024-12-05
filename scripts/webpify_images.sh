@@ -6,7 +6,7 @@ REPO_DIR=$( dirname "$SCRIPT_DIR" )
 IMG_DIR="$REPO_DIR/assets/images"
 
 # Loop through each image
-for file in "$IMG_DIR"/*.{jpg,jpeg};
+for file in "$IMG_DIR"/*.{jpg,jpeg,png};
 do
     full_filename=$(basename -- "$file");
     filename="${full_filename%.*}"
