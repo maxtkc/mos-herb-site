@@ -18,12 +18,12 @@ To subscribe to the calendar, click "add to Google Calendar" (it may look differ
 
 This is where I share the classes I'm teaching each month and any updates. Very straightforward, no nonsense!
 
-![](/assets/images/Herb_of_Month_1.png){: style="float: left; width: 100%"}
+![](/assets/images/webp/Herb_of_Month_1.webp){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
 ---
 
-![](/assets/images/Medicinal_Plant_Walks_2024.png){: style="float: left; width: 100%"}
+![](/assets/images/webp/Medicinal_Plant_Walks_2024.webp){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
 \
@@ -85,7 +85,7 @@ We will make an elderberry syrup together — bring $5 and a jar if you’d like
 
 ---
 
-![](/assets/images/Bridgerton.png){: style="float: left; width: 40%"}
+![](/assets/images/webp/Bridgerton.webp){: style="float: left; width: 40%"}
 {: style="clear: left"}
 
 ##### Bridgerton Afternoon Tea
