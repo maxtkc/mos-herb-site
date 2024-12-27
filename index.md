@@ -23,7 +23,7 @@ I have experience supporting clients with:
 - sleep issues
 - depression and anxiety
 - migraines
-- GI dysregulation - diverticulitis, constipation, etc.
+- GI dysregulation - IBS, diverticulitis, constipation, etc.
 - gender-affirming hormone therapy
 - immune support
 - allergies and asthma
