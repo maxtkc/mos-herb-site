@@ -106,3 +106,14 @@ fonts:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      feature_text: |
+        ## Mo Katz-Christy
+        ##### Clinical Herbalist
+      excerpt: "Work with herbs, dietary supports, and gentle lifestyle shifts to help you meet your health goals."
