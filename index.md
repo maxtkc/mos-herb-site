@@ -15,7 +15,7 @@ I can partner with you to understand your body from an herbal perspective – on
 I have experience supporting clients with:
 
 - diabetes
-- Hashimoto’s thyroiditis and fatigue
+- thyroid imbalances and fatigue
 - sleep issues
 - depression and anxiety
 - migraines
