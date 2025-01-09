@@ -51,10 +51,14 @@ navigation_footer:
   url: /about.html
 - title: Work with me
   url: /work_w_me.html
+- title: Learn
+  url: /learn.html
 - title: Grapes
   url: /grapes.html
 - title: Contact
   url: /contact.html
+- title: Privacy Policy
+  url: /privacy.html
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
