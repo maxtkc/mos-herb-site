@@ -74,6 +74,8 @@ Come learn how to keep your immune system robust all winter, address an illness 
 
 We will discuss herbs, foods, and supportive strategies, focusing on the most accessible methods. We will discuss different herbal preparations including steams, syrups, tinctures. From chicken soup to elderberry syrup, this class will help you weather the infections that come your way.
 
+---
+
 ![](/assets/images/webp/lavender.webp){: style="float: left; width: 50%"}
 {: style="clear: left"}
 
