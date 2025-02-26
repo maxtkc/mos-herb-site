@@ -4,7 +4,7 @@ title: Upcoming Community Classes
 feature_image: "/assets/images/webp/hosing_seeds.webp"
 ---
 
-I teach classes at libraries, community centers, herb stores, farms, software companies, schools, and more! Details and registration information for all upcoming classes is available on this calendar:
+I teach classes at libraries, community centers, herb stores, farms, schools, and more! Details and registration information for all upcoming classes is available on this calendar:
  
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%23ffffff&title=Herb%20Classes&showTitle=0&src=YTFkMWFhZWFiNDA0ZDNlMDIyYzM2N2E1Mjg0YzJlMTM0NDBhYjJjNWQ2YWVmNmZhNjkxODhiNTRlMmIwYjViM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -14,16 +14,31 @@ To subscribe to the calendar, click "add to Google Calendar" (it may look differ
 
 This is where I share the classes I'm teaching each month and any updates. Very straightforward, no nonsense!
 
-![](/assets/images/webp/Herb_of_Month_1.webp){: style="float: left; width: 100%"}
+![](/assets/images/Herb_of_the_Month_2025.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
 ---
 
-![](/assets/images/webp/Medicinal_Plant_Walks_2024.webp){: style="float: left; width: 100%"}
+![](/assets/images/Medicinal_Plant_Walks_2025.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
-\
-Not seeing a class you’re interested in? Interested in bringing me to your organization or workplace? [Contact me!](https://mokatzchristy.com/contact.html)
+---
+
+![](/assets/images/Curio.jpg){: style="float: left; width: 40%"}
+{: style="clear: left"}
+
+### The Art of Medicinal Spice Blending
+> [Curio Spice Lab](https://www.eventbrite.com/e/the-art-of-medicinal-spice-blending-tickets-1236338915979?aff=odcleoeventsincollection)\
+> Thursday, March 6, 7-8:30pm\
+> [Registration Required](https://www.eventbrite.com/e/the-art-of-medicinal-spice-blending-tickets-1236338915979?aff=odcleoeventsincollection)
+
+Food is medicine! And medicine can taste delicious.
+
+Did you know that we have far more bitter taste receptors than any other, and when we taste something bitter our whole body reacts? Or that aromatic molecules ease gut spasms by irritating our smooth muscles so that they contract and then relax?
+
+Come deepen your understanding of how flavor shows up physiologically in our bodies! In this class, we will learn how to use common kitchen spices to promote circulation, ease gut spasms, modulate blood sugar and more!
+
+After we’ve fully nerded out on chemistry, Mo will guide the class in making our own medicinal spice blends! Each participant will have the opportunity to make their own individualized blend to take home for their household or to gift to someone they love. Part science, part play, this class is for anyone who knows that cooking is the best way to care for our communities.
 
 ---
 
