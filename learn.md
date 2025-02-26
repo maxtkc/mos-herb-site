@@ -140,8 +140,6 @@ We will discuss how our body’s needs correspond with the seasons of the year, 
 
 Join us for an herbal exploration into the plants of the seder plate!
 
-Supported in part by a grant from the Harold Grinspoon Foundation.
-
 ---
 
 ![](/assets/images/webp/tincturemaking.webp){: style="float: left; width: 40%"}
@@ -149,10 +147,23 @@ Supported in part by a grant from the Harold Grinspoon Foundation.
 
 ##### Herbal Tincture-Making Workshop
 
-> March 28th, 6-8pm, Union Square Culture House
+> Union Square Culture House
 
 Learn how to make an alcoholic herbal extract! Infusing herbs in alcohol is a great way to preserve them so that you have them readily on hand. And they last for years!
 
 This workshop will teach the aspiring herbalist everything you need to know to make a high-quality tincture. We will go over each step of the process including sourcing herbs and alcohol, measuring the appropriate ratios, macerating the tincture, straining, and finally using your tincture.
 
 Each participant will leave with a jar of herbal tincture and a cheesecloth to strain their tincture at home.
+
+---
+
+![](/assets/images/TBZ_trees.png){: style="float: right; width: 40%"}
+{: style="clear: right"}
+
+##### Tu BiShvat: Trees as Medicine
+
+> [Temple Beth Zion](https://www.tbzbrookline.org/events/trees-as-medicine-for-tu-bishvat-with-mo-katz-christy/) and [Kavod Boston](https://kavodboston.org/)
+
+Trees play a powerful role in medicine, both herbally and extracted in our pharmaceuticals. In this class, we will learn which herbal actions trees most commonly have. We will explore the chemistry behind those actions and the benefits they offer the trees and humans. We will taste some local tree medicines and learn about some of the trees used in Jewish rituals.
+
+Come celebrate Tu BiShvat by learning a new way to love trees!
