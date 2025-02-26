@@ -43,6 +43,7 @@ After we’ve fully nerded out on chemistry, Mo will guide the class in making o
 ---
 
 ### Past classes:
+Please reach out if you'd like to me to teach one of these for your organization!
 
 ![](/assets/images/webp/Herbstalk.webp){: style="float: left; width: 40%"}
 {: style="clear: left"}
