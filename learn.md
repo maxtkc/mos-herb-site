@@ -42,7 +42,7 @@ After we’ve fully nerded out on chemistry, Mo will guide the class in making o
 
 ---
 
-> _ "There are so many things to appreciate about Mo's "how" in leading us, including honoring plants as our community members and elders and giving us all permission to set aside the notebook and relish in wonder. Mo is a fabulous educator! _
+> "There are so many things to appreciate about Mo's "how" in leading us, including honoring plants as our community members and elders and giving us all permission to set aside the notebook and relish in wonder. Mo is a fabulous educator!"
 
 ---
 
