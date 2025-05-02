@@ -28,9 +28,9 @@ This is where I share the classes I'm teaching each month and any updates. Very 
 {: style="clear: left"}
 
 ### The Art of Medicinal Spice Blending
-> [Curio Spice Lab](https://www.eventbrite.com/e/the-art-of-medicinal-spice-blending-tickets-1236338915979?aff=odcleoeventsincollection)\
-> Thursday, March 6, 7-8:30pm\
-> [Registration Required](https://www.eventbrite.com/e/the-art-of-medicinal-spice-blending-tickets-1236338915979?aff=odcleoeventsincollection)
+> [Curio Spice Lab](https://www.eventbrite.com/cc/classes-workshops-1770319?utm-campaign=social&utm-content=creatorshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=escb)\
+> Recurring dates - check the site for upcoming ones!
+> [Registration Required](https://www.eventbrite.com/cc/classes-workshops-1770319?utm-campaign=social&utm-content=creatorshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=escb)
 
 Food is medicine! And medicine can taste delicious.
 
