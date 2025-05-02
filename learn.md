@@ -12,8 +12,6 @@ To subscribe to the calendar, click "add to Google Calendar" (it may look differ
 
 {% include components/subscribe.html label="Join my monthly mailing list!" %}
 
-This is where I share the classes I'm teaching each month and any updates. Very straightforward, no nonsense!
-
 ![](/assets/images/Herb_of_the_Month_2025.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 
