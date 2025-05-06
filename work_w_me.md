@@ -65,7 +65,7 @@ and can require more care and attention.
 %}
 
 #### Low-income herbal consults
-I offer a limited number of $10 initial consultations and $5 follow-ups. These are available first come, first served, and are for clients who cannot afford my full prices. You can request one of these sessions by writing "$10/$5 consult" in the "notes" section of the scheduler above. I cannot offer sliding scale herbs since I don't use my own apothecary (see below).
+I offer a limited number of $10 initial consultations and $5 follow-ups. These are available first come, first served, and are for clients who cannot afford my full prices. If you're interested in one of these sessions, please let me know during our intro call and I can tell you when the next one is available. I cannot offer sliding scale herbs since I don't use my own apothecary (see below).
 
 #### Cost of herbs
 
@@ -73,4 +73,4 @@ Herbs can cost anywhere from \$50-\$200 per month. You are welcome to source
 your herbs anywhere and I can support you in using foods and lower-cost remedies
 to work within your budget. I primarily use [Heart Hand Lands apothecary](https://hearthandland.com/) for my
 clients’ formulas because they source quality, sustainable, relatively
-affordable herbs. I do not receive any income from the sale of herbs.
+affordable herbs.
