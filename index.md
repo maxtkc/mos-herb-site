@@ -10,7 +10,7 @@ feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 
 Want to address the root imbalances that are leading to dysregulation in your body systems?
 
-I can partner with you to understand your body from an herbal perspective – one that integrates modern scientific research with centuries of tradition of botanical uses.
+I can partner with you to understand your body from an herbal perspective – one that integrates scientific research with traditional botanical uses.
 
 I have experience supporting clients with:
 
