@@ -16,7 +16,7 @@ feature_image: "/assets/images/webp/planting_seeds.webp"
 
 ![Mo Finds Tree](/assets/images/webp/mo_reaches_into_tree.webp){: style="float: right; width: 40%"}
 
-Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other. For most people, this is your first time meeting with a clinical herbalist and it can be helpful to talk through what you're looking for and see if I might be able to support you.
+Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other! For most people, this is your first time meeting with a clinical herbalist. We talk through what you're looking for and see if I might be able to support you.
 
 None of the above times work? Send me a message at mkatzchristy (at) gmail.com with your availability, and I'll see what I'm able to do!
 
