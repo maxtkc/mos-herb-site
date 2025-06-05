@@ -6,7 +6,7 @@ feature_image: "/assets/images/webp/grapesky.webp"
 
 ![](/assets/images/webp/mograpebags.webp){: style="float: right; width: 40%"}
 
-I offer grape pruning for home arbors in the Boston area! Grape pruning happens January-March, but now is a great time to [get on my list](https://mokatzchristy.com/contact.html) for 2025.\
+I offer grape pruning for home arbors in the Boston area! Grape pruning happens January-March, but now is a great time to [get on my list](https://mokatzchristy.com/contact.html) for 2026.\
 \
 Grape arbors provide food (+ drink!), shade, and beauty. But they grow like crazy and can be a nuisance to maintain! Pruning removes dead branches, reduces mold, and allows grapes to form in neat bunches for easy harvest. No arbor is too overgrown or too tidy!
 
