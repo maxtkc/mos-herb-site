@@ -14,7 +14,7 @@ feature_image: "/assets/images/webp/planting_seeds.webp"
   content = intro_call
 %}
 
-![Picking Roses](/assets/images/pickingroses.jpg){: style="float: right; width: 100%"}
+![Picking Roses](/assets/images/pickingroses.jpg){: style="float: right; width: 60%"}
 
 Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other! For most people, this is your first time meeting with a clinical herbalist. We talk through what you're looking for and see if I might be able to support you.
 
