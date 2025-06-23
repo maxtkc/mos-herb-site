@@ -28,7 +28,7 @@ filled, and you’ll receive your herbs in the mail.
 
 #### How often do we check in?
 
-![Picking Roses](/assets/images/roses.jpg){: style="float: left; width: 50%"}
+![Picking Roses](/assets/images/roses.jpg){: style="float: left; width: 30%"}
 
 As often as feels productive to you! Often, it is hard for us to track our own
 process -- I have clients who forget they used to have headaches and are
