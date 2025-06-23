@@ -4,7 +4,7 @@ title: About
 feature_image: "/assets/images/webp/little_pink_flowers.webp"
 ---
 
-![](/assets/images/webp/mo_has_a_mug.webp){: style="float: right; width: 60%"}
+![](/assets/images/webp/moginkgomedford.webp){: style="float: right; width: 60%"}
 
 The body has an inherent capacity to heal, and Mo uses plants to help support that capacity. They know what it’s like to feel at the end of your rope with the healthcare system, and also what it’s like to find healing beyond that place. They work to help clients connect to the knowledge that you already have about your body and herbs through exploring your ancestral traditions, community networks, and gardens and kitchens — especially if you don’t believe you have this knowledge!
 
