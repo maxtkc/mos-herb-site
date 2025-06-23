@@ -6,7 +6,7 @@ feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 
 > Healthcare should be personal, thorough, and integrated.
 
-![](/assets/images/webp/moginkgomedford.webp){: style="float: right; width: 50%"}
+![](/assets/images/webp/mo_has_a_mug.webp){: style="float: right; width: 50%"}
 
 Want to address the root imbalances that are leading to dysregulation in your body systems?
 
