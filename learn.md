@@ -10,7 +10,7 @@ I teach classes at libraries, community centers, herb stores, farms, schools, an
 
 To subscribe to the calendar, click "add to Google Calendar" (it may look differently on different devices)
 
-The best way to find out what classes are coming up is to join my mailing list. I send out an email each month with the upcoming classes, and a seasonal herbal recipe.
+The best way to find out what classes are coming up is to join my mailing list. I send out an email each month with the upcoming classes and a seasonal herbal recipe.
 
 {% include components/subscribe.html label="Join my monthly mailing list!" %}
 
