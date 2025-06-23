@@ -40,6 +40,9 @@ Come deepen your understanding of how flavor shows up physiologically in our bod
 
 After we’ve fully nerded out on chemistry, Mo will guide the class in making our own medicinal spice blends! Each participant will have the opportunity to make their own individualized blend to take home for their household or to gift to someone they love. Part science, part play, this class is for anyone who knows that cooking is the best way to care for our communities.
 
+![](/assets/images/violet.jpg){: style="float: right; width: 40%"}
+{: style="clear: left"}
+
 ---
 
 > "There are so many things to appreciate about Mo's "how" in leading us, including honoring plants as our community members and elders and giving us all permission to set aside the notebook and relish in wonder. Mo is a fabulous educator!"
