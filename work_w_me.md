@@ -40,7 +40,15 @@ and can require more care and attention.
 
 #### Appointment Pricing
 
+I offer three tiers of pricing for consultations:
+> Base Rate -- this is the price that pays me for my time
+> Sustainer Rate -- when clients pay the sustainer rate, it directly funds free consultations for those who cannot afford my base rate.
+> Free Rate -- if you cannot pay the base rate, you are eligible for a free consult when funds are available from clients paying the sustainer rate. Some clients are able to pay some amount but not the full base rate -- if so, that leaves some funds so that I’m able to see another client sooner, but there is never any pressure to do so.
+
+The consultations are the same, regardless of the price!
+
 |------|------|------|
+|Base Rate|Sustainer Rate|Free Rate|
 |Complementary intro call|15 minutes|free!|
 |Initial consult|90-120 minutes|\$120-\$200|
 |Follow-up|30-60 minutes|\$60-\$100|
