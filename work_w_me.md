@@ -48,7 +48,7 @@ I offer three tiers of pricing for consultations:
 The consultations are the same, regardless of the price!
 
 |                          |                  | Base         | Sustainer     | Free         |
-| Complementary intro call | 15 minutes       | Always free  | Always free   | Always free  |
+| Complementary intro call | 15 minutes       |              | Always free   |              |
 | Initial consult          | 90–120 minutes   | 240          | 300           | 0            |
 | Follow-up                | 30–60 minutes    | 100          | 150           | 0            |
 
