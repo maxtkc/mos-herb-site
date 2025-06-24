@@ -49,8 +49,8 @@ The consultations are the same, regardless of the price! Not sure where you fit?
 
 |                          |                  | Base         | Sustainer     | Free         |
 | Complementary intro call | 15 minutes       |              | Always free   |              |
-| Initial consult          | 90–120 minutes   | 240          | 300           | 0            |
-| Follow-up                | 30–60 minutes    | 100          | 150           | 0            |
+| Initial consult          | 90–120 minutes   | $240         | $300          | $0           |
+| Follow-up                | 30–60 minutes    | $100         | $150          | $0           |
 
 {% capture consultation %}
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
