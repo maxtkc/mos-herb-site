@@ -41,9 +41,9 @@ and can require more care and attention.
 #### Appointment Pricing
 
 I offer three tiers of pricing for consultations:
-> Base Rate -- this is the price that pays me for my time
-> Sustainer Rate -- when clients pay the sustainer rate, it directly funds free consultations for those who cannot afford my base rate.
-> Free Rate -- if you cannot pay the base rate, you are eligible for a free consult when funds are available from clients paying the sustainer rate. Some clients are able to pay some amount but not the full base rate -- if so, that leaves some funds so that I’m able to see another client sooner, but there is never any pressure to do so.
+- **Base Rate** – This is the price that compensates me for my time.
+- **Sustainer Rate** – When clients pay the sustainer rate, it directly funds free consultations for those who cannot afford the base rate.
+- **Free Rate** – If you cannot pay the base rate, you are eligible for a free consultation when funds are available from clients paying the sustainer rate. Some clients are able to contribute partially but can't pay the full base rate. Partial payments allow funds to be passed on to another client sooner, but there is never any pressure to contribute partially.
 
 The consultations are the same, regardless of the price!
 
