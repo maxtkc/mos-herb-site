@@ -41,16 +41,16 @@ and can require more care and attention.
 #### Appointment Pricing
 
 I offer three tiers of pricing for consultations:
+- **Sustainer Rate** – When clients pay the sustainer rate, it directly funds pay-what-you-can consultations for those who cannot afford the base rate.
 - **Base Rate** – This is the price that compensates me for my time.
-- **Sustainer Rate** – When clients pay the sustainer rate, it directly funds free consultations for those who cannot afford the base rate.
-- **Free Rate** – If you cannot pay the base rate, you are eligible for a free consultation when funds are available from clients paying the sustainer rate. Some clients are able to contribute partially but can't pay the full base rate. Partial payments allow funds to be passed on to another client sooner, but there is never any pressure to contribute partially.
+- **Pay-What-You-Can** – If you cannot pay the base rate, you can [let me know](https://mokatzchristy.com/contact.html) what price you can pay. When there are funds available from clients paying the sustainer rate, I will reach out to you to schedule an appointment.
 
-The consultations are the same, regardless of the price! Not sure where you fit? Check out [this handy graphic](https://static1.squarespace.com/static/54a1bf90e4b07c077787ed68/t/55d650e6e4b0bb73fdc7b993/1440108774760/GreenBottleSlidingScale.png).
+The consultations are the same, regardless of the price! Not sure how much to pay? Check out [this handy graphic](https://static1.squarespace.com/static/54a1bf90e4b07c077787ed68/t/55d650e6e4b0bb73fdc7b993/1440108774760/GreenBottleSlidingScale.png).
 
-|                          |                  | Base         | Sustainer     | Free         |
+|                          |                  | Sustainer    | Base          | Free         |
 | Complementary intro call | 15 minutes       |              | Always free   |              |
-| Initial consult          | 90–120 minutes   | $240         | $300          | $0           |
-| Follow-up                | 30–60 minutes    | $100         | $150          | $0           |
+| Initial consult          | 90–120 minutes   | $300         | $240          | $0           |
+| Follow-up                | 30–60 minutes    | $150         | $100          | $0           |
 
 {% capture consultation %}
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
