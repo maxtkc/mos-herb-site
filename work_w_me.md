@@ -47,12 +47,38 @@ I offer three tiers of pricing for consultations:
 
 The consultations are the same, regardless of the price!
 
-|------|------|------|
-|Base Rate|Sustainer Rate|Free Rate|
-|Complementary intro call|15 minutes|free!|
-|Initial consult|90-120 minutes|\$120-\$200|
-|Follow-up|30-60 minutes|\$60-\$100|
-|Bundle|Initial and one follow-up|\$180|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Duration</th>
+      <th>Base</th>
+      <th>Sustainer</th>
+      <th>Free</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Complementary intro call</td>
+      <td>15 minutes</td>
+      <td colspan="3" style="text-align: center;">always free</td>
+    </tr>
+    <tr>
+      <td>Initial consult</td>
+      <td>90–120 minutes</td>
+      <td>240</td>
+      <td>300</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Follow-up</td>
+      <td>30–60 minutes</td>
+      <td>100</td>
+      <td>150</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
 
 {% capture consultation %}
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
