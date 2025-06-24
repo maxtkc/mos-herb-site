@@ -45,7 +45,7 @@ I offer three tiers of pricing for consultations:
 - **Sustainer Rate** – When clients pay the sustainer rate, it directly funds free consultations for those who cannot afford the base rate.
 - **Free Rate** – If you cannot pay the base rate, you are eligible for a free consultation when funds are available from clients paying the sustainer rate. Some clients are able to contribute partially but can't pay the full base rate. Partial payments allow funds to be passed on to another client sooner, but there is never any pressure to contribute partially.
 
-The consultations are the same, regardless of the price!
+The consultations are the same, regardless of the price! Not sure where you fit? Check out [this handy graphic](https://static1.squarespace.com/static/54a1bf90e4b07c077787ed68/t/55d650e6e4b0bb73fdc7b993/1440108774760/GreenBottleSlidingScale.png).
 
 |                          |                  | Base         | Sustainer     | Free         |
 | Complementary intro call | 15 minutes       |              | Always free   |              |
@@ -72,13 +72,7 @@ The consultations are the same, regardless of the price!
   content = follow_up
 %}
 
-#### Low-income herbal consults
-I offer a limited number of $10 initial consultations and $5 follow-ups. These are available first come, first served, and are for clients who cannot afford my full prices. If you're interested in one of these sessions, please let me know during our intro call and I can tell you when the next one is available. I cannot offer sliding scale herbs since I don't use my own apothecary (see below).
-
 #### Cost of herbs
 
-Herbs can cost anywhere from \$50-\$200 per month. You are welcome to source
-your herbs anywhere and I can support you in using foods and lower-cost remedies
-to work within your budget. I primarily use [Heart Hand Lands apothecary](https://hearthandland.com/) for my
-clients’ formulas because they source quality, sustainable, relatively
-affordable herbs.
+Herbs can cost anywhere from $50-$200 per month. I can support you in using foods and lower-cost remedies to work within your budget, but the herbs are not sliding scale. I primarily use [Heart Hand Lands apothecary](https://hearthandland.com/) for my clients’ formulas because they source quality, sustainable, relatively affordable herbs.
+
