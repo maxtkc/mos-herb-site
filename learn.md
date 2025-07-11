@@ -99,7 +99,7 @@ Finally, we will make one ourselves! We will mix medicinal berries and honey to 
   content = syrup
 %}
 {% capture fresh %}
-![](/assets/images/freshtea.jpg){: style="float: right; width: 50%"}
+![](/assets/images/freshtea.jpg){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in the garden to learn about the uses, flavors, and energies of different tea herbs. This class will be primarily play and exploration, with science and botany blended in.
 {% endcapture %}
