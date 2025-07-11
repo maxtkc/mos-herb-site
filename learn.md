@@ -29,6 +29,8 @@ _Interested in booking me for one of these classes? Email me at mo (at) mokatzch
 
 #### Medicine Making
 {% capture tea %}
+![](/assets/images/Curio.jpg){: style="float: right; width: 50%"}
+{: style="clear: left"}
 
 Anyone can make a delicious herbal tea blend! In this class, we will discuss a handful of common herbs for tea: their uses, flavors, energies, and what they add to a blend. We will smell each of the herbs and taste some as well, learning how the flavors blend and how they complement each other.
 
