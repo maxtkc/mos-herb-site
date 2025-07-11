@@ -25,7 +25,9 @@ The best way to find out what classes are coming up is to...
 
 <h1 align="center">Class Offerings 2025 </h1>
 
-<h4 align="center">Medicine Making </h4>
+_Interested in booking me for one of these classes? Email me at mo (at) mokatzchristy.com!_
+
+#### Medicine Making
 {% capture tea %}
 
 Anyone can make a delicious herbal tea blend! In this class, we will discuss a handful of common herbs for tea: their uses, flavors, energies, and what they add to a blend. We will smell each of the herbs and taste some as well, learning how the flavors blend and how they complement each other.
@@ -112,7 +114,7 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
 %}
 
 
-<h4 align="center">Plant Walks </h4>
+#### Plant Walks
 {% capture monthly %}
 (Example Description) Join herbalist Mo Katz-Christy for a meander through Danehy park to meet wintertime city plants and explore their medicinal uses! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like, and meet us at the parking lot on Sherman Street (if you're late you should be able to find us -- we won't move too far too fast!). 
 {% endcapture %}
@@ -140,7 +142,7 @@ Let's welcome fall by exploring the wonder of wild weeds! Join clinical herbalis
   content = weed
 %}
 
-<h4 align="center">Discussion Classes </h4>
+#### Discussion Classes
 {% capture chemistry %}
 Why do all alliums have that strong garlicky smell? How do I know if the dried herbs you’ve had in my cabinet for five years are still good?
 
@@ -219,7 +221,7 @@ Come each month to build your materia medica or just once to meet a new plant fr
   content = herb_month
 %}
 
-<h4 align="center">Jewish Herbal Classes </h4>
+#### Jewish Herbal Classes
 {% capture seder %}
 Bitter herbs, spring greens -- these plants contain nutrients and flavors that are essential to our springtime bodies. In this class, we will explore the physiological wisdom in the plants we hold sacred. We will delve into the bitter flavor, as we discuss why neither horseradish nor lettuce -- the foods typically included as “bitter herbs” on the seder plate -- are particularly bitter. We will learn about the vital importance of the bitter flavor for the functioning of our body systems, as well as the uses of the other flavors in these plants.
 
