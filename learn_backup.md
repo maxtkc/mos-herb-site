@@ -23,7 +23,7 @@ The best way to find out what classes are coming up is to...
 
 ---
 
-### Class Offerings 2025
+<h1 align="center">Class Offerings 2025 </h1>
 
 #### Medicine Making
 {% capture tea %}
