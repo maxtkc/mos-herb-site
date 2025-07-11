@@ -115,6 +115,7 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
 
 #### Plant Walks
 {% capture monthly %}
+(Example Description) Join herbalist Mo Katz-Christy for a meander through Danehy park to meet wintertime city plants and explore their medicinal uses! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like, and meet us at the parking lot on Sherman Street (if you're late you should be able to find us -- we won't move too far too fast!). 
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -122,6 +123,9 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
   content = monthly
 %}
 {% capture tea_walk %}
+Come discover the delightful art of harvesting medicinal herbs for a fresh tea! We will start with a walk around the farm, woods, and fields, learning about the medicinal uses of the plants we find. We will harvest as we go, and bring our herbs back to make a delicious herbal tea!
+
+Bring a mug and join us to learn about the uses, flavors, and energies of different tea herbs. This class will be a mix of play and exploration, botany and science!
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -129,6 +133,7 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
   content = tea_walk
 %}
 {% capture weed %}
+Let's welcome fall by exploring the wonder of wild weeds! Join clinical herbalist Mo Katz-Christy for a stroll along the Community Path to learn about the medicine, botany, and magic of medicinal herbs. We will ask, what does it mean to look towards our local plants for medicine, especially when our soils are contaminated and invasive plants abound? What does it mean for a plant to be a "weed", and where do humans belong in relationship to our ecosystem? We will discuss the bounty of medicinal plants in Somerville and their specific indications and properties. Bring a notebook and get ready to scribble fast as we delight in the bounty of our neighborhood!
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -138,13 +143,22 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
 
 #### Discussion Classes
 {% capture chemistry %}
-{% endcapture %}
+Why do all alliums have that strong garlicky smell? How do I know if the dried herbs you’ve had in my cabinet for five years are still good?
+
+In this class you will begin to practice using your senses to teach you about the chemical constituents in your foods and medicine. We will discuss the primary atoms that make up plant molecules, and some common forms that they take. You will get to see, smell, and taste different preparations of the same herbs to learn the flavors and mouthfeel of specific molecules, and to learn which preparations extract which constituents.
+
+Bring your favorite mug and a pen and come join me where experiential and scientific knowledge meet!{% endcapture %}
 
 {% include components/dropdown.html 
   title = "Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry"
   content = chemistry
 %}
 {% capture gut %}
+Digestion feeling wonky? Come learn how our bodies evolved with plants and how we can work with them to regulate our gut, and in doing so, our whole bodies.
+
+Did you know that our gut sends more messages to our brain than our brain sends to our gut? Or that the liver can regulate our hormones? Or that most of our immune system is in our gut? Whenever our body is dysregulated, the gut is likely to play a role in healing.
+
+Come taste different herbal preparations that promote gut healing and learn how to balance and nourish your “second brain”!
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -152,6 +166,11 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
   content = gut
 %}
 {% capture immune %}
+Something going around the daycare again? Still coughing from an infection that cleared months ago? From Covid to the common cold, keeping our immune system resilient is key to staying well and smooth recovery from infections.
+
+Come learn how to keep your immune system robust all winter, address an illness when you first feel symptoms, support your body to fully clear the infection, and regain strength afterwards. Believe it or not, each of these stages of illness requires a different approach!
+
+We will discuss herbs, foods, and supportive strategies, focusing on the most accessible methods. We will discuss different herbal preparations including steams, syrups, tinctures. From chicken soup to elderberry syrup, this class will help you weather the infections that come your way.
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -159,6 +178,11 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
   content = immune
 %}
 {% capture nerves %}
+Have you ever brushed past a lavender bush and felt your body react to the smell? The aromatic molecules in plants are some of the smallest active compounds they contain, and are so small that they can cross our blood-brain barrier and affect our nervous system.
+
+In this class, we will discuss two main herbal actions: adaptogens and nervines. Adaptogens are herbs that long-term improve our resilience to stressors, and nervines are herbs that directly affect our mood. These can uplift, relax, stimulate, or sedate. We will explore how stress shows up in the body and how herbs can work with our whole bodies to modulate our stress response.
+
+Come learn the science behind why you should “stop and smell the roses”!
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -166,6 +190,11 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
   content = coffee
 %}
 {% capture elders %}
+Come learn how our bodies evolved with plants and how we can work with them to regulate our gut, and in doing so, our whole bodies!
+
+As we age, our gut motility and absorption slows and plants can play a new role in maintaining a healthy digestive tract. In this class, we will learn about the primary ways plants can interact with the digestive tract: to heal the gut lining, regulate secretions and movement, and improve assimilation. We will taste different herbal reparations and learn how to use them to promote balance.
+
+This class is for anyone who is an elder, cares for elders, or hopes to be one someday!
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -173,6 +202,7 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
   content = elders
 %}
 {% capture adaptogens %}
+Adaptogens are the “Next Big Thing” in herbalism -- and they truly are wonderful! Herbs that help us regulate our stress response over the long term -- who doesn’t need that? However, more is not necessarily better and many adaptogens are endangered and overharvested. By selecting the appropriate adaptogens for our constitution and bioregion we can be more effective in regulating our stress response and connect our own health to the larger health of our ecosystem.
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -180,6 +210,9 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
   content = adaptogens
 %}
 {% capture herb_month %}
+Come spend the afternoon getting deeply acquainted with one medicinal plant each month! We’ll spend time getting to know each plant through drawing, taste, science, and stories of herbalists’ experience. Bring your journal and leave with an in-depth account of botany, history, clinical use, safety issues, preparation and dosage, and much much more.
+
+Come each month to build your materia medica or just once to meet a new plant friend!
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -189,6 +222,11 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
 
 #### Jewish Herbal Classes
 {% capture seder %}
+Bitter herbs, spring greens -- these plants contain nutrients and flavors that are essential to our springtime bodies. In this class, we will explore the physiological wisdom in the plants we hold sacred. We will delve into the bitter flavor, as we discuss why neither horseradish nor lettuce -- the foods typically included as “bitter herbs” on the seder plate -- are particularly bitter. We will learn about the vital importance of the bitter flavor for the functioning of our body systems, as well as the uses of the other flavors in these plants.
+
+We will discuss how our body’s needs correspond with the seasons of the year, and how these differ by climate. What does your body crave in springtime, and how is (or isn’t) that reflected in our Jewish traditions? We will taste the plants on the seder plate and learn how these tastes interact with our bodies.
+
+In a time of great shifting of our climate, it is easy to feel out of whack. The apple trees certainly do when a late frost kills all their blossoms. The seasonal significance of these rituals can help us and specifically our bodies feel in sync with the season even in unseasonable weather.
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -196,6 +234,9 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
   content = seder
 %}
 {% capture trees %}
+Trees play a powerful role in medicine, both herbally and extracted in our pharmaceuticals. In this class, we will learn which herbal actions trees most commonly offer us. We will explore the chemistry behind those actions and the benefits they offer the tree. We will taste some local tree medicines and learn about some of the trees used in Jewish rituals.
+
+Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, part taste test, this class will be as playful as it is educational.
 {% endcapture %}
 
 {% include components/dropdown.html 
