@@ -55,6 +55,7 @@ After we’ve fully nerded out on chemistry, Mo will guide the class in making o
   content = spice
 %}
 {% capture grow %}
+No matter how dark and tiny your apartment is, you can grow herbs! Herb gardens are stellar for urban spaces because herbs thrive in a wide variety of ecological niches. We will focus on herbs for gut health, stress regulation and sleep, and immune support. We will discuss herbs you can bring inside for the winter, herbs that you can grow in lead soil, and herbs that can handle neglect. Leave with the information to grow, tend, harvest, and use herbs that you grow here in Boston!
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -62,6 +63,11 @@ After we’ve fully nerded out on chemistry, Mo will guide the class in making o
   content = grow
 %}
 {% capture tinc %}
+Learn how to make an alcoholic herbal extract! Infusing herbs in alcohol is a great way to preserve them so that you have them readily on hand. And they last for years!
+
+This workshop will teach the aspiring herbalist everything you need to know to make a high-quality tincture. We will go over each step of the process including sourcing herbs and alcohol, measuring the appropriate ratios, macerating the tincture, straining, and finally using your tincture.
+
+Each participant will leave with a jar of herbal tincture and a cheesecloth to strain their tincture at home.
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -69,6 +75,11 @@ After we’ve fully nerded out on chemistry, Mo will guide the class in making o
   content = tinc
 %}
 {% capture syrup %}
+The sweetness of honey combined with the flavorful tartness of medicinal berries…come learn how to make an herbal syrup! In this class, we will discuss what herbal syrups are, what they are used for, and how to make one.
+
+From the immune activity of elderberry syrup to the nourishment of an iron syrup, herbal syrups are certainly delicious and nutritious. We will learn how to make a syrup shelf-stable as well as methods of preserving or prolonging the life of perishable syrups.
+
+Finally, we will make one ourselves! We will mix medicinal berries and honey to make a delicious immune and heart support syrup. We will learn about each of these plants (+ honey) and how they each contribute to the medicine of the syrup. Each participant will get a small jar to take home and share with their family and community. Come prepared to enjoy the sticky sweetness of herbal syrup!
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -76,6 +87,7 @@ After we’ve fully nerded out on chemistry, Mo will guide the class in making o
   content = syrup
 %}
 {% capture fresh %}
+Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in the garden to learn about the uses, flavors, and energies of different tea herbs. This class will be primarily play and exploration, with science and botany blended in.
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -83,6 +95,7 @@ After we’ve fully nerded out on chemistry, Mo will guide the class in making o
   content = fresh
 %}
 {% capture coffee %}
+Learn about the medicinal alternatives or additions to coffee that can promote digestion, support the liver, and balance energy. We will taste different blends and make one designed for our individual constitution to bring home!
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -90,6 +103,7 @@ After we’ve fully nerded out on chemistry, Mo will guide the class in making o
   content = coffee
 %}
 {% capture ferment %}
+What’s all this fuss about fermented foods? Why are fermented foods essential for gut health, and why are they so expensive? In this class, you will learn how to use any old vegetables to make delicious and nutritious fermented foods that replenish the microbiome, regulate our immune system, and more! Leave with a jar of kraut that you can share with your household.
 {% endcapture %}
 
 {% include components/dropdown.html 
