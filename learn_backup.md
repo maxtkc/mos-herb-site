@@ -40,13 +40,64 @@ Part information and science, part sensory exploration, this class will be as pl
   title = "Demystifyting Tea Blending"
   content = tea
 %}
-The Art of Medicinal Spice Blending
-Grow Your Own Medicinal Herb Garden
-Make an Herbal Tincture
-Make an Herbal Syrup
-Fresh Herb Tea Blending
-Make Your Own Herbal Coffee
-Vegetable Fermentation for Gut Health
+{% capture spice %}
+Food is medicine! And medicine can taste delicious.
+
+Did you know that we have far more bitter taste receptors than any other, and when we taste something bitter our whole body reacts? Or that aromatic molecules ease gut spasms by irritating our smooth muscles so that they contract and then relax?
+
+Come deepen your understanding of how flavor shows up physiologically in our bodies! In this class, we will learn how to use common kitchen spices to promote circulation, ease gut spasms, modulate blood sugar and more!
+
+After we’ve fully nerded out on chemistry, Mo will guide the class in making our own medicinal spice blends!  Each participant will have the opportunity to make their own individualized blend to take home for their household or to gift to someone they love. Part science, part play, this class is for anyone who knows that cooking is the best way to care for our communities.
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "The Art of Medicinal Spice Blending"
+  content = spice
+%}
+{% capture grow %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Grow Your Own Medicinal Herb Garden"
+  content = grow
+%}
+{% capture tinc %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Make an Herbal Tincture"
+  content = tinc
+%}
+{% capture syrup %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Make an Herbal Syrup"
+  content = syrup
+%}
+{% capture fresh %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Fresh Herb Tea Blending"
+  content = fresh
+%}
+{% capture coffee %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Make Your Own Herbal Coffee"
+  content = coffee
+%}
+{% capture ferment %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Vegetable Fermentation for Gut Health"
+  content = coffee
+%}
+
+
 
 #### Plant Walks
 Monthly Plant Walk
