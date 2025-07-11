@@ -114,23 +114,94 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
 
 
 #### Plant Walks
-Monthly Plant Walk
-Herbal Tea Walk
-Wild Weed Fall Herb Walk
+{% capture monthly %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Monthly Plant Walk"
+  content = monthly
+%}
+{% capture tea_walk %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Herbal Tea Walk"
+  content = tea_walk
+%}
+{% capture weed %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Wild Weed Fall Herb Walk"
+  content = weed
+%}
 
 #### Discussion Classes
-Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry
-Trust Your Gut: Herbs to Regulate, Nourish, and Heal Your Digestive System
-From Chicken Soup to Elderberry Syrup: Herbal Immune Support
-Herbs to Hourish Frayed Nerves
-Gut Care for Elders
-All About Adaptogens: How to Build Long-Term Resilience in the Body Without Depleting Ecoysystems
-Herb of the Month Series
+{% capture chemistry %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Taste the Molecular Rainbow: What Color and Flavor Tell Us About Chemistry"
+  content = chemistry
+%}
+{% capture gut %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Trust Your Gut: Herbs to Regulate, Nourish, and Heal Your Digestive System"
+  content = gut
+%}
+{% capture immune %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "From Chicken Soup to Elderberry Syrup: Herbal Immune Support"
+  content = immune
+%}
+{% capture nerves %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Herbs to Hourish Frayed Nerves"
+  content = coffee
+%}
+{% capture elders %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Gut Care for Elders"
+  content = elders
+%}
+{% capture adaptogens %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "All About Adaptogens: How to Build Long-Term Resilience in the Body Without Depleting Ecoysystems"
+  content = adaptogens
+%}
+{% capture herb_month %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Herb of the Month Series"
+  content = herb_month
+%}
 
 #### Jewish Herbal Classes
-Medicine on the Seder Plate: Parsley, Lettuce, Horseradish, and More!
-Trees as Medicine for Tu B'Shvat
+{% capture seder %}
+{% endcapture %}
 
+{% include components/dropdown.html 
+  title = "Medicine on the Seder Plate: Parsley, Lettuce, Horseradish, and More!"
+  content = seder
+%}
+{% capture trees %}
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Trees as Medicine for Tu B'Shvat"
+  content = trees
+%}
 
 ![](/assets/images/Herb_of_the_Month_2025.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
