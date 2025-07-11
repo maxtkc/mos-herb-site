@@ -10,9 +10,18 @@ I teach classes at libraries, community centers, herb stores, farms, schools, an
 
 To subscribe to the calendar, click "add to Google Calendar" (it may look differently on different devices)
 
-The best way to find out what classes are coming up is to join my mailing list. I send out an email each month with the upcoming classes and a seasonal herbal recipe.
+The best way to find out what classes are coming up is to...
 
 {% include components/subscribe.html label="Join my monthly mailing list!" %}
+
+---
+
+![](/assets/images/violet.jpg){: style="float: right; width: 50%"}
+{: style="clear: left"}
+
+> "There are so many things to appreciate about Mo's "how" in leading us, including honoring plants as our community members and elders and giving us all permission to set aside the notebook and relish in wonder. Mo is a fabulous educator!"
+
+---
 
 ![](/assets/images/Herb_of_the_Month_2025.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
@@ -39,14 +48,6 @@ Did you know that we have far more bitter taste receptors than any other, and wh
 Come deepen your understanding of how flavor shows up physiologically in our bodies! In this class, we will learn how to use common kitchen spices to promote circulation, ease gut spasms, modulate blood sugar and more!
 
 After we’ve fully nerded out on chemistry, Mo will guide the class in making our own medicinal spice blends! Each participant will have the opportunity to make their own individualized blend to take home for their household or to gift to someone they love. Part science, part play, this class is for anyone who knows that cooking is the best way to care for our communities.
-
----
-
-![](/assets/images/violet.jpg){: style="float: right; width: 50%"}
-{: style="clear: left"}
-
-> "There are so many things to appreciate about Mo's "how" in leading us, including honoring plants as our community members and elders and giving us all permission to set aside the notebook and relish in wonder. Mo is a fabulous educator!"
-
 ---
 
 ### Past classes:
