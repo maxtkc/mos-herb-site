@@ -25,7 +25,7 @@ The best way to find out what classes are coming up is to...
 
 <h1 align="center">Class Offerings 2025 </h1>
 
-#### Medicine Making
+<h4 align="center">Medicine Making </h4>
 {% capture tea %}
 
 Anyone can make a delicious herbal tea blend! In this class, we will discuss a handful of common herbs for tea: their uses, flavors, energies, and what they add to a blend. We will smell each of the herbs and taste some as well, learning how the flavors blend and how they complement each other.
