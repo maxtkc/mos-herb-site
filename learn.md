@@ -71,7 +71,7 @@ No matter how dark and tiny your apartment is, you can grow herbs! Herb gardens 
   content = grow
 %}
 {% capture tinc %}
-![](/assets/images/tincture.jpg){: style="float: right; width: 50%"}
+![](/assets/images/tincture.jpg){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Learn how to make an alcoholic herbal extract! Infusing herbs in alcohol is a great way to preserve them so that you have them readily on hand. And they last for years!
 
@@ -85,7 +85,7 @@ Each participant will leave with a jar of herbal tincture and a cheesecloth to s
   content = tinc
 %}
 {% capture syrup %}
-![](/assets/images/syrup.jpg){: style="float: right; width: 50%"}
+![](/assets/images/syrup.jpg){: style="float: center; width: 100%"}
 {: style="clear: left"}
 The sweetness of honey combined with the flavorful tartness of medicinal berries…come learn how to make an herbal syrup! In this class, we will discuss what herbal syrups are, what they are used for, and how to make one.
 
@@ -177,7 +177,7 @@ Bring your favorite mug and a pen and come join me where experiential and scient
   content = chemistry
 %}
 {% capture gut %}
-![](/assets/images/gut.jpg){: style="float: right; width: 50%"}
+![](/assets/images/gut.jpeg){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Digestion feeling wonky? Come learn how our bodies evolved with plants and how we can work with them to regulate our gut, and in doing so, our whole bodies.
 
@@ -191,7 +191,7 @@ Come taste different herbal preparations that promote gut healing and learn how 
   content = gut
 %}
 {% capture immune %}
-![](/assets/images/immune.jpg){: style="float: right; width: 50%"}
+![](/assets/images/immune.jpg){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Something going around the daycare again? Still coughing from an infection that cleared months ago? From Covid to the common cold, keeping our immune system resilient is key to staying well and smooth recovery from infections.
 
@@ -219,7 +219,7 @@ Come learn the science behind why you should “stop and smell the roses”!
   content = nerves
 %}
 {% capture elders %}
-![](/assets/images/elders.jpg){: style="float: right; width: 50%"}
+![](/assets/images/elders.jpeg){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Come learn how our bodies evolved with plants and how we can work with them to regulate our gut, and in doing so, our whole bodies!
 
@@ -233,7 +233,7 @@ This class is for anyone who is an elder, cares for elders, or hopes to be one s
   content = elders
 %}
 {% capture adaptogens %}
-![](/assets/images/adaptogens.jpg){: style="float: right; width: 50%"}
+![](/assets/images/adaptogens.jpg){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Adaptogens are the “Next Big Thing” in herbalism -- and they truly are wonderful! Herbs that help us regulate our stress response over the long term -- who doesn’t need that? However, more is not necessarily better and many adaptogens are endangered and overharvested. By selecting the appropriate adaptogens for our constitution and bioregion we can be more effective in regulating our stress response and connect our own health to the larger health of our ecosystem.
 {% endcapture %}
@@ -271,7 +271,7 @@ In a time of great shifting of our climate, it is easy to feel out of whack. The
   content = seder
 %}
 {% capture trees %}
-![](/assets/images/trees.jpg){: style="float: right; width: 50%"}
+![](/assets/images/trees.jpeg){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Trees play a powerful role in medicine, both herbally and extracted in our pharmaceuticals. In this class, we will learn which herbal actions trees most commonly offer us. We will explore the chemistry behind those actions and the benefits they offer the tree. We will taste some local tree medicines and learn about some of the trees used in Jewish rituals.
 
@@ -283,7 +283,7 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
   content = trees
 %}
 
-![](/assets/images/Herb_of_the_Month_2025.png){: style="float: left; width: 100%"}
+![](/assets/images/Herb_of_the_Month_2025.png){: style="float: center; width: 100%"}
 {: style="clear: left"}
 
 ---
