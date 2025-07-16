@@ -300,7 +300,7 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
 - [Western Mass Herbal Symposium](https://www.westernmassherbalsymposium.com/)
 {: .fancy-list}
 
-**Libraries:**
+**Libraries:**\
 Somerville:
 - East Branch
 - West Branch
@@ -318,9 +318,11 @@ Boston:
 - Connolly
 - Faneuil
 {: .fancy-list}
-Charlotte and William Bloomberg Medford Public Library
-Watertown Free Public Library
-Blue Hill Public Library
+Other:
+- Charlotte and William Bloomberg Medford Public Library
+- Watertown Free Public Library
+- Blue Hill Public Library
+{: .fancy-list}
 
 **Shops:**
 - Cambridge Naturals
