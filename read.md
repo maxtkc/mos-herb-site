@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Read
-feature_image: "/assets/images/webp/grapesky.webp"
+feature_image: "/assets/images/dock.jpg"
 ---
 
 **Published writing:**
