@@ -5,7 +5,7 @@ feature_image: "/assets/images/webp/grapesky.webp"
 ---
 
 Published writing:
-[Herbal Medicine in Apocalyptic Times](mos-herb-site/assets/JAHG_Fall_2023_Apocalyptic_Times.pdf)
+[Herbal Medicine in Apocalyptic Times](/assets/JAHG_Fall_2023_Apocalyptic_Times.pdf)
 Book Review: Trees and Shrubs that Heal
 Bitter Haggadah Insert
 
