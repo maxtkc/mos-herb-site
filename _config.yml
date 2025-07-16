@@ -39,8 +39,8 @@ navigation_header:
   url: /work_w_me.html
 - title: Learn
   url: /learn.html
-- title: Grapes
-  url: /grapes.html
+- title: Read
+  url: /read.html
 - title: Contact
   url: /contact.html
 
@@ -53,8 +53,8 @@ navigation_footer:
   url: /work_w_me.html
 - title: Learn
   url: /learn.html
-- title: Grapes
-  url: /grapes.html
+- title: Read
+  url: /read.html
 - title: Contact
   url: /contact.html
 - title: Privacy Policy
