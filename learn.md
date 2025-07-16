@@ -291,7 +291,7 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
 ![](/assets/images/Medicinal_Plant_Walks_2025.png){: style="float: left; width: 100%"}
 {: style="clear: left"}
 \
----
+
 
 ### Places I've Taught, Places I'm Teaching
 
