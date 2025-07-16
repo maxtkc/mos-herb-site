@@ -292,3 +292,57 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
 {: style="clear: left"}
 
 ---
+
+### Places I've Taught or Am Teaching:
+
+**Herb Symposiums:**
+- [Herbstalk](https://www.herbstalk.org/)
+- [Western Mass Herbal Symposium](https://www.westernmassherbalsymposium.com/)
+{: .fancy-list}
+
+**Libraries:**
+Somerville:
+- East Branch
+- West Branch
+- Main Branch
+{: .fancy-list}
+Cambridge:
+- O’Neill
+- Central Sq
+- Valente
+- Collins
+- O’Connell
+{: .fancy-list}
+Boston:
+- Nutritional Literacy Program
+- Connolly
+- Faneuil
+{: .fancy-list}
+Charlotte and William Bloomberg Medford Public Library
+Watertown Free Public Library
+Blue Hill Public Library
+
+**Shops:**
+- Cambridge Naturals
+- Curio Spice
+- Lehrhaus
+- Blue Hill Coop
+{: .fancy-list}
+
+**Farms + Gardens:**
+- Somerville Community Growing Center
+- Abundance Farm
+- Mass Audubon - Magazine Beach
+- Mass Audubon - Drumlin Farm
+- Lexington Community Farm
+- Newton Community Farm
+{: .fancy-list}
+
+**Other:**
+- IfNotNow
+- Temple Beth Zion
+- Moishe House Somerville
+- Cambridge Montessori School
+- SmartBear Software
+- Peaks Island Historical Society
+{: .fancy-list}
