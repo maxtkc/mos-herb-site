@@ -283,6 +283,14 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
   content = trees
 %}
 
+![](/assets/images/bluehill.jpg){: style="float: right; width: 50%"}
+{: style="clear: left"}
+
+> Thank you so very much for hosting such an enriching and enchanting plant walk last week. People have been singing your praises in the days afterwards! Thank you for sharing your wisdom with the community here: your enthusiastic, warm nature made the whole experience so wonderful. I loved seeing people light up with questions, ideas, comments--a testament to the generous and affirming space and knowledge you cultivate.
+- Librarian
+
+---
+
 ![](/assets/images/Herb_of_the_Month_2025.png){: style="float: center; width: 100%"}
 {: style="clear: left"}
 
