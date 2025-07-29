@@ -48,7 +48,7 @@ I offer three tiers of pricing for consultations:
 The consultations are the same, regardless of the price! Not sure how much to pay? Check out [this handy graphic](https://static1.squarespace.com/static/54a1bf90e4b07c077787ed68/t/55d650e6e4b0bb73fdc7b993/1440108774760/GreenBottleSlidingScale.png).
 
 |                          |                  | Sustainer    | Base          |Pay-What-You-Can|
-| Complementary intro call | 15 minutes       |              | Always free   |                |
+| Complimentary intro call | 15 minutes       |              | Always free   |                |
 | Initial consult          | 90–120 minutes   | $300         | $240          | $0-$239        |
 | Follow-up                | 30–60 minutes    | $150         | $100          | $0-$99         |
 
