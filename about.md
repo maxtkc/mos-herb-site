@@ -4,7 +4,7 @@ title: About Mo
 feature_image: "/assets/images/webp/little_pink_flowers.webp"
 ---
 
-![](/assets/images/webp/moginkgomedford.webp){: style="float: right; width: 60%"}
+![](/assets/images/webp/moginkgomedford.webp){: style="float: right; width: 55%"}
 
 I work with clients 1:1 to address the root imbalances that are causing dysregulation in order to build long-term healing, focusing on gut health.
 
