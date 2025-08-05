@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Mo
 feature_image: "/assets/images/webp/little_pink_flowers.webp"
 ---
 
