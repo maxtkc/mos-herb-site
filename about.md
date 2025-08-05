@@ -15,9 +15,8 @@ The gut is an ecosystem. We are living through deep ecosystem dysregulation on a
 
 One reason I love the gut is its capacity for change. The epithelial cells lining the small intestine are fully replaced every 3-5 days! We can use herbs as topical remedies on our internal “skin” to affect changes even with compounds we can’t absorb into our bloodstream. Thus, tea is essentially a gut bath!
 
-![](/assets/images/webp/hhfarm.webp){: style="float: left; width: 50%"}
-
 ### Philosophy
+![](/assets/images/webp/hhfarm.webp){: style="float: left; width: 50%"}
 I work with what is showing up for those who come to my practice. There is no “one size fits all” approach with herbs! You lead the way by sharing about your own concerns, experiences, and hopes around your health, and we work together to uncover what is at the root of the symptoms you’re experiencing. I am here to educate and provide a framework -- you are in charge of your body -- and we collaborate to help you meet your goals.
 
 ### Background
