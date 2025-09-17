@@ -124,7 +124,7 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
 
 {% include components/dropdown.html 
   title = "Vegetable Fermentation for Gut Health"
-  content = coffee
+  content = ferment
 %}
 
 
