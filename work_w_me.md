@@ -43,7 +43,7 @@ and can require more care and attention.
 I offer three tiers of pricing for consultations:
 - **Sustainer Rate** – When clients pay the sustainer rate, it directly funds pay-what-you-can consultations for those who cannot afford the base rate.
 - **Base Rate** – This is the price that compensates me for my time.
-- **Pay-What-You-Can** – If you cannot pay the base rate, you can [let me know](https://mokatzchristy.com/contact.html) what price you can pay. When there are funds available from clients paying the sustainer rate, I will reach out to you to schedule an appointment. _Note: there is currently (September 2025) a waitlist for pay-what-you-can intakes._
+- **Pay-What-You-Can** – If you cannot pay the base rate, you can [let me know](https://mokatzchristy.com/contact.html) what price you can pay. When there are funds available from clients paying the sustainer rate, I will reach out to you to schedule an appointment.
 
 The consultations are the same, regardless of the price! Not sure how much to pay? Check out [this handy graphic](https://static1.squarespace.com/static/54a1bf90e4b07c077787ed68/t/55d650e6e4b0bb73fdc7b993/1440108774760/GreenBottleSlidingScale.png).
 
