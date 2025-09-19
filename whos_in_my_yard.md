@@ -4,7 +4,7 @@ title: Who's In My Yard?
 feature_image: "/assets/images/webp/little_pink_flowers.webp"
 ---
 
-![](/assets/images/growingcenter.jpeg){: style="float: right; width: 55%"}
+![](/assets/images/growingcenter.jpeg){: style="float: right; width: 45%"}
 
 Are you curious? Maybe we've been on a plant walk together and you're wondering who's growing in your back yard or in a park near you. Maybe you are an avid gardener and you want to learn about the medicinal uses of the plants you grow. Book a personalized plant walk with me to get to know the medicine around you and how you can connect with it.
 
