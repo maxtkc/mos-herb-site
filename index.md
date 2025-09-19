@@ -4,13 +4,13 @@ title: Home
 feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 ---
 
-> Healthcare should be personal, thorough, and integrated.
+> In-depth herbal care to promote long-term healing, focusing on gut health.
 
 ![](/assets/images/webp/mo_has_a_mug.webp){: style="float: right; width: 50%"}
 
 Want to address the root imbalances that are leading to dysregulation in your body systems?
 
-I can partner with you to understand your body from an herbal perspective – one that integrates scientific research with traditional botanical uses - in order to promote long-term healing.
+I can partner with you to understand your body from an herbal perspective – one that integrates scientific research with traditional botanical uses – in order to promote long-term healing.
 
 While my practice centers gut health, I follow my clients' lead and we work on what is showing up. I have experience supporting clients with:
 
