@@ -39,13 +39,14 @@ Yes! Tell me what your goals are, and we’ll find a place that can meet them.
 ##### Do you travel?
 Yes, within reason! As long as you are within 30 miles of a bus or train station, I can get to you. There may be an added fee.
 
+![](/assets/images/pickingrose.jpg){: style="float: left; width: 55%"}
+
 ##### Do you do family reunions, anniversary gifts, or birthday parties?
 Yes, yes, and yes. Surprise your beloved with a magical walk through their favorite park, gather your family to learn about the plants around your generational home…the possibilities are endless.
 
 ##### Why are your times all weekday daytimes?
 I teach and see clients many evenings and Sundays, so I have limited availability outside of 9-5. However, fill out the interest form and we’ll find a time that works for us!
 
-![](/assets/images/pickingrose.jpg){: style="float: left; width: 55%"}
 #### Pricing:
 Within 8 miles of Davis Square, within my available times: $150
 
