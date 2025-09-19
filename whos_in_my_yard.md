@@ -10,7 +10,7 @@ Are you curious? Maybe we've been on a plant walk together and you're wondering 
 
 I also offer plant paddles! Instead of walking, we paddle around an area of your choosing and I introduce you to the plants on the riverbanks. You supply the kayaks/canoes (your own or from a rental company).
 
-Book here if you live or want to walk/paddle less than 8 miles from Davis Square, and if the times available work for you:
+Book below if you live or want to walk/paddle less than 8 miles from Davis Square, and if the times available work for you:
 
 {% capture plant_walk %}
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
