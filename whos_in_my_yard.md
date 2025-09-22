@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who's In My Yard?
-feature_image: "/assets/images/nettle.jpg"
+feature_image: "/assets/images/nettle1.jpg"
 ---
 
 ![](/assets/images/growingcenter.jpeg){: style="float: right; width: 45%"}
