@@ -37,7 +37,7 @@ Yes! You can bring up to 4 people (including you), or more for an additional fee
 Yes! Tell me what your goals are, and we’ll find a place that can meet them.
 
 ##### Will you know every plant in my yard?
-Certainly not! I specialize in weeds and invasive plants, so the more cultivated your yard is with exotic cultivars, the less likely I will be to know them all. However, I can show you how to ID unfamiliar plants and what we can know about their medicinal uses by knowing their relatives.
+Certainly not! I specialize in wild and invasive plants and weeds, so the more cultivated your yard is with exotic cultivars, the less likely I will be to know them all. However, I can show you how to ID unfamiliar plants and what we can know about their medicinal uses by knowing their relatives.
 
 ##### Do you travel?
 Yes, within reason! As long as you are within 30 miles of a bus or train station, I can get to you. There may be an added fee.
