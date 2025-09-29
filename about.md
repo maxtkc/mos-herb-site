@@ -26,7 +26,7 @@ I am a queer Ashkenazi Jew who grew up tending and harvesting roadside fruit tre
 I spent three years (1300+ hours) studying herbalism in-depth at the [Vermont Center for Integrative Herbalism](https://vtherbcenter.org/). In my final year I worked in the sliding-scale student clinic, where I saw dozens of clients and received support from my colleagues and teachers. I feel so fortunate to have learned from many brilliant teachers including Betzy Bancroft, Larken Bunce, Linden de Voil, Kristin Henningsen, Guido Masé, Ember Peters, and others, each bringing unique strengths and perspectives. I continue to learn from the plants and from my colleagues, students, and mentors  — and from my garden and kitchen!
 
 ### Next Steps
-**I’d love to hear your story** and to see if we might be a good fit! To connect, you can schedule an intro call here:
+**I’d love to hear your story** to see if we might be a good fit! To connect, you can schedule an intro call here:
 {% capture intro_call %}
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
 <div class="zcal-inline-widget"><a href="https://zcal.co/i/skfZFt1q">Free 15-minute intro call - Schedule a meeting</a></div>
