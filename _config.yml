@@ -39,8 +39,8 @@ navigation_header:
   url: /work_w_me.html
 - title: Learn
   url: /learn.html
-- title: Who's in my yard?
-  url: /whos_in_my_yard.html
+- title: Personalized Plant Walk
+  url: /personalized_plant_walk.html
 - title: Read
   url: /read.html
 - title: Contact
@@ -55,8 +55,8 @@ navigation_footer:
   url: /work_w_me.html
 - title: Learn
   url: /learn.html
-- title: Who's in my yard?
-  url: /whos_in_my_yard.html
+- title: Personalized Plant Walk
+  url: /personalized_plant_walk.html
 - title: Read
   url: /read.html
 - title: Contact
