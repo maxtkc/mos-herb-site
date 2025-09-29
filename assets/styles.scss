@@ -146,14 +146,18 @@ details {
 
 // This relies on the space after float
 
-p img[style*="float: right"] {
+p img[style*="float: right"], p figure.figure[style*="float: right"] {
     padding-top: 40px;
     padding-left: 20px;
 }
 
-p img[style*="float: left"] {
+p img[style*="float: left"], p figure.figure[style*="float: left"] {
     padding-top: 40px;
     padding-right: 20px;
+}
+
+.figure, .figure figcaption.caption {
+  margin-bottom: 0px;
 }
 
 ul.fancy-list {
