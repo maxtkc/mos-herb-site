@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Home
+title: In-depth herbal care to promote long-term healing, focusing on gut health
 feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 ---
-
-> In-depth herbal care to promote long-term healing, focusing on gut health.
 
 ![](/assets/images/webp/mo_has_a_mug.webp){: style="float: right; width: 50%"}
 
