@@ -26,7 +26,7 @@ While my practice centers gut health, I follow my clients' lead and we work on w
 
 {% include components/subscribe.html %}
 
-![](/assets/images/webp/mo_and_friend_laugh.webp){: style="float: right; width: 50%"}
+{% include figure.html image="/assets/images/webp/mo_and_friend_laugh.webp" caption="tea blending with my colleage" %}{: style="float: right; width: 50%"}
 
 > When I first considered seeing Mo, I thought: "do I really need an
 herbalist?” I know now what a silly question it was! **If you eat food, you
