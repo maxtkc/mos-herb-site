@@ -44,7 +44,7 @@ navigation_header:
     url: /personalized_plant_walk.html
   - title: Read
     url: /read.html
-  - title: Contact
+- title: Contact
   url: /contact.html
 - title: Work with me
   url: /work_w_me.html
