@@ -1,6 +1,6 @@
 ---
 layout: page
-title: In-depth herbal care to promote long-term healing, focusing on gut health
+title: Herbal care for dysregulated guts
 feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 ---
 
