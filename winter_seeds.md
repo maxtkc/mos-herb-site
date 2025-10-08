@@ -4,7 +4,7 @@ title: Winter Seeds of Herbalism Intensive
 feature_image: "/assets/images/vtharvest.jpg"
 ---
 
-![](/assets/images/vttea.JPG){: style="float: right; width: 50%"}
+![](/assets/images/vttea.JPG){: style="float: left; width: 50%"}
 
 **Calling all aspiring herbalists!** Spend these cold months cozy with a cup of tea in Constellation studio diving deep into the foundations of herbalism with a cohort of dedicated plant people.
 
