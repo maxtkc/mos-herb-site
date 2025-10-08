@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Winter Seeds of Herbalism Intensive
-feature_image: "/assets/images/nettle1.jpg"
+feature_image: "/assets/images/vtharvest.jpg"
 ---
 
 ![](/assets/images/icywalk.jpeg){: style="float: right; width: 50%"}
