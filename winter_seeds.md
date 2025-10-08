@@ -6,7 +6,7 @@ feature_image: "/assets/images/nettle1.jpg"
 
 ![](/assets/images/icywalk.jpeg){: style="float: right; width: 50%"}
 
-**Calling all aspiring herbalists!** Spend these cold months cozy with a cup of tea in Constellation studio **diving deep into the foundations of herbalism** with a cohort of dedicated plant people.
+**Calling all aspiring herbalists!** Spend these cold months cozy with a cup of tea in Constellation studio diving deep into the foundations of herbalism with a cohort of dedicated plant people.
 
 #### Daily flow:
 Each week we’ll focus on a different body system and the ways that we can work with herbs to address common concerns. We’ll learn how to make **1-2 herbal preparations** that help to regulate and heal our body system of the week. In the afternoon, we’ll have a second herbal lesson to help us put the **physiology into practice!**
@@ -46,6 +46,8 @@ Focus herbs: eleuthero, tulsi, skullcap
 Prep(s): tea blend, herbal honey
 Related lesson: bark medicine
 Focus herbs: raspberry, shatavari, vitex
+
+![](/assets/images/violet.jpg){: style="float: right; width: 50%"}
 
 **Week 6: Cardiovascular system**
 Prep(s): oxymels, blood building syrup
