@@ -58,3 +58,8 @@ Focus herbs: ginger, hawthorn, motherwort
 Prep(s): fresh herb teas, foraged spring salad
 Related lesson: Plant walk!
 Focus herbs: cleavers, nettle, Japanese knotweed
+
+### The Details:
+- 7 Sundays, 1/11-3/8, skipping federal holiday weekends
+- 10:30am-2:30pm
+- $400-$600 sliding scale + $80 materials fee per person for your take-home apothecary
