@@ -37,6 +37,8 @@ Each week we’ll focus on a different body system and the ways that we can work
 - Related lesson: making + keeping an effective apothecary
 - Focus herbs: comfrey, St John’s wort, yarrow
 
+![](/assets/images/violet.jpg){: style="float: right; width: 60%"}
+
 **Week 4: Stress + sleep**
 - Prep(s): sleepy tincture, bliss balls
 - Related lesson: botanical families
@@ -47,12 +49,12 @@ Each week we’ll focus on a different body system and the ways that we can work
 - Related lesson: bark medicine
 - Focus herbs: raspberry, shatavari, vitex
 
-![](/assets/images/violet.jpg){: style="float: right; width: 50%"}
-
 **Week 6: Cardiovascular system**
 - Prep(s): oxymels, blood building syrup
 - Related lesson: herbal safety
 - Focus herbs: ginger, hawthorn, motherwort
+
+![](/assets/images/apothecary.jpg){: style="float: left; width: 50%"}
 
 **Week 7: Tying it together and prepping for springtime**
 - Prep(s): fresh herb teas, foraged spring salad
