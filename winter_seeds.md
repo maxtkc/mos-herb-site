@@ -23,41 +23,41 @@ Each week we’ll focus on a different body system and the ways that we can work
 #### Tentative schedule:
 
 **Week 1: Immune + lymph**
-Prep(s): elderberry syrup, bone broth
-Related lesson: effective extraction of herbs
-Focus herbs: echinacea, astragalus, elderberry
+- Prep(s): elderberry syrup, bone broth
+- Related lesson: effective extraction of herbs
+- Focus herbs: echinacea, astragalus, elderberry
 
 **Week 2: Gut health**
-Prep(s): bitters tincture, carminative tea blend
-Related lesson: herbal energetics
-Focus herbs: marshmallow, angelica, calendula
+- Prep(s): bitters tincture, carminative tea blend
+- Related lesson: herbal energetics
+- Focus herbs: marshmallow, angelica, calendula
 
 **Week 3: First aid**
-Prep(s): infused oils, salves
-Related lesson: making + keeping an effective apothecary
-Focus herbs: comfrey, St John’s wort, yarrow
+- Prep(s): infused oils, salves
+- Related lesson: making + keeping an effective apothecary
+- Focus herbs: comfrey, St John’s wort, yarrow
 
 **Week 4: Stress + sleep**
-Prep(s): sleepy tincture, bliss balls
-Related lesson: botanical families
-Focus herbs: eleuthero, tulsi, skullcap
+- Prep(s): sleepy tincture, bliss balls
+- Related lesson: botanical families
+- Focus herbs: eleuthero, tulsi, skullcap
 
 **Week 5: Hormone regulation: menstruation, menopause + gender affirming hormones**
-Prep(s): tea blend, herbal honey
-Related lesson: bark medicine
-Focus herbs: raspberry, shatavari, vitex
+- Prep(s): tea blend, herbal honey
+- Related lesson: bark medicine
+- Focus herbs: raspberry, shatavari, vitex
 
 ![](/assets/images/violet.jpg){: style="float: right; width: 50%"}
 
 **Week 6: Cardiovascular system**
-Prep(s): oxymels, blood building syrup
-Related lesson: herbal safety
-Focus herbs: ginger, hawthorn, motherwort
+- Prep(s): oxymels, blood building syrup
+- Related lesson: herbal safety
+- Focus herbs: ginger, hawthorn, motherwort
 
 **Week 7: Tying it together and prepping for springtime**
-Prep(s): fresh herb teas, foraged spring salad
-Related lesson: Plant walk!
-Focus herbs: cleavers, nettle, Japanese knotweed
+- Prep(s): fresh herb teas, foraged spring salad
+- Related lesson: Plant walk!
+- Focus herbs: cleavers, nettle, Japanese knotweed
 
 ### The Details:
 - 7 Sundays, 1/11-3/8, skipping federal holiday weekends
