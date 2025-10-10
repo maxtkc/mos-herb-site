@@ -6,7 +6,7 @@ feature_image: "/assets/images/vtharvest.jpg"
 
 ![](/assets/images/icywalk.jpeg){: style="float: right; width: 50%"}
 
-**Calling all aspiring herbalists!** Spend these cold months cozy with a cup of tea in Constellation studio diving deep into the foundations of herbalism with a cohort of dedicated plant people.
+**Calling all aspiring herbalists!** Spend these cold months cozy with a cup of tea in [Constellation studio](https://www.studioconstellation.com/event-details-registration/winter-seeds-of-herbalism-intensive-a-7-week-series) diving deep into the foundations of herbalism with a cohort of dedicated plant people.
 
 #### Daily flow:
 Each week we’ll focus on a different body system and the ways that we can work with herbs to address common concerns. We’ll learn how to make **1-2 herbal preparations** that help to regulate and heal our body system of the week. In the afternoon, we’ll have a second herbal lesson to help us put the **physiology into practice!**
@@ -65,3 +65,4 @@ Each week we’ll focus on a different body system and the ways that we can work
 - 7 Sundays, 1/11-3/8, skipping federal holiday weekends
 - 10:30am-2:30pm
 - $400-$600 sliding scale + $80 materials fee per person for your take-home apothecary
+- [Register here!](https://www.studioconstellation.com/event-details-registration/winter-seeds-of-herbalism-intensive-a-7-week-series)
