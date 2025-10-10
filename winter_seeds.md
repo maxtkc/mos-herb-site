@@ -6,6 +6,8 @@ feature_image: "/assets/images/vtharvest.jpg"
 
 ![](/assets/images/icywalk.jpeg){: style="float: right; width: 50%"}
 
+##### [Register by 11/15](https://www.studioconstellation.com/event-details-registration/winter-seeds-of-herbalism-intensive-a-7-week-series) for an Early Bird discount!
+
 **Calling all aspiring herbalists!** Spend these cold months cozy with a cup of tea in [Constellation studio](https://www.studioconstellation.com/event-details-registration/winter-seeds-of-herbalism-intensive-a-7-week-series) diving deep into the foundations of herbalism with a cohort of dedicated plant people.
 
 #### Daily flow:
