@@ -44,6 +44,8 @@ navigation_header:
     url: /personalized_plant_walk.html
   - title: Read
     url: /read.html
+  - title: Seeds of Herbalism Intensive
+    url: /winter_seeds.html
 - title: Contact
   url: /contact.html
 - title: Work with me
@@ -56,8 +58,10 @@ navigation_footer:
   url: /about.html
 - title: Work with me
   url: /work_w_me.html
-- title: Learn
+- title: Community Classes
   url: /learn.html
+- title: Seeds of Herbalism Intensive
+  url: /winter_seeds.html
 - title: Personalized Plant Walk
   url: /personalized_plant_walk.html
 - title: Read
