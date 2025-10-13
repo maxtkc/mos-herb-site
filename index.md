@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Herbal Education and 1:1 Care in Somerville, MA
+title: Herbal Education and 1:1 Care in Somerville, MA and Online
 feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 ---
 
