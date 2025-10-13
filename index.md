@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Herbal care for dysregulated guts
+title: Herbal Education and 1:1 Care in Somerville, MA
 feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 ---
 
