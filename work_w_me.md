@@ -5,14 +5,18 @@ feature_image: "/assets/images/webp/planting_seeds.webp"
 ---
 
 {% capture intro_call %}
-<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
-<div class="zcal-inline-widget"><a href="https://zcal.co/i/skfZFt1q">Free 15-minute intro call - Schedule a meeting</a></div>
+<!-- Practice Better Booking Widget: start -->
+<style>.better-inline-booking-widget{position:relative;overflow:hidden}.better-inline-booking-widget iframe{position:absolute;top:0;left:0;width:100%;height:100%}</style>
+<div class="better-inline-booking-widget" data-url="https://my.practicebetter.io" data-service="68ed21bf21132e5178047c4a" data-hash="68e946da2007bdcbf8337d47" data-theme="050505" data-theme-accent="32a363" style="width:100%;max-width:550px;height:550px;" data-scrollbar-visible="false"></div>
+<script type="text/javascript" src="https://cdn.practicebetter.io/assets/js/booking.widget.js"></script>
+<!-- Practice Better Booking Widget: end -->
 {% endcapture %}
 
 {% include components/dropdown.html 
   title = "Schedule a free 15-minute intro call"
   content = intro_call
 %}
+
 {% include figure.html image="/assets/images/pickingroses.jpg" caption="beach rose harvest!" %}{: style="float: right; width: 60%"}
 
 Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other! For most people, this is your first time meeting with a clinical herbalist. We talk through what you're looking for and see if I might be able to support you.
@@ -52,8 +56,11 @@ The consultations are the same, regardless of the price! Not sure how much to pa
 | Follow-up                | 30–60 minutes    | $150         | $100          | $0-$99         |
 
 {% capture consultation %}
-<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
-<div class="zcal-inline-widget"><a href="https://zcal.co/i/xJPSKcgN">30 Minute Meeting - Schedule a meeting</a></div>
+<!-- Practice Better Booking Widget: start -->
+<style>.better-inline-booking-widget{position:relative;overflow:hidden}.better-inline-booking-widget iframe{position:absolute;top:0;left:0;width:100%;height:100%}</style>
+<div class="better-inline-booking-widget" data-url="https://my.practicebetter.io" data-booking-page="68f775e464033a7262c2b236" data-hash="68e946da2007bdcbf8337d47" data-theme="050505" data-theme-accent="32a363" style="width:100%;max-width:550px;height:800px;" data-scrollbar-visible="false"></div>
+<script type="text/javascript" src="https://cdn.practicebetter.io/assets/js/booking.widget.js"></script>
+<!-- Practice Better Booking Widget: end -->
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -62,8 +69,11 @@ The consultations are the same, regardless of the price! Not sure how much to pa
 %}
 
 {% capture follow_up %}
-<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
-<div class="zcal-inline-widget"><a href="https://zcal.co/i/bKxLxPnA">30 Minute Meeting - Schedule a meeting</a></div>
+<!-- Practice Better Booking Widget: start -->
+<style>.better-inline-booking-widget{position:relative;overflow:hidden}.better-inline-booking-widget iframe{position:absolute;top:0;left:0;width:100%;height:100%}</style>
+<div class="better-inline-booking-widget" data-url="https://my.practicebetter.io" data-booking-page="68f69201ab61509540ddba49" data-hash="68e946da2007bdcbf8337d47" data-theme="050505" data-theme-accent="32a363" style="width:100%;max-width:550px;height:800px;" data-scrollbar-visible="false"></div>
+<script type="text/javascript" src="https://cdn.practicebetter.io/assets/js/booking.widget.js"></script>
+<!-- Practice Better Booking Widget: end -->
 {% endcapture %}
 
 {% include components/dropdown.html 
@@ -74,4 +84,3 @@ The consultations are the same, regardless of the price! Not sure how much to pa
 #### Cost of herbs
 
 Herbs can cost anywhere from $50-$200 per month. I can support you in using foods and lower-cost remedies to work within your budget, but the herbs are not sliding scale. I primarily use [Heart Hand Lands apothecary](https://hearthandland.com/) for my clients’ formulas because they source quality, sustainable, relatively affordable herbs.
-
