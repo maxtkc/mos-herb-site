@@ -66,8 +66,11 @@ The consultations are the same, regardless of the price! Not sure how much to pa
 %}
 
 {% capture follow_up %}
-<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
-<div class="zcal-inline-widget"><a href="https://zcal.co/i/bKxLxPnA">30 Minute Meeting - Schedule a meeting</a></div>
+<!-- Practice Better Booking Widget: start -->
+<style>.better-inline-booking-widget{position:relative;overflow:hidden}.better-inline-booking-widget iframe{position:absolute;top:0;left:0;width:100%;height:100%}</style>
+<div class="better-inline-booking-widget" data-url="https://my.practicebetter.io" data-booking-page="68f69201ab61509540ddba49" data-hash="68e946da2007bdcbf8337d47" data-theme="050505" data-theme-accent="32a363" style="width:100%;max-width:550px;height:800px;" data-scrollbar-visible="false"></div>
+<script type="text/javascript" src="https://cdn.practicebetter.io/assets/js/booking.widget.js"></script>
+<!-- Practice Better Booking Widget: end -->
 {% endcapture %}
 
 {% include components/dropdown.html 
