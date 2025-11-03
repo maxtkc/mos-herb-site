@@ -109,9 +109,13 @@ Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in th
   content = fresh
 %}
 {% capture coffee %}
-![](/assets/images/coffee.jpg){: style="float: center; width: 100%"}
+![](/assets/images/coffee.jpeg){: style="float: center; width: 100%"}
 {: style="clear: left"}
-Learn about the medicinal alternatives or additions to coffee that can promote digestion, support the liver, and balance energy. We will taste different blends and make one designed for our individual constitution to bring home!
+Coffee is essential to so many of our bodies and rhythms: it boosts energy, promotes digestion, and provides a ritual of connection. For some people it can also interfere with sleep, cause digestive upset, and dysregulate our cardiovascular system.
+
+In this class, we will learn about the medicinal plants we can add or substitute to coffee to promote digestion, support the liver and cardiovascular system, and balance energy. We will discuss the benefits we receive from coffee and how other plants might be able to provide similar effects.
+
+We will taste different blends and each participant will make one designed for our individual constitution to bring home!
 {% endcapture %}
 
 {% include components/dropdown.html 
