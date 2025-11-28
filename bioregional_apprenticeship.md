@@ -19,11 +19,10 @@ As we scrub roots and strip leaves we’ll learn all about the medicine of the p
 
 We will balance hands-on learning with lessons on the foundations of herbalism so that we can build a stronger understanding of the ways plants interact with bodies in general.
 
-![](/assets/images/nettle.jpg){: style="float: right; width: 50%"}
-
 #### Possible monthly flow:
 
 **March**
+![](/assets/images/nettle.jpg){: style="float: right; width: 50%"}
 - Projects:
   - wild weed pesto
   - violet syrup
@@ -34,6 +33,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: violet, nettle, cleavers
 
 **April**
+![](/assets/images/violet.jpg){: style="float: right; width: 50%"}
 - Projects:
   - digestive bitters
   - herbal "coffee"
@@ -44,6 +44,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: dandelion, yellow dock, horseradish
 
 **May**
+![](/assets/images/motalksatgc.jpeg){: style="float: right; width: 50%"}
 - Projects:
   - oxymels
   - flower essences
@@ -53,9 +54,8 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - cardiovascular wellness
 - Focus herbs: hawthorn, rose, elder flower
 
-![](/assets/images/calendulabasket.jpg){: style="float: right; width: 55%"}
-
 **June**
+![](/assets/images/hawthronavena.jpg){: style="float: right; width: 50%"}
 - Projects:
   - fresh herb tea blending
   - hydrosols
@@ -66,6 +66,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: St. John's wort, motherwort, anise hyssop
 
 **July**
+![](/assets/images/drawingatgc.jpg){: style="float: right; width: 50%"}
 - Projects:
   - infused oils
   - elixirs
@@ -76,6 +77,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: lemon balm, lavender, anise hyssop
 
 **August**
+![](/assets/images/calendulabasket.jpg){: style="float: right; width: 50%"}
 - Projects:
   - electuaries
   - infused honey
@@ -85,9 +87,8 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - herbal first aid
 - Focus herbs: thyme, calendula, yarrow
 
-![](/assets/images/apothecary.jpg){: style="float: right; width: 50%"}
-
 **September**
+![](/assets/images/holdinggoldenrod.jpg){: style="float: right; width: 50%"}
 - Projects:
   - double extraction tincture
   - salves
@@ -97,7 +98,8 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - allergies, hypersensitivity, and inflammation
 - Focus herbs: goldenrod, New England aster, elderberries
 
-**October**
+**October**'
+![](/assets/images/prettysjw.jpg){: style="float: right; width: 50%"}
 - Projects:
   - vegetable fermentation
   - wild basket weaving
@@ -108,6 +110,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: cattail, garlic, marshmallow
 
 **November**
+![](/assets/images/apothecary.jpg){: style="float: right; width: 50%"}
 - Projects:
   - syrups
   - medicinal broth
