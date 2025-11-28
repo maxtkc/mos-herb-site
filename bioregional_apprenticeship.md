@@ -4,7 +4,7 @@ title: Bioregional Herbalism Apprenticeship
 feature_image: "/assets/images/vtharvest.jpg"
 ---
 
-##### Register by 1/15 for an Early Bird Discount
+##### [Register by 1/15](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor) for an Early Bird Discount
 
 ![](/assets/images/hhfarm.jpeg){: style="float: right; width: 50%"}
 
@@ -138,4 +138,4 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
     - Pay it forward: $1250 before 1/15, $1400 after
 - +$100 materials fee for your ake home apothecary
 - New to sliding scale? Learn more [here](https://www.wortsandcunning.com/blog/sliding-scale)
-- [Register here!](https://www.studioconstellation.com/event-details-registration/winter-seeds-of-herbalism-intensive-a-7-week-series)
+- [Register here!](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor)
