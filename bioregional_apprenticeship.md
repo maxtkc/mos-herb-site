@@ -136,6 +136,6 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
     - Receive a gift: $850 before 1/15, $1000 after
     - Actual cost: $1050 before 1/15, $1200 after
     - Pay it forward: $1250 before 1/15, $1400 after
-- +$100 materials fee for your ake home apothecary
+- +$100 materials fee for your take home apothecary
 - New to sliding scale? Learn more [here](https://www.wortsandcunning.com/blog/sliding-scale)
 - [Register here!](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor)
