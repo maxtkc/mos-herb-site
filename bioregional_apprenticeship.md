@@ -53,7 +53,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - cardiovascular wellness
 - Focus herbs: hawthorn, rose, elder flower
 
-![](/assets/images/violet.jpg){: style="float: right; width: 55%"}
+![](/assets/images/calendulabasket.jpg){: style="float: right; width: 55%"}
 
 **June**
 - Projects:
