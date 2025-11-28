@@ -55,7 +55,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: hawthorn, rose, elder flower
 
 **June**
-![](/assets/images/hawthronavena.jpg){: style="float: right; width: 50%"}
+![](/assets/images/hawthornavena.jpg){: style="float: right; width: 50%"}
 - Projects:
   - fresh herb tea blending
   - hydrosols
