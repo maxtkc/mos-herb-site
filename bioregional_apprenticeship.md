@@ -6,7 +6,7 @@ feature_image: "/assets/images/vtharvest.jpg"
 
 ##### Register by 1/15 for an Early Bird Discount
 
-![](/assets/images/icywalk.jpeg){: style="float: right; width: 50%"}
+![](/assets/images/hhfarm.jpeg){: style="float: right; width: 50%"}
 
 **Learn to follow the seasons as an herbalist!** In this apprenticeship program we will integrate our bodies with the bodies of the land and learn what plant medicine can look like on seven acres in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
 
