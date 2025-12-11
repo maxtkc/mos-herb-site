@@ -98,7 +98,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - allergies, hypersensitivity, and inflammation
 - Focus herbs: goldenrod, New England aster, elderberries
 
-**October**'
+**October**
 ![](/assets/images/prettysjw.jpg){: style="float: right; width: 50%"}
 - Projects:
   - vegetable fermentation
