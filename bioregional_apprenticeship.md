@@ -137,9 +137,10 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
     - October 4th 10am-4pm
     - November 8th 10am-4pm
 - Tiered pricing:
-    - Receive a gift: $850 before 1/31, $1000 after
-    - Actual cost: $1050 before 1/31, $1200 after
-    - Pay it forward: $1250 before 1/31, $1400 after
+    - Receive a gift: $850 if you register before 1/31, $1000 after
+    - Actual cost: $1050 if you register before 1/31, $1200 after
+    - Pay it forward: $1250 if you register before 1/31, $1400 after
+    - Payment plans available and qualify for the early bird discount!
 - +$100 materials fee for your take home apothecary
 - New to sliding scale? Learn more [here](https://www.wortsandcunning.com/blog/sliding-scale)
 - [Register here!](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor)
