@@ -8,9 +8,14 @@ feature_image: "/assets/images/vtharvest.jpg"
 
 ![](/assets/images/hhfarm.jpeg){: style="float: right; width: 50%"}
 
-**Learn to follow the seasons as an herbalist!** In this apprenticeship program we will integrate our bodies with the bodies of the land and learn what plant medicine can look like on seven acres in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
+**Learn to follow the seasons as an herbalist!** In this immersive program we will integrate our bodies with the bodies of the land and learn what plant medicine can look like on seven acres in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
 
-We’ll learn from and work with three main areas of the farm: the woodland edges, weeds in the fields, and the herb garden we’ll tend.
+We’ll learn from and work with three main areas of the farm: the woodland edges, weeds in the fields, and the herb garden we’ll tend. **Each month we'll make herbal preparations to bring home and share with our communities!**
+
+### Quick info:
+> Where: Waltham Fields Community Farm
+> When: One Sunday per month, 11am-5pm with a lunch break
+> Who: Herbal enthusiasts wanting to get your hands dirty!
 
 #### Daily flow:
 Each month we’ll start by walking the land, baskets in hand. We’ll take note of the plants that are thriving and those that need extra care. We’ll harvest those that are abundant and at their peak and bring them back to our medicine-making house where we’ll process them and infuse them in oil, vinegar, alcohol, honey, and more.
