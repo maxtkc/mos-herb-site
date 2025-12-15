@@ -126,21 +126,20 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: burdock, elecampane, eleuthero
 
 ### The Details:
-- Sundays:
-    - March 29th
-    - April 26th
-    - May 31st
-    - June 28th
-    - July 26th
-    - August 30th
-    - September 27th
-    - October 18th
-    - November 22nd
-- 11am-5pm
+- The dates in one place (all Sundays):
+    - March 29th 11am-5pm
+    - April 26th 11am-5pm
+    - May 31st 11am-5pm
+    - June 28th 11am-5pm
+    - August 2nd 11am-5pm
+    - August 30th 11am-5pm
+    - September 20th 10am-4pm
+    - October 4th 10am-4pm
+    - November 8th 10am-4pm
 - Tiered pricing:
-    - Receive a gift: $850 before 1/15, $1000 after
-    - Actual cost: $1050 before 1/15, $1200 after
-    - Pay it forward: $1250 before 1/15, $1400 after
+    - Receive a gift: $850 before 1/31, $1000 after
+    - Actual cost: $1050 before 1/31, $1200 after
+    - Pay it forward: $1250 before 1/31, $1400 after
 - +$100 materials fee for your take home apothecary
 - New to sliding scale? Learn more [here](https://www.wortsandcunning.com/blog/sliding-scale)
 - [Register here!](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor)
