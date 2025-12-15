@@ -15,6 +15,7 @@ We’ll learn from and work with three main areas of the farm: the woodland edge
 ### Quick info:
 > Where: Waltham Fields Community Farm\
 > When: One Sunday per month, 11am-5pm with a lunch break\
+  > 10am-4pm in fall for daylight
 > Who: Herbal enthusiasts wanting to get your hands dirty!
 
 #### Daily flow:
@@ -24,9 +25,9 @@ As we scrub roots and strip leaves we’ll learn all about the medicine of the p
 
 We will balance hands-on learning with lessons on the foundations of herbalism so that we can build a stronger understanding of the ways plants interact with bodies in general.
 
-#### Possible monthly flow:
+#### Tentative Schedule (dates are set, curriculum subject to change):
 
-**March**
+**Sunday
 ![](/assets/images/nettle.jpg){: style="float: right; width: 50%"}
 - Projects:
   - wild weed pesto
