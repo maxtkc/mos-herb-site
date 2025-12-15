@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Bioregional Herbalism Apprenticeship
+title: Bioregional Herbalism 9-Month Immersion
 feature_image: "/assets/images/vtharvest.jpg"
 ---
 
-##### [Register by 1/15](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor) for an Early Bird Discount
+##### [Register by 1/31](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor) for an Early Bird Discount
 
 ![](/assets/images/hhfarm.jpeg){: style="float: right; width: 50%"}
 
