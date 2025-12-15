@@ -14,8 +14,7 @@ We’ll learn from and work with three main areas of the farm: the woodland edge
 
 ### Quick info:
 > Where: Waltham Fields Community Farm\
-> When: One Sunday per month, 11am-5pm with a lunch break\
-  > 10am-4pm in fall for daylight
+> When: One Sunday per month, 11am-5pm with a lunch break (10am-4pm in fall for daylight)\
 > Who: Herbal enthusiasts wanting to get your hands dirty!
 
 #### Daily flow:
@@ -27,7 +26,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 
 #### Tentative Schedule (dates are set, curriculum subject to change):
 
-**Sunday
+**Sunday, March 29th 11am-5pm**
 ![](/assets/images/nettle.jpg){: style="float: right; width: 50%"}
 - Projects:
   - wild weed pesto
@@ -38,7 +37,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - intro to human physiology
 - Focus herbs: violet, nettle, cleavers
 
-**April**
+**Sunday, April 26th 11am-5pm**
 ![](/assets/images/violet.jpg){: style="float: right; width: 50%"}
 - Projects:
   - digestive bitters
@@ -49,7 +48,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - regulating the digestive system
 - Focus herbs: dandelion, yellow dock, horseradish
 
-**May**
+**Sunday, May 31st 11am-5pm**
 ![](/assets/images/motalksatgc.jpeg){: style="float: right; width: 50%"}
 - Projects:
   - oxymels
@@ -60,7 +59,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - cardiovascular wellness
 - Focus herbs: hawthorn, rose, elder flower
 
-**June**
+**Sunday, June 28th 11am-5pm**
 ![](/assets/images/hawthornavena.jpg){: style="float: right; width: 50%"}
 - Projects:
   - fresh herb tea blending
@@ -71,7 +70,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - sleep, energy, and circadian rhythms
 - Focus herbs: St. John's wort, motherwort, anise hyssop
 
-**July**
+**Sunday, August 2nd 11am-5pm**
 ![](/assets/images/drawingatgc.jpg){: style="float: right; width: 50%"}
 - Projects:
   - infused oils
@@ -82,7 +81,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - regulating mood and stress
 - Focus herbs: lemon balm, lavender, anise hyssop
 
-**August**
+**Sunday, August 30th 11am-5pm**
 ![](/assets/images/calendulabasket.jpg){: style="float: right; width: 50%"}
 - Projects:
   - electuaries
@@ -93,7 +92,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - herbal first aid
 - Focus herbs: thyme, calendula, yarrow
 
-**September**
+**Sunday, September 20th 10am-4pm**
 ![](/assets/images/holdinggoldenrod.jpg){: style="float: right; width: 50%"}
 - Projects:
   - double extraction tincture
@@ -104,7 +103,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - allergies, hypersensitivity, and inflammation
 - Focus herbs: goldenrod, New England aster, elderberries
 
-**October**
+**Sunday, October 4th 10am-4pm**
 ![](/assets/images/prettysjw.jpg){: style="float: right; width: 50%"}
 - Projects:
   - vegetable fermentation
