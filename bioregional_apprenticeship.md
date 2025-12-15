@@ -133,6 +133,9 @@ Yes! This program is for herb enthusiasts who are in the beginning of their herb
 **What if I have to miss one of the Sundays?**
 No problem! Since this is an in-person program we won't be recording the sessions, but I'll send you the handouts and your classmates can share their notes. You may be able to go to the farm and harvest herbs to make medicine on your own time -- TBD!
 
+**Will there be a lunch break?**
+Yes! I recommend you bring a lunch since there aren't a ton of close by options, but there are a few. We'll have at least one potluck as well!
+
 **What if I don't have a car?**
 I don't either! Waltham Fields Community Farm is a 30 minute walk from the Waverly Commuter Rail station and easily accessible by bicycle.
 
