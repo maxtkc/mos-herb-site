@@ -16,7 +16,7 @@ The best way to find out what classes are coming up is to...
 
 ---
 
-![](/assets/images/violet.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/violet.webp){: style="float: right; width: 50%"}
 {: style="clear: left"}
 
 > "There are so many things to appreciate about Mo's "how" in leading us, including honoring plants as our community members and elders and giving us all permission to set aside the notebook and relish in wonder. Mo is a fabulous educator!"
@@ -29,7 +29,7 @@ _Interested in booking me for one of these classes? Email me at mo (at) mokatzch
 
 #### Medicine Making
 {% capture tea %}
-![](/assets/images/teablend.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/teablend.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 
 Anyone can make a delicious herbal tea blend! In this class, we will discuss a handful of common herbs for tea: their uses, flavors, energies, and what they add to a blend. We will smell each of the herbs and taste some as well, learning how the flavors blend and how they complement each other.
@@ -45,7 +45,7 @@ Part information and science, part sensory exploration, this class will be as pl
   content = tea
 %}
 {% capture spice %}
-![](/assets/images/Curio.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/Curio.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Food is medicine! And medicine can taste delicious.
 
@@ -61,7 +61,7 @@ After we’ve fully nerded out on chemistry, Mo will guide the class in making o
   content = spice
 %}
 {% capture grow %}
-![](/assets/images/grow.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/grow.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 No matter how dark and tiny your apartment is, you can grow herbs! Herb gardens are stellar for urban spaces because herbs thrive in a wide variety of ecological niches. We will focus on herbs for gut health, stress regulation and sleep, and immune support. We will discuss herbs you can bring inside for the winter, herbs that you can grow in lead soil, and herbs that can handle neglect. Leave with the information to grow, tend, harvest, and use herbs that you grow here in Boston!
 {% endcapture %}
@@ -71,7 +71,7 @@ No matter how dark and tiny your apartment is, you can grow herbs! Herb gardens 
   content = grow
 %}
 {% capture tinc %}
-![](/assets/images/tincture.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/tincture.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Learn how to make an alcoholic herbal extract! Infusing herbs in alcohol is a great way to preserve them so that you have them readily on hand. And they last for years!
 
@@ -85,7 +85,7 @@ Each participant will leave with a jar of herbal tincture and a cheesecloth to s
   content = tinc
 %}
 {% capture syrup %}
-![](/assets/images/syrup.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/syrup.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 The sweetness of honey combined with the flavorful tartness of medicinal berries…come learn how to make an herbal syrup! In this class, we will discuss what herbal syrups are, what they are used for, and how to make one.
 
@@ -99,7 +99,7 @@ Finally, we will make one ourselves! We will mix medicinal berries and honey to 
   content = syrup
 %}
 {% capture fresh %}
-![](/assets/images/freshtea.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/freshtea.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in the garden to learn about the uses, flavors, and energies of different tea herbs. This class will be primarily play and exploration, with science and botany blended in.
 {% endcapture %}
@@ -109,7 +109,7 @@ Discover the fragrance of fresh herbal tea blends! Bring a mug and join us in th
   content = fresh
 %}
 {% capture coffee %}
-![](/assets/images/coffee.jpeg){: style="float: center; width: 100%"}
+![](/assets/images/webp/coffee.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Coffee is essential to so many of our bodies and rhythms: it boosts energy, promotes digestion, and provides a ritual of connection. For some people it can also interfere with sleep, cause digestive upset, and dysregulate our cardiovascular system.
 
@@ -134,7 +134,7 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
 
 #### Plant Walks
 {% capture monthly %}
-![](/assets/images/Medicinal_Plant_Walks_2025.png){: style="float: center; width: 100%"}
+![](/assets/images/webp/Medicinal_Plant_Walks_2025.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 (Example Description) Join herbalist Mo Katz-Christy for a meander through Danehy park to meet wintertime city plants and explore their medicinal uses! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like, and meet us at the parking lot on Sherman Street (if you're late you should be able to find us -- we won't move too far too fast!). 
 {% endcapture %}
@@ -181,7 +181,7 @@ Bring your favorite mug and a pen and come join me where experiential and scient
   content = chemistry
 %}
 {% capture gut %}
-![](/assets/images/gut.jpeg){: style="float: center; width: 100%"}
+![](/assets/images/webp/gut.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Digestion feeling wonky? Come learn how our bodies evolved with plants and how we can work with them to regulate our gut, and in doing so, our whole bodies.
 
@@ -195,7 +195,7 @@ Come taste different herbal preparations that promote gut healing and learn how 
   content = gut
 %}
 {% capture immune %}
-![](/assets/images/immune.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/immune.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Something going around the daycare again? Still coughing from an infection that cleared months ago? From Covid to the common cold, keeping our immune system resilient is key to staying well and smooth recovery from infections.
 
@@ -209,7 +209,7 @@ We will discuss herbs, foods, and supportive strategies, focusing on the most ac
   content = immune
 %}
 {% capture nerves %}
-![](/assets/images/nerves.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/nerves.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Have you ever brushed past a lavender bush and felt your body react to the smell? The aromatic molecules in plants are some of the smallest active compounds they contain, and are so small that they can cross our blood-brain barrier and affect our nervous system.
 
@@ -223,7 +223,7 @@ Come learn the science behind why you should “stop and smell the roses”!
   content = nerves
 %}
 {% capture elders %}
-![](/assets/images/elders.jpeg){: style="float: center; width: 100%"}
+![](/assets/images/webp/elders.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Come learn how our bodies evolved with plants and how we can work with them to regulate our gut, and in doing so, our whole bodies!
 
@@ -237,7 +237,7 @@ This class is for anyone who is an elder, cares for elders, or hopes to be one s
   content = elders
 %}
 {% capture adaptogens %}
-![](/assets/images/adaptogens.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/adaptogens.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Adaptogens are the “Next Big Thing” in herbalism -- and they truly are wonderful! Herbs that help us regulate our stress response over the long term -- who doesn’t need that? However, more is not necessarily better and many adaptogens are endangered and overharvested. By selecting the appropriate adaptogens for our constitution and bioregion we can be more effective in regulating our stress response and connect our own health to the larger health of our ecosystem.
 {% endcapture %}
@@ -247,7 +247,7 @@ Adaptogens are the “Next Big Thing” in herbalism -- and they truly are wonde
   content = adaptogens
 %}
 {% capture herb_month %}
-![](/assets/images/Herb_of_the_Month_2025.png){: style="float: center; width: 100%"}
+![](/assets/images/webp/Herb_of_the_Month_2025.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Come spend the afternoon getting deeply acquainted with one medicinal plant each month! We’ll spend time getting to know each plant through drawing, taste, science, and stories of herbalists’ experience. Bring your journal and leave with an in-depth account of botany, history, clinical use, safety issues, preparation and dosage, and much much more.
 
@@ -261,7 +261,7 @@ Come each month to build your materia medica or just once to meet a new plant fr
 
 #### Jewish Herbal Classes
 {% capture seder %}
-![](/assets/images/seder.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/seder.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Bitter herbs, spring greens -- these plants contain nutrients and flavors that are essential to our springtime bodies. In this class, we will explore the physiological wisdom in the plants we hold sacred. We will delve into the bitter flavor, as we discuss why neither horseradish nor lettuce -- the foods typically included as “bitter herbs” on the seder plate -- are particularly bitter. We will learn about the vital importance of the bitter flavor for the functioning of our body systems, as well as the uses of the other flavors in these plants.
 
@@ -275,7 +275,7 @@ In a time of great shifting of our climate, it is easy to feel out of whack. The
   content = seder
 %}
 {% capture trees %}
-![](/assets/images/trees.jpeg){: style="float: center; width: 100%"}
+![](/assets/images/webp/trees.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Trees play a powerful role in medicine, both herbally and extracted in our pharmaceuticals. In this class, we will learn which herbal actions trees most commonly offer us. We will explore the chemistry behind those actions and the benefits they offer the tree. We will taste some local tree medicines and learn about some of the trees used in Jewish rituals.
 
@@ -287,7 +287,7 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
   content = trees
 %}
 
-![](/assets/images/bluehill.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/bluehill.webp){: style="float: right; width: 50%"}
 {: style="clear: left"}
 
 > "Thank you so very much for hosting such an enriching and enchanting plant walk last week. People have been singing your praises in the days afterwards! Thank you for sharing your wisdom with the community here: your enthusiastic, warm nature made the whole experience so wonderful. I loved seeing people light up with questions, ideas, comments--a testament to the generous and affirming space and knowledge you cultivate."
@@ -295,12 +295,12 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
 
 ---
 
-![](/assets/images/Herb_of_the_Month_2025.png){: style="float: center; width: 100%"}
+![](/assets/images/webp/Herb_of_the_Month_2025.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 
 ---
 
-![](/assets/images/Medicinal_Plant_Walks_2025.png){: style="float: left; width: 100%"}
+![](/assets/images/webp/Medicinal_Plant_Walks_2025.webp){: style="float: left; width: 100%"}
 {: style="clear: left"}
 \
 

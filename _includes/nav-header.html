@@ -74,8 +74,10 @@
     padding: 0;
     list-style: none;
   }
-  .item--dropdown:hover .list--dropdown {
-    display: block;
+  @media (hover: hover) {
+    .item--dropdown:hover .list--dropdown {
+      display: block;
+    }
   }
   .list--dropdown .item--nav {
     margin: 0;
@@ -93,15 +95,13 @@
   .list--dropdown .item--nav a:hover {
     background: #f5f5f5;
   }
-  @media (max-width: 639px) {
+  @media (hover: none) {
     .list--dropdown {
+      display: none;
       position: static;
       border: none;
       box-shadow: none;
       padding-left: 15px;
-    }
-    .item--dropdown:hover .list--dropdown {
-      display: none;
     }
     .item--dropdown.active .list--dropdown {
       display: block;
@@ -139,10 +139,10 @@
     collapseNav()
   })
 
-  // Mobile dropdown toggle
+  // Touch device dropdown toggle
   document.querySelectorAll('.item--dropdown .dropdown-title').forEach(link => {
     link.addEventListener('click', (e) => {
-      if (document.body.clientWidth < 640) {
+      if (window.matchMedia('(hover: none)').matches) {
         e.preventDefault()
         link.parentElement.classList.toggle('active')
       }

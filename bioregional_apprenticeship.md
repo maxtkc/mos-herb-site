@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Bioregional Herbalism 9-Month Immersion
-feature_image: "/assets/images/vtharvest.jpg"
+feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
 ##### [Register by 1/31](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor) for an Early Bird Discount
 
-![](/assets/images/hhfarm.jpeg){: style="float: right; width: 50%"}
+![](/assets/images/webp/hhfarm.webp){: style="float: right; width: 50%"}
 
 **Learn to follow the seasons as an herbalist!** In this immersive program we will integrate our bodies with the bodies of the land and learn what plant medicine can look like on seven acres in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
 
@@ -27,7 +27,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 #### Tentative Schedule (dates are set, curriculum subject to change):
 
 **Sunday, March 29th 11am-5pm**
-![](/assets/images/nettle.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/nettle.webp){: style="float: right; width: 50%"}
 - Projects:
   - wild weed pesto
   - violet syrup
@@ -38,7 +38,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: violet, nettle, cleavers
 
 **Sunday, April 26th 11am-5pm**
-![](/assets/images/violet.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/violet.webp){: style="float: right; width: 50%"}
 - Projects:
   - digestive bitters
   - herbal "coffee"
@@ -49,7 +49,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: dandelion, yellow dock, horseradish
 
 **Sunday, May 31st 11am-5pm**
-![](/assets/images/motalksatgc.jpeg){: style="float: right; width: 50%"}
+![](/assets/images/webp/motalksatgc.webp){: style="float: right; width: 50%"}
 - Projects:
   - oxymels
   - flower essences
@@ -60,7 +60,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: hawthorn, rose, elder flower
 
 **Sunday, June 28th 11am-5pm**
-![](/assets/images/hawthornavena.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/hawthornavena.webp){: style="float: right; width: 50%"}
 - Projects:
   - fresh herb tea blending
   - hydrosols
@@ -71,7 +71,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: St. John's wort, motherwort, anise hyssop
 
 **Sunday, August 2nd 11am-5pm**
-![](/assets/images/drawingatgc.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/drawingatgc.webp){: style="float: right; width: 50%"}
 - Projects:
   - infused oils
   - elixirs
@@ -82,7 +82,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: lemon balm, lavender, anise hyssop
 
 **Sunday, August 30th 11am-5pm**
-![](/assets/images/calendulabasket.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/calendulabasket.webp){: style="float: right; width: 50%"}
 - Projects:
   - electuaries
   - infused honey
@@ -93,7 +93,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: thyme, calendula, yarrow
 
 **Sunday, September 20th 10am-4pm**
-![](/assets/images/holdinggoldenrod.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/holdinggoldenrod.webp){: style="float: right; width: 50%"}
 - Projects:
   - double extraction tincture
   - salves
@@ -104,7 +104,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: goldenrod, New England aster, elderberries
 
 **Sunday, October 4th 10am-4pm**
-![](/assets/images/prettysjw.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/prettysjw.webp){: style="float: right; width: 50%"}
 - Projects:
   - vegetable fermentation
   - wild basket weaving
@@ -115,7 +115,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: cattail, garlic, marshmallow
 
 **Sunday, November 8th 10am-4pm**
-![](/assets/images/apothecary.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/apothecary.webp){: style="float: right; width: 50%"}
 - Projects:
   - syrups
   - medicinal broth

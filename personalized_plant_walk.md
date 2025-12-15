@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Personalized Plant Walks and Paddles
-feature_image: "/assets/images/nettle1.jpg"
+feature_image: "/assets/images/webp/nettle1.webp"
 ---
 
-![](/assets/images/growingcenter.jpeg){: style="float: right; width: 45%"}
+![](/assets/images/webp/growingcenter.webp){: style="float: right; width: 45%"}
 
 Are you curious who's growing in your yard? Maybe we've been on a plant walk together and you're wondering who's growing along your daily walk or in a park down the street. Maybe you are an avid gardener and you want to learn about the medicinal uses of the plants you grow. Book a personalized plant walk with me to get to know the medicine around you and how you can connect with it.
 
@@ -26,7 +26,7 @@ Book below if you live or want to walk/paddle less than 8 miles from Davis Squar
 
 [Fill out this interest form](https://forms.gle/CGNbV5D1ft5PLqGW8) if you live or want to walk/paddle further than 8 miles from Davis Square, OR if the times available don’t work for you. We’ll find a time that works for both of us!
 
-![](/assets/images/vtharvest.jpg){: style="float: right; width: 55%"}
+![](/assets/images/webp/vtharvest.webp){: style="float: right; width: 55%"}
 
 #### FAQ:
 
@@ -42,7 +42,7 @@ Certainly not! I specialize in wild and invasive plants and weeds, so the more c
 ##### Do you travel?
 Yes, within reason! As long as you are within 30 miles of a bus or train station, I can get to you. There may be an added fee.
 
-![](/assets/images/pickingrose.jpg){: style="float: left; width: 55%"}
+![](/assets/images/webp/pickingrose.webp){: style="float: left; width: 55%"}
 
 ##### Do you do family reunions, anniversary gifts, or birthday parties?
 Yes, yes, and yes. Surprise your beloved with a magical walk through their favorite park, gather your family to learn about the plants around your generational home…the possibilities are endless.
