@@ -114,7 +114,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - the gut microbiome and how to regulate it
 - Focus herbs: cattail, garlic, marshmallow
 
-**November**
+**Sunday, November 8th 10am-4pm**
 ![](/assets/images/apothecary.jpg){: style="float: right; width: 50%"}
 - Projects:
   - syrups
