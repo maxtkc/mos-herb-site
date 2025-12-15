@@ -125,6 +125,19 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - integrating our learning this year
 - Focus herbs: burdock, elecampane, eleuthero
 
+### FAQ
+
+**Can I join even if I have no formal herbal training?**
+Yes! This program is for herb enthusiasts who are in the beginning of their herbal journey. Maybe you've taken a couple of classes or made some medicine on your own, or maybe you are completely green and ready to dive in!
+
+**What if I have to miss one of the Sundays?**
+No problem! Since this is an in-person program we won't be recording the sessions, but I'll send you the handouts and your classmates can share their notes. You may be able to go to the farm and harvest herbs to make medicine on your own time -- TBD!
+
+**What if I don't have a car?**
+I don't either! Waltham Fields Community Farm is a 30 minute walk from the Waverly Commuter Rail station and easily accessible by bicycle.
+
+**More questions? [Email me](https://mokatzchristy.com/contact.html)!**
+
 ### The Details:
 - The dates in one place (all Sundays):
     - March 29th 11am-5pm
