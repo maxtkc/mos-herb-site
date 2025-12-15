@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Read
-feature_image: "/assets/images/dock.jpg"
+feature_image: "/assets/images/webp/dock.webp"
 ---
 
 **Published writing:**
