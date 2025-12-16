@@ -9,10 +9,10 @@
         {% assign url = item.url | relative_url %}
       {% endif %}
 
-      {% if item.items %}
-        <li class="item  item--nav  item--dropdown">
-          <span class="dropdown-title">{{ item.title }}</span>
-          <ul class="list  list--dropdown">
+      <li class="item  item--nav{% if item.items %}  item--nav__has-dropdown{% endif %}{% if item.url == page.url %}  item--current{% endif %}">
+        <a href="{{ url }}"{% if item.items %} aria-haspopup="true" aria-expanded="false"{% endif %}>{{ item.title }}</a>
+        {% if item.items %}
+          <ul class="dropdown__menu">
             {% for subitem in item.items %}
               {% if subitem.url contains '://' %}
                 {% assign suburl = subitem.url %}
@@ -24,12 +24,8 @@
               </li>
             {% endfor %}
           </ul>
-        </li>
-      {% else %}
-        <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-          <a href="{{ url }}">{{ item.title }}</a>
-        </li>
-      {% endif %}
+        {% endif %}
+      </li>
     {% endfor %}
   </ul>
   <button class="button  button--nav" aria-label="Menu toggle">
@@ -39,75 +35,6 @@
 {% else %}
   {% include nav-default.html %}
 {% endif %}
-
-<style>
-  .nav--header {
-    overflow: visible !important;
-  }
-  .list--nav {
-    overflow: visible !important;
-  }
-  .item--dropdown {
-    position: relative;
-  }
-  .dropdown-title {
-    cursor: pointer;
-    display: inline-block;
-  }
-  .dropdown-title::after {
-    content: " ▾";
-  }
-  .item--dropdown > a::after {
-    content: " ▾";
-  }
-  .list--dropdown {
-    display: none;
-    position: absolute;
-    top: 100%;
-    right: 0;
-    background: white;
-    border: 1px solid #e5e5e5;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    min-width: 200px;
-    z-index: 1000;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-  @media (hover: hover) {
-    .item--dropdown:hover .list--dropdown {
-      display: grid;
-    }
-  }
-  .list--dropdown .item--nav {
-    margin: 0;
-    padding: 0;
-  }
-  .list--dropdown .item--nav a {
-    display: block;
-    padding: 8px 12px;
-    border-bottom: 1px solid #f0f0f0;
-    white-space: nowrap;
-  }
-  .list--dropdown .item--nav:last-child a {
-    border-bottom: none;
-  }
-  .list--dropdown .item--nav a:hover {
-    background: #f5f5f5;
-  }
-  @media (hover: none) {
-    .list--dropdown {
-      display: none;
-      position: static;
-      border: none;
-      box-shadow: none;
-      padding-left: 15px;
-    }
-    .item--dropdown.active .list--dropdown {
-      display: block;
-    }
-  }
-</style>
 
 <script type="text/javascript">
   // Get list and button
@@ -139,13 +66,46 @@
     collapseNav()
   })
 
-  // Touch device dropdown toggle
-  document.querySelectorAll('.item--dropdown .dropdown-title').forEach(link => {
-    link.addEventListener('click', (e) => {
-      if (window.matchMedia('(hover: none)').matches) {
-        e.preventDefault()
-        link.parentElement.classList.toggle('active')
-      }
-    })
-  })
+  // Mobile dropdown functionality
+  const initMobileDropdowns = () => {
+    const dropdownToggles = document.querySelectorAll('.item--nav__has-dropdown > a');
+
+    dropdownToggles.forEach(toggle => {
+      toggle.addEventListener('click', (e) => {
+        if (document.body.clientWidth < 640) {
+          e.preventDefault();
+          const parent = toggle.parentElement;
+          const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
+
+          // Close other dropdowns
+          dropdownToggles.forEach(otherToggle => {
+            if (otherToggle !== toggle) {
+              otherToggle.setAttribute('aria-expanded', 'false');
+              otherToggle.parentElement.classList.remove('dropdown--open');
+            }
+          });
+
+          // Toggle current dropdown
+          toggle.setAttribute('aria-expanded', !isExpanded);
+          parent.classList.toggle('dropdown--open');
+        }
+      });
+    });
+  }
+
+  // Initialize dropdowns
+  initMobileDropdowns();
+
+  // Reinitialize on resize
+  window.addEventListener('resize', () => {
+    // Close mobile dropdowns when switching to desktop
+    if (document.body.clientWidth >= 640) {
+      document.querySelectorAll('.dropdown--open').forEach(open => {
+        open.classList.remove('dropdown--open');
+      });
+      document.querySelectorAll('[aria-expanded="true"]').forEach(expanded => {
+        expanded.setAttribute('aria-expanded', 'false');
+      });
+    }
+  });
 </script>

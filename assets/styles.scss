@@ -179,3 +179,118 @@ a {
   text-align: center;
   width: 100%;
 }
+
+// Dropdown Navigation Styles
+.item--nav__has-dropdown {
+  position: relative;
+
+  > a {
+    padding-right: 1.5rem; // Space for arrow
+
+    &::after {
+      content: '▾';
+      position: absolute;
+      right: 0.5rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 0.8em;
+      transition: transform 0.2s ease;
+    }
+  }
+
+  &:hover > a::after {
+    transform: translateY(-50%) rotate(180deg);
+  }
+}
+
+.dropdown__menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 200px;
+  background: #ffffff;
+  box-shadow: 5px 5px 25px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+  z-index: 1000;
+  padding: 0.5em 0;
+  margin-top: 0.5em;
+
+  .item--nav {
+    display: block;
+    margin: 0;
+    padding: 0;
+
+    a {
+      display: block;
+      padding: 0.5em 1.5em;
+      color: #006244;
+      white-space: nowrap;
+
+      &:hover {
+        background: #f5f5f5;
+        color: #008000;
+      }
+    }
+
+    &.item--current a {
+      color: #606060;
+    }
+  }
+}
+
+.item--nav__has-dropdown:hover .dropdown__menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+// Fix theme overflow that clips dropdowns (desktop only)
+@media screen and (min-width: 641px) {
+  .header .nav {
+    overflow: visible !important;
+  }
+
+  .list--nav {
+    overflow: visible !important;
+  }
+}
+
+// Mobile dropdown adjustments
+@media screen and (max-width: 640px) {
+  .item--nav__has-dropdown {
+    > a {
+      // Ensure arrow position is maintained on mobile
+      padding-right: 1.5rem;
+      position: relative;
+
+      &::after {
+        position: absolute;
+        right: 0.5rem;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+    }
+
+    .dropdown__menu {
+      position: static;
+      opacity: 1;
+      visibility: visible;
+      transform: none;
+      box-shadow: none;
+      background: transparent;
+      padding-left: 1rem;
+      margin-top: 0;
+      display: none;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    &.dropdown--open .dropdown__menu {
+      display: block;
+    }
+  }
+}
