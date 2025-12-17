@@ -44,8 +44,8 @@ navigation_header:
     url: /personalized_plant_walk.html
   - title: Read
     url: /read.html
-  - title: Bioregional Herbal Apprenticeship
-    url: /bioregional_apprenticeship.html
+  - title: Bioregional Herbal Immersion
+    url: /bioregional_immersion.html
 - title: Contact
   url: /contact.html
 - title: Work with me
@@ -60,8 +60,8 @@ navigation_footer:
   url: /work_w_me.html
 - title: Community Classes
   url: /learn.html
-- title: Bioregional Apprenticeship
-  url: /bioregional_apprenticeship.html
+- title: Bioregional Immersion
+  url: /bioregional_immersion.html
 - title: Personalized Plant Walk
   url: /personalized_plant_walk.html
 - title: Read
