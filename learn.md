@@ -28,6 +28,19 @@ The best way to find out what classes are coming up is to...
 _Interested in booking me for one of these classes? Email me at mo (at) mokatzchristy.com!_
 
 #### Medicine Making
+{% capture bitters %}
+![](/assets/images/webp/teablend.webp){: style="float: center; width: 100%"}
+{: style="clear: left"}
+
+Come learn the art and science of making your own digestive bitters! We’ll discuss how our bodies and cultures evolved with the bitter flavor and how we can use bitters to regulate our guts, mood, blood sugar and more. We’ll explore how to choose bitter herbs that are appropriate for our individual constitutions, and how to balance a formula to make it delicious and get it where it needs to go in the body. We'll each make an individualized bitters tincture specially formulated for our bodies that we can take home!
+
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "DIY Bitters"
+  content = bitters
+%}
+
 {% capture tea %}
 ![](/assets/images/webp/teablend.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
@@ -122,6 +135,20 @@ We will taste different blends and each participant will make one designed for o
   title = "Make Your Own Herbal Coffee"
   content = coffee
 %}
+
+{% capture firecider %}
+![](/assets/images/webp/teablend.webp){: style="float: center; width: 100%"}
+{: style="clear: left"}
+
+What do you get when you mix honey, vinegar, ginger, horseradish, and whatever else hot and spicy you find in the back of your fridge? A powerful and delicious fire cider that can help our immune system kick out colds, flus and more. In this class, we will discuss the ingredients in fire cider, different recipes for different conditions, and when and how to use them (salad dressings! mocktails!). Each participant will leave with their very own jar of fire cider to share with their community.
+
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "The Art of Fire Cider"
+  content = firecider
+%}
+
 {% capture ferment %}
 What’s all this fuss about fermented foods? Why are fermented foods essential for gut health, and why are they so expensive? In this class, you will learn how to use any old vegetables to make delicious and nutritious fermented foods that replenish the microbiome, regulate our immune system, and more! Leave with a jar of kraut that you can share with your household.
 {% endcapture %}
@@ -133,15 +160,25 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
 
 
 #### Plant Walks
-{% capture monthly %}
+{% capture medicinalplantwalk %}
 ![](/assets/images/webp/Medicinal_Plant_Walks_2025.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 (Example Description) Join herbalist Mo Katz-Christy for a meander through Danehy park to meet wintertime city plants and explore their medicinal uses! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like, and meet us at the parking lot on Sherman Street (if you're late you should be able to find us -- we won't move too far too fast!). 
 {% endcapture %}
 
 {% include components/dropdown.html 
-  title = "Monthly Plant Walk"
-  content = monthly
+  title = "Medicinal Plant Walk"
+  content = medicinalplantwalk
+%}
+{% capture backyard %}
+![](/assets/images/webp/Medicinal_Plant_Walks_2025.webp){: style="float: center; width: 100%"}
+{: style="clear: left"}
+Join herbalist Mo Katz-Christy for a meander through Habitat Audubon sanctuary to learn how we can harvest local plants to use as medicine! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like and get ready to nibble and use all our senses to explore our botanical neighbors.
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Medicine from your Backyard Foraging Walk"
+  content = backyard
 %}
 {% capture tea_walk %}
 ![](/assets/images/webp/teawalk.webp){: style="float: center; width: 100%"}
@@ -164,6 +201,28 @@ Let's welcome fall by exploring the wonder of wild weeds! Join clinical herbalis
 {% include components/dropdown.html 
   title = "Wild Weed Fall Herb Walk"
   content = weed
+%}
+{% capture pesto %}
+![](/assets/images/webp/weedwalk.webp){: style="float: center; width: 100%"}
+{: style="clear: left"}
+Together, we will walk the farm, woods, and fields, learning about the medicinal uses of so-called weeds. Baskets in hand we will harvest as we go, bringing back a bounty of delicious and nutrient-dense greens that we will make into pesto to enjoy together.
+
+We’ll learn how local weeds can soothe a hyperactive immune system, modulate the digestive tract, and regulate blood pressure. We will ask, what does it mean to look towards our local plants for food as medicine? What does it mean for a plant to be a weed, and where do humans belong in relationship to our ecosystem? 
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Wild Weed Medicinal Pesto"
+  content = pesto
+%}
+{% capture senior %}
+![](/assets/images/webp/weedwalk.webp){: style="float: center; width: 100%"}
+{: style="clear: left"}
+Join herbalist Mo Katz-Christy for a slow meander through the fields of LexFarm to learn how we can harvest local plants to use as medicine! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like and get ready to nibble and use all our senses to explore our botanical neighbors.
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Senior Medicinal Wellness Walk"
+  content = senior
 %}
 
 #### Discussion Classes
