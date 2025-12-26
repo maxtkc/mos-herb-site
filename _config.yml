@@ -36,7 +36,7 @@ navigation_header:
 - title: About
   url: /about.html
 - title: Learn
-  url: "#"
+  url: /learn.html
   items:
   - title: Community Classes
     url: /learn.html
