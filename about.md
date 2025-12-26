@@ -7,7 +7,7 @@ feature_image: "/assets/images/webp/little_pink_flowers.webp"
 
 Hi there! I’m Mo, a Boston area clinical herbalist and community educator. I work with clients in person in **Davis Square, Somerville and virtually** worldwide. We use plants to **address the root imbalances** that are causing dysregulation in order to build **long-term healing**, focusing on gut health.
 
-I also teach community classes all over -- contact me if you’d like me to teach for your local organization!
+I also teach herb classes at over 40 sites in New England -- contact me if you’d like me to teach for your local organization!
 
 ### Why gut health?
 The gut is an ecosystem. We are living through deep ecosystem dysregulation on a global scale. Naturally, impacts ripple across the smaller ecosystems within our own bodies. Trauma shows up in many places in the body, and **I work with clients whose trauma is showing up specifically in the gut** to move, heal, and regulate so that we can show up fully embodied for our work in this world.
