@@ -230,7 +230,7 @@ Join herbalist Mo Katz-Christy for a slow meander through the fields of LexFarm 
 
 #### Discussion Classes
 {% capture resilience %}
-![](/assets/images/webp/chemistry.webp){: style="float: center; width: 100%"}
+![](/assets/images/webp/prettysjw.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Come cozy up with a cup of tea in Constellation studios and learn about how we can use plants to build our resilience so that we can keep resisting.
 
@@ -337,7 +337,7 @@ Come each month to build your materia medica or just once to meet a new plant fr
   content = herb_month
 %}
 {% capture trans %}
-![](/assets/images/webp/Herb_of_the_Month_2025.webp){: style="float: center; width: 100%"}
+![](/assets/images/sittingincircleatCN.JPG){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Calling all trans and nonbinary herb lovers! Join us over a cup of herbal tea to discuss how we can work with plants to care for ourselves and each other. Trans herbalist Mo Katz-Christy will share some herbs and blends that can support communal care, and we will have time to gather and celebrate Transgender Awareness Week. Bring your favorite mug, your questions, and your trans pals!
 {% endcapture %}
