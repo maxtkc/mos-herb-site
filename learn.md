@@ -385,7 +385,7 @@ Come join us for an evening of sweet herbal dreaming into 5786. Jewish herbalist
   content = honey
 %}
 
-![](/assets/images/webp/bluehill.webp){: style="float: right; width: 50%"}
+![](/assets/images/webp/prettysjw.webp){: style="float: right; width: 50%"}
 {: style="clear: left"}
 
 > "Thank you so very much for hosting such an enriching and enchanting plant walk last week. People have been singing your praises in the days afterwards! Thank you for sharing your wisdom with the community here: your enthusiastic, warm nature made the whole experience so wonderful. I loved seeing people light up with questions, ideas, comments--a testament to the generous and affirming space and knowledge you cultivate."
