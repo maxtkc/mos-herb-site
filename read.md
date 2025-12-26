@@ -5,9 +5,9 @@ feature_image: "/assets/images/webp/dock.webp"
 ---
 
 **Published writing:**
-- [Herbal Medicine in Apocalyptic Times](/assets/JAHG_Fall_2023_Apocalyptic_Times.pdf)(American Herbalist Guild Journal)
-- [Book Review: Trees and Shrubs that Heal](/assets/JAHG_Spring2024_Trees_and_Shrubs_that_Heal.pdf)(American Herbalist Guild Journal)
-- [Bitter Haggadah Insert](/assets/Bitter_Haggadah_Insert.pdf)(Pillar of Fire Haggadah)
+- [Herbal Medicine in Apocalyptic Times](/assets/JAHG_Fall_2023_Apocalyptic_Times.pdf): Published in the Fall 2023 edition of the [American Herbalist Guild Journal](https://americanherbalistsguild.com/journal/)
+- [Book Review: Trees and Shrubs that Heal](/assets/JAHG_Spring2024_Trees_and_Shrubs_that_Heal.pdf): Published in the Spring 2024 edition of the [American Herbalist Guild Journal](https://americanherbalistsguild.com/journal/)
+- [Bitter Haggadah Insert](/assets/Bitter_Haggadah_Insert.pdf): Published in the [Pillar of Fire Haggadah](https://pushcartjudaica.com/products/pillar-of-fire-a-queer-anti-zionist-haggadah)
 {: .fancy-list}
 
 **Unplublished writing:**
