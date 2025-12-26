@@ -226,6 +226,22 @@ Join herbalist Mo Katz-Christy for a slow meander through the fields of LexFarm 
 %}
 
 #### Discussion Classes
+{% capture resilience %}
+![](/assets/images/webp/chemistry.webp){: style="float: center; width: 100%"}
+{: style="clear: left"}
+Come cozy up with a cup of tea in Constellation studios and learn about how we can use plants to build our resilience so that we can keep resisting.
+
+Part one will focus on herbs that have an immediate, acute effect on our nervous systems. These are herbs that help us fall asleep, energize us, and promote focus, relaxation, or joy. Participants will craft a tea or tincture blend to bring home with them with herbs that are specific for their bodies and needs -- whether that’s a sleepy tincture, a focus tea blend, or a relaxation bath time tea.
+
+Part two will focus on herbs that long-term regulate our nervous system. These are herbs that, over time, help our nervous system respond to stressors in a modulated and resourced way. We will make “adaptogenic bliss balls” -- herbal powders combined with nut butters, seeds, chocolate, and more -- that are both a delicious snack and will build our capacity to keep our fire going throughout the winter. Again, we will learn how to specifically tailor these to our particular bodies and needs.
+
+This class is for anyone who wants to support themselves and their communities this winter to be nourished, resourced, and connected to our ecosystems. Though the classes will build on each other, you can attend one or both!
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Plant Allies for Resilience and Resistance"
+  content = resilience
+%}
 {% capture chemistry %}
 ![](/assets/images/webp/chemistry.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
@@ -317,6 +333,16 @@ Come each month to build your materia medica or just once to meet a new plant fr
   title = "Herb of the Month Series"
   content = herb_month
 %}
+{% capture trans %}
+![](/assets/images/webp/Herb_of_the_Month_2025.webp){: style="float: center; width: 100%"}
+{: style="clear: left"}
+Calling all trans and nonbinary herb lovers! Join us over a cup of herbal tea to discuss how we can work with plants to care for ourselves and each other. Trans herbalist Mo Katz-Christy will share some herbs and blends that can support communal care, and we will have time to gather and celebrate Transgender Awareness Week. Bring your favorite mug, your questions, and your trans pals!
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Trans Tea Time"
+  content = trans
+%}
 
 #### Jewish Herbal Classes
 {% capture seder %}
@@ -336,14 +362,24 @@ In a time of great shifting of our climate, it is easy to feel out of whack. The
 {% capture trees %}
 ![](/assets/images/webp/trees.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
-Trees play a powerful role in medicine, both herbally and extracted in our pharmaceuticals. In this class, we will learn which herbal actions trees most commonly offer us. We will explore the chemistry behind those actions and the benefits they offer the tree. We will taste some local tree medicines and learn about some of the trees used in Jewish rituals.
+Join herbalist Mo Katz-Christy for a dive into the herbalism of Tu B’Shvat. We will explore the meaning of this holiday and this season as diasporic Jews on Turtle Island, as the sap begins to rise from the roots of our local trees! Using text, ecology, and our own bodies as our guides, we will study the different parts of trees and the medicine they offer.
 
-Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, part taste test, this class will be as playful as it is educational.
+Come sip some warm tree teas and taste other local tree medicine together as we prepare for Tu B’Shvat rooted in our bodies and ecosystem.
 {% endcapture %}
 
 {% include components/dropdown.html 
   title = "Trees as Medicine for Tu B'Shvat"
   content = trees
+%}
+{% capture honey %}
+![](/assets/images/webp/trees.webp){: style="float: center; width: 100%"}
+{: style="clear: left"}
+Come join us for an evening of sweet herbal dreaming into 5786. Jewish herbalist Mo Katz-Christy will bring a bounty of fresh and dried herbs for us to smell, taste, and infuse in honey. We will explore: what plants do we want to bring into this new year? What flavors do we need in this year to come? We will discuss the magic, science, tradition, and awe of honey and the herbs we can infuse into it.
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Honey Herbal Magic for Rosh Hashanah"
+  content = honey
 %}
 
 ![](/assets/images/webp/bluehill.webp){: style="float: right; width: 50%"}
