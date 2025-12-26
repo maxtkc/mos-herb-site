@@ -305,22 +305,22 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
 {: .fancy-list}
 
 **Libraries:**
-- Somerville - East Branch
-- Somerville - West Branch
-- Sommerville - Main Branch
-- Cambridge - O’Neill Branch
-- Cambridge - Central Sq Branch
-- Cambridge - Valente Branch
-- Cambridge - Collins Branch
-- Cambridge - O’Connell Branch
-- Boston - Nutritional Literacy Program
-- Boston - Connolly Branch
-- Boston - Faneuil Branch
-- Boston - Honan-Allston Branch
-- Charlotte and William Bloomberg Medford Public Library
-- Watertown Free Public Library
-- Blue Hill Public Library
-- Rockport Public Library
+- [Somerville - East Branch](https://somervillepubliclibrary.org/)
+- [Somerville - West Branch](https://somervillepubliclibrary.org/)
+- [Sommerville - Main Branch](https://somervillepubliclibrary.org/)
+- [Cambridge - O’Neill Branch](https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations)
+- [Cambridge - Central Sq Branch](https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations)
+- [Cambridge - Valente Branch](https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations)
+- [Cambridge - Collins Branch](https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations)
+- [Cambridge - O’Connell Branch](https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations)
+- [Boston - Nutrition Lab](https://www.bpl.org/nutrition-lab/)
+- [Boston - Connolly Branch](https://www.bpl.org/)
+- [Boston - Faneuil Branch](https://www.bpl.org/)
+- [Boston - Honan-Allston Branch](https://www.bpl.org/)
+- [Charlotte and William Bloomberg Medford Public Library](https://medfordlibrary.org/)
+- [Watertown Free Public Library](https://www.watertownlib.org/)
+- [Blue Hill Public Library](https://www.bhpl.net/)
+- [Rockport Public Library](https://rockportlibrary.org/)
 {: .fancy-list}
 
 **Shops:**
