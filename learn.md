@@ -304,27 +304,19 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
 - [Wintergreen](https://www.herbstalk.org/wintergreen.html)
 {: .fancy-list}
 
-**Libraries:**\
-\
-Somerville:
-- East Branch
-- West Branch
-- Main Branch
-{: .fancy-list}
-Cambridge:
-- O’Neill
-- Central Sq
-- Valente
-- Collins
-- O’Connell
-{: .fancy-list}
-Boston:
-- Nutritional Literacy Program
-- Connolly
-- Faneuil
-- Honan-Allston
-{: .fancy-list}
-Other:
+**Libraries:**
+- Somerville - East Branch
+- Somerville - West Branch
+- Sommerville - Main Branch
+- Cambridge - O’Neill Branch
+- Cambridge - Central Sq Branch
+- Cambridge - Valente Branch
+- Cambridge - Collins Branch
+- Cambridge - O’Connell Branch
+- Boston - Nutritional Literacy Program
+- Boston - Connolly Branch
+- Boston - Faneuil Branch
+- Boston - Honan-Allston Branch
 - Charlotte and William Bloomberg Medford Public Library
 - Watertown Free Public Library
 - Blue Hill Public Library
