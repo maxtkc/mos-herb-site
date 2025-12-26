@@ -295,21 +295,13 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
 
 ---
 
-![](/assets/images/webp/Herb_of_the_Month_2025.webp){: style="float: center; width: 100%"}
-{: style="clear: left"}
+### Places I've Taught Include:
 
----
-
-![](/assets/images/webp/Medicinal_Plant_Walks_2025.webp){: style="float: left; width: 100%"}
-{: style="clear: left"}
-\
-
-
-### Places I've Taught, Places I'm Teaching
-
-**Herb Symposiums:**
+**Symposiums:**
 - [Herbstalk](https://www.herbstalk.org/)
 - [Western Mass Herbal Symposium](https://www.westernmassherbalsymposium.com/)
+- [Melacha U'Vracha](https://www.melachauvracha.org/)
+- [Wintergreen](https://www.herbstalk.org/wintergreen.html)
 {: .fancy-list}
 
 **Libraries:**\
@@ -330,11 +322,13 @@ Boston:
 - Nutritional Literacy Program
 - Connolly
 - Faneuil
+- Honan-Allston
 {: .fancy-list}
 Other:
 - Charlotte and William Bloomberg Medford Public Library
 - Watertown Free Public Library
 - Blue Hill Public Library
+- Rockport Public Library
 {: .fancy-list}
 
 **Shops:**
@@ -351,13 +345,21 @@ Other:
 - Mass Audubon - Drumlin Farm
 - Lexington Community Farm
 - Newton Community Farm
+- Boston Nature Center
+{: .fancy-list}
+
+**Jewish Organizations:**
+- IfNotNow
+- Kavod Boston
+- Temple Beth Zion
+- Moishe House Somerville
 {: .fancy-list}
 
 **Other:**
-- IfNotNow
-- Temple Beth Zion
-- Moishe House Somerville
 - Cambridge Montessori School
 - SmartBear Software
 - Peaks Island Historical Society
+- Constellation Studio
+- CultureHouse
+- 
 {: .fancy-list}
