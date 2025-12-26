@@ -324,34 +324,33 @@ Come celebrate Tu B’Shvat by learning a new way to love trees! Part science, p
 {: .fancy-list}
 
 **Shops:**
-- Cambridge Naturals
-- Curio Spice
-- Lehrhaus
-- Blue Hill Coop
+- [Cambridge Naturals](https://www.cambridgenaturals.com/)
+- [Curio Spice Co.](https://curiospice.com/)
+- [Lehrhaus Tavern & House of Learning](https://www.lehr.haus/)
+- [Blue Hill Co-op](https://bluehill.coop/)
 {: .fancy-list}
 
 **Farms + Gardens:**
-- Somerville Community Growing Center
-- Abundance Farm
-- Mass Audubon - Magazine Beach
-- Mass Audubon - Drumlin Farm
-- Lexington Community Farm
-- Newton Community Farm
-- Boston Nature Center
+- [Somerville Community Growing Center](https://www.thegrowingcenter.org/)
+- [Abundance Farm](https://www.abundancefarm.org/)
+- [Mass Audubon - Magazine Beach](https://www.massaudubon.org/places-to-explore/wildlife-sanctuaries/magazine-beach)
+- [Mass Audubon - Drumlin Farm](https://www.massaudubon.org/places-to-explore/wildlife-sanctuaries/drumlin-farm)
+- [Lexington Community Farm](https://lexfarm.org/)
+- [Newton Community Farm](https://www.newtoncommunityfarm.org/)
+- [Boston Nature Center Food Forest](https://www.bostonfoodforest.org/boston-nature-center-food-forest)
 {: .fancy-list}
 
 **Jewish Organizations:**
-- IfNotNow
-- Kavod Boston
-- Temple Beth Zion
-- Moishe House Somerville
+- [IfNotNow](https://www.ifnotnowmovement.org/)
+- [Kavod Boston](https://www.kavodboston.org/)
+- [Temple Beth Zion](https://www.tbzbrookline.org/)
+- [Moishe House Somerville](https://memglobal.org/find-a-house/moishe-house-boston-somerville/)
 {: .fancy-list}
 
 **Other:**
-- Cambridge Montessori School
-- SmartBear Software
-- Peaks Island Historical Society
-- Constellation Studio
-- CultureHouse
-- 
+- [Cambridge Montessori School](https://cambridgemontessori.org/)
+- [SmartBear Software](https://smartbear.com/)
+- [Peaks Island Historical Society](https://www.peaksislandhistory.org/)
+- [Constellation Studio](https://www.studioconstellation.com/)
+- [CultureHouse](https://culturehouse.cc/)
 {: .fancy-list}
