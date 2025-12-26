@@ -94,7 +94,7 @@ Each participant will leave with a jar of herbal tincture and a cheesecloth to s
 {% endcapture %}
 
 {% include components/dropdown.html 
-  title = "Make an Herbal Tincture"
+  title = "Make Your Own Herbal Tincture"
   content = tinc
 %}
 {% capture syrup %}
@@ -108,7 +108,7 @@ Finally, we will make one ourselves! We will mix medicinal berries and honey to 
 {% endcapture %}
 
 {% include components/dropdown.html 
-  title = "Make an Herbal Syrup"
+  title = "Make Your Own Herbal Syrup"
   content = syrup
 %}
 {% capture fresh %}
