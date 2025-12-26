@@ -164,7 +164,7 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
 
 #### Plant Walks
 {% capture medicinalplantwalk %}
-![](/assets/images/webp/Medicinal_Plant_Walks_2025.webp){: style="float: center; width: 100%"}
+![](/assets/images/webp/moginkgomedford.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 (Example Description) Join herbalist Mo Katz-Christy for a meander through Danehy park to meet wintertime city plants and explore their medicinal uses! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like, and meet us at the parking lot on Sherman Street (if you're late you should be able to find us -- we won't move too far too fast!). 
 {% endcapture %}
@@ -174,7 +174,7 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
   content = medicinalplantwalk
 %}
 {% capture backyard %}
-![](/assets/images/webp/Medicinal_Plant_Walks_2025.webp){: style="float: center; width: 100%"}
+![](/assets/images/webp/pickingroses.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Join herbalist Mo Katz-Christy for a meander through Habitat Audubon sanctuary to learn how we can harvest local plants to use as medicine! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like and get ready to nibble and use all our senses to explore our botanical neighbors.
 {% endcapture %}
@@ -196,7 +196,7 @@ Bring a mug and join us to learn about the uses, flavors, and energies of differ
   content = tea_walk
 %}
 {% capture weed %}
-![](/assets/images/webp/weedwalk.webp){: style="float: center; width: 100%"}
+![](/assets/images/webp/calendulabasket.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Let's welcome fall by exploring the wonder of wild weeds! Join clinical herbalist Mo Katz-Christy for a stroll along the Community Path to learn about the medicine, botany, and magic of medicinal herbs. We will ask, what does it mean to look towards our local plants for medicine, especially when our soils are contaminated and invasive plants abound? What does it mean for a plant to be a "weed", and where do humans belong in relationship to our ecosystem? We will discuss the bounty of medicinal plants in Somerville and their specific indications and properties. Bring a notebook and get ready to scribble fast as we delight in the bounty of our neighborhood!
 {% endcapture %}
@@ -218,7 +218,7 @@ We’ll learn how local weeds can soothe a hyperactive immune system, modulate t
   content = pesto
 %}
 {% capture senior %}
-![](/assets/images/webp/weedwalk.webp){: style="float: center; width: 100%"}
+![](/assets/images/webp/motalksatgc.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Join herbalist Mo Katz-Christy for a slow meander through the fields of LexFarm to learn how we can harvest local plants to use as medicine! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like and get ready to nibble and use all our senses to explore our botanical neighbors.
 {% endcapture %}
