@@ -29,7 +29,7 @@ _Interested in booking me for one of these classes? Email me at mo (at) mokatzch
 
 #### Medicine Making
 {% capture bitters %}
-![](/assets/images/webp/teablend.webp){: style="float: center; width: 100%"}
+![](/assets/images/webp/nettle.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 
 Come learn the art and science of making your own digestive bitters! We’ll discuss how our bodies and cultures evolved with the bitter flavor and how we can use bitters to regulate our guts, mood, blood sugar and more. We’ll explore how to choose bitter herbs that are appropriate for our individual constitutions, and how to balance a formula to make it delicious and get it where it needs to go in the body. We'll each make an individualized bitters tincture specially formulated for our bodies that we can take home!
@@ -137,7 +137,7 @@ We will taste different blends and each participant will make one designed for o
 %}
 
 {% capture firecider %}
-![](/assets/images/webp/teablend.webp){: style="float: center; width: 100%"}
+![](/assets/images/joshstrippinggoldenrod.jpg){: style="float: center; width: 100%"}
 {: style="clear: left"}
 
 What do you get when you mix honey, vinegar, ginger, horseradish, and whatever else hot and spicy you find in the back of your fridge? A powerful and delicious fire cider that can help our immune system kick out colds, flus and more. In this class, we will discuss the ingredients in fire cider, different recipes for different conditions, and when and how to use them (salad dressings! mocktails!). Each participant will leave with their very own jar of fire cider to share with their community.
@@ -150,6 +150,9 @@ What do you get when you mix honey, vinegar, ginger, horseradish, and whatever e
 %}
 
 {% capture ferment %}
+![](/assets/images/fermentingatCNmohandsinbowl.JPG){: style="float: center; width: 100%"}
+{: style="clear: left"}
+
 What’s all this fuss about fermented foods? Why are fermented foods essential for gut health, and why are they so expensive? In this class, you will learn how to use any old vegetables to make delicious and nutritious fermented foods that replenish the microbiome, regulate our immune system, and more! Leave with a jar of kraut that you can share with your household.
 {% endcapture %}
 
