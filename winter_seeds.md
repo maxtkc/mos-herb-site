@@ -4,7 +4,7 @@ title: Winter Seeds of Herbalism Intensive
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
-##### FULL for 2026
+##### FULL for 2026 - [click here](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=header) to be notified when our next immersion program opens up
 
 ![](/assets/images/webp/icywalk.webp){: style="float: right; width: 50%"}
 
