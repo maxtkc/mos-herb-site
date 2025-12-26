@@ -174,7 +174,7 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
   content = medicinalplantwalk
 %}
 {% capture backyard %}
-![](/assets/images/webp/pickingroses.webp){: style="float: center; width: 100%"}
+![](/assets/images/webp/teawalk.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Join herbalist Mo Katz-Christy for a meander through Habitat Audubon sanctuary to learn how we can harvest local plants to use as medicine! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like and get ready to nibble and use all our senses to explore our botanical neighbors.
 {% endcapture %}
@@ -184,7 +184,7 @@ Join herbalist Mo Katz-Christy for a meander through Habitat Audubon sanctuary t
   content = backyard
 %}
 {% capture tea_walk %}
-![](/assets/images/webp/teawalk.webp){: style="float: center; width: 100%"}
+![](/assets/images/webp/pickingroses.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Come discover the delightful art of harvesting medicinal herbs for a fresh tea! We will start with a walk around the farm, woods, and fields, learning about the medicinal uses of the plants we find. We will harvest as we go, and bring our herbs back to make a delicious herbal tea!
 
