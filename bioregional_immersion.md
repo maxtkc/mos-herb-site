@@ -131,7 +131,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 Yes! This program is for herb enthusiasts who are in the beginning of their herbal journey. Maybe you've taken a couple of classes or made some medicine on your own, or maybe you are completely green and ready to dive in!
 
 **What if I have to miss one of the Sundays?**
-No problem! Since this is an in-person program we won't be recording the sessions, but I'll send you the handouts and your classmates can share their notes. You may be able to go to the farm and harvest herbs to make medicine on your own time -- TBD!
+No problem! Since this is an in-person program we won't be recording the sessions, but I'll send you the handouts and your classmates can share their notes. You may be able to go to the farm and harvest herbs to make medicine on your own time. That said, if you know you'll need to miss more than 2-3 classes, it may not be the best fit.
 
 **Will there be a lunch break?**
 Yes! I recommend you bring a lunch since there aren't a ton of close by options, but there are a few. We'll have at least one potluck as well!
