@@ -4,7 +4,7 @@ title: Bioregional Herbalism 9-Month Immersion
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
-##### [Register by 1/31](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor) for an Early Bird Discount
+##### [Schedule a connection call](https://zcal.co/i/HNRlGjhc) to chat about the program and ask any questions you have!
 
 ![](/assets/images/webp/hhfarm.webp){: style="float: right; width: 50%"}
 
