@@ -139,7 +139,7 @@ Yes! I recommend you bring a lunch since there aren't a ton of close by options,
 **What if I don't have a car?**
 I don't either! Waltham Fields Community Farm is a 30 minute walk from the Waverly Commuter Rail station and easily accessible by bicycle.
 
-**More questions? [Email me](https://mokatzchristy.com/contact.html)!**
+**More questions? [Email me](https://mokatzchristy.com/contact.html) or [schedule a connection call](https://zcal.co/i/HNRlGjhc)!**
 
 ### The Details:
 - The dates in one place (all Sundays):
@@ -159,4 +159,5 @@ I don't either! Waltham Fields Community Farm is a 30 minute walk from the Waver
     - Payment plans available and qualify for the early bird discount!
 - +$100 materials fee for your take home apothecary
 - New to sliding scale? Learn more [here](https://www.wortsandcunning.com/blog/sliding-scale)
+- [Schedule a connection call](https://zcal.co/i/HNRlGjhc)
 - [Register here!](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor)
