@@ -318,6 +318,8 @@ This class is for anyone who is an elder, cares for elders, or hopes to be one s
 ![](/assets/images/webp/adaptogens.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 Adaptogens are the “Next Big Thing” in herbalism -- and they truly are wonderful! Herbs that help us regulate our stress response over the long term -- who doesn’t need that? However, more is not necessarily better and many adaptogens are endangered and overharvested. By selecting the appropriate adaptogens for our constitution and bioregion we can be more effective in regulating our stress response and connect our own health to the larger health of our ecosystem.
+
+In this class we’ll learn how to figure out what adaptogens are right for our body’s needs, how to effectively extract them, and info on safety and dosage. Come prepared to taste and learn about many different adaptogens and leave with the tools to choose a blend specifically formulated for your body!
 {% endcapture %}
 
 {% include components/dropdown.html 
