@@ -4,7 +4,7 @@ title: Bioregional Herbalism 9-Month Immersion
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
-##### [Register by 1/31](https://forms.gle/4jeq5QaHrmuojDk59) for the Early Bird discount!
+##### [Register by 1/31]([https://forms.gle/4jeq5QaHrmuojDk59](https://docs.google.com/forms/d/e/1FAIpQLSf0Om2Ni5Hvf9CroIT8CbWiwx34briY2k8X0WiUTKslan5A4g/viewform?usp=header)) for the Early Bird discount!
 
 ![](/assets/images/webp/hhfarm.webp){: style="float: right; width: 50%"}
 
@@ -160,4 +160,4 @@ I don't either! Waltham Fields Community Farm is a 30 minute walk from the Waver
 - +$100 materials fee for your take home apothecary
 - New to sliding scale? Learn more [here](https://www.wortsandcunning.com/blog/sliding-scale)
 - [Schedule a connection call](https://zcal.co/i/HNRlGjhc)
-- [Register here!](https://forms.gle/4jeq5QaHrmuojDk59)
+- [Register here!]([https://forms.gle/4jeq5QaHrmuojDk59](https://docs.google.com/forms/d/e/1FAIpQLSf0Om2Ni5Hvf9CroIT8CbWiwx34briY2k8X0WiUTKslan5A4g/viewform?usp=header))
