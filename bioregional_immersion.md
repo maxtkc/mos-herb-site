@@ -128,7 +128,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 ### FAQ
 
 **Can I join even if I have no formal herbal training?**
-Yes! This program is for herb enthusiasts who are in the beginning of their herbal journey. Maybe you've taken a couple of classes or made some medicine on your own, or maybe you are completely green and ready to dive in!
+Yes! This program is for herb enthusiasts who are in the beginning of their herbal journey. Maybe you've taken a couple of courses or studied on your own, or maybe you are completely green and ready to dive in.
 
 **What if I have to miss one of the Sundays?**
 No problem! Since this is an in-person program we won't be recording the sessions, but I'll send you the handouts and your classmates can share their notes. You may be able to go to the farm and harvest herbs to make medicine on your own time. That said, if you know you'll need to miss more than 2-3 classes, it may not be the best fit.
@@ -160,4 +160,4 @@ I don't either! Waltham Fields Community Farm is a 30 minute walk from the Waver
 - +$100 materials fee for your take home apothecary
 - New to sliding scale? Learn more [here](https://www.wortsandcunning.com/blog/sliding-scale)
 - [Schedule a connection call](https://zcal.co/i/HNRlGjhc)
-- [Register here!](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=publish-editor)
+- [Register here!](https://forms.gle/4jeq5QaHrmuojDk59)
