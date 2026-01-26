@@ -13,7 +13,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 We’ll learn from and work with three main areas of the farm: the woodland edges, weeds in the fields, and the herb garden we’ll tend. **Each month we'll make herbal preparations to bring home and share with our communities!**
 
 ### Quick info:
-> Where: Waltham Fields Community Farm\
+> Where: [Waltham Fields Community Farm](https://communityfarms.org/calendar/event/mo-katz-christys-bioregional-herbal-immersion-series)\
 > When: One Sunday per month, 11am-5pm with a lunch break (10am-4pm in fall for daylight)\
 > Who: Herbal enthusiasts wanting to get your hands dirty!
 
