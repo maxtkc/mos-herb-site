@@ -153,10 +153,10 @@ I don't either! Waltham Fields Community Farm is a 30 minute walk from the Waver
     - October 4th 10am-4pm
     - November 8th 10am-4pm
 - Tiered pricing:
-    - Receive a gift: $850 if you register before 1/31, $1000 after
-    - Actual cost: $1050 if you register before 1/31, $1200 after
-    - Pay it forward: $1250 if you register before 1/31, $1400 after
-    - Payment plans available and qualify for the early bird discount!
+    - Receive a gift: $950
+    - Actual cost: $1150
+    - Pay it forward: $1350
+    - Payment plans available!
 - +$100 materials fee for your take home apothecary
 - New to sliding scale? Learn more [here](https://www.wortsandcunning.com/blog/sliding-scale)
 - [Schedule a connection call](https://zcal.co/i/HNRlGjhc)
