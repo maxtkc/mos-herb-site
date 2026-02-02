@@ -4,7 +4,7 @@ title: Herbal Care + Education in Boston, MA and Online
 feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 ---
 
-#### Early Bird Discount for [2026 Bioregional Immersion](https://mokatzchristy.com/bioregional_immersion.html) ends 1/31!
+#### Enrolling now for [2026 Bioregional Immersion](https://mokatzchristy.com/bioregional_immersion.html)!
 
 {% include figure.html image="/assets/images/webp/mo_has_a_mug.webp" caption="what an herbal consultation might look like" %}{: style="float: right; width: 50%"}
 
