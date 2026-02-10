@@ -407,7 +407,8 @@ Come join us for an evening of sweet herbal dreaming into 5786. Jewish herbalist
 **Libraries:**
 - [Somerville - East Branch](https://somervillepubliclibrary.org/)
 - [Somerville - West Branch](https://somervillepubliclibrary.org/)
-- [Sommerville - Main Branch](https://somervillepubliclibrary.org/)
+- [Somerville - Main Branch](https://somervillepubliclibrary.org/)
+- [Cambridge - Main Branch](https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations)
 - [Cambridge - O’Neill Branch](https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations)
 - [Cambridge - Central Sq Branch](https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations)
 - [Cambridge - Valente Branch](https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations)
@@ -417,10 +418,13 @@ Come join us for an evening of sweet herbal dreaming into 5786. Jewish herbalist
 - [Boston - Connolly Branch](https://www.bpl.org/)
 - [Boston - Faneuil Branch](https://www.bpl.org/)
 - [Boston - Honan-Allston Branch](https://www.bpl.org/)
+- [Boston - Brighton Branch](https://www.bpl.org/)
 - [Charlotte and William Bloomberg Medford Public Library](https://medfordlibrary.org/)
 - [Watertown Free Public Library](https://www.watertownlib.org/)
+- [Rockport Public Library, MA](https://rockportlibrary.org/)
+- [Rockport Public Library, ME](https://www.rockportlibrary.net/)
+- [Rockland Public Library](https://www.rocklandmaine.gov/157/Rockland-Public-Library)
 - [Blue Hill Public Library](https://www.bhpl.net/)
-- [Rockport Public Library](https://rockportlibrary.org/)
 {: .fancy-list}
 
 **Shops:**
@@ -440,10 +444,11 @@ Come join us for an evening of sweet herbal dreaming into 5786. Jewish herbalist
 - [Boston Nature Center Food Forest](https://www.bostonfoodforest.org/boston-nature-center-food-forest)
 {: .fancy-list}
 
-**Jewish Organizations:**
+**Jewish Spaces:**
 - [IfNotNow](https://www.ifnotnowmovement.org/)
 - [Kavod Boston](https://www.kavodboston.org/)
 - [Temple Beth Zion](https://www.tbzbrookline.org/)
+- [Congregation Dorshei Tzedek](https://www.dorsheitzedek.org/)
 - [Moishe House Somerville](https://memglobal.org/find-a-house/moishe-house-boston-somerville/)
 {: .fancy-list}
 
