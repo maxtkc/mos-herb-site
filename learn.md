@@ -447,6 +447,7 @@ Come join us for an evening of sweet herbal dreaming into 5786. Jewish herbalist
 **Jewish Spaces:**
 - [IfNotNow](https://www.ifnotnowmovement.org/)
 - [Kavod Boston](https://www.kavodboston.org/)
+- [Havurat Shalom](https://www.thehav.org/)
 - [Temple Beth Zion](https://www.tbzbrookline.org/)
 - [Congregation Dorshei Tzedek](https://www.dorsheitzedek.org/)
 - [Moishe House Somerville](https://memglobal.org/find-a-house/moishe-house-boston-somerville/)
