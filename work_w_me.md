@@ -52,7 +52,7 @@ The consultations are the same, regardless of the price! Not sure how much to pa
 
 |                          |                  | Sustainer    | Base          |Pay-What-You-Can|
 | Complimentary intro call | 15 minutes       |              | Always free   |                |
-| Initial consult          | 90–120 minutes   | $300         | $240          | $0-$239        |
+| Initial consult          | 90 minutes       | $300         | $240          | $0-$239        |
 | Follow-up                | 30–60 minutes    | $150         | $100          | $0-$99         |
 
 {% capture consultation %}
