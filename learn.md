@@ -421,6 +421,7 @@ Come join us for an evening of sweet herbal dreaming into 5786. Jewish herbalist
 - [Boston - Brighton Branch](https://www.bpl.org/)
 - [Charlotte and William Bloomberg Medford Public Library](https://medfordlibrary.org/)
 - [Watertown Free Public Library](https://www.watertownlib.org/)
+- [Morse Institute Library](https://morseinstitute.libguides.com/digital-branch)
 - [Rockport Public Library, MA](https://rockportlibrary.org/)
 - [Rockport Public Library, ME](https://www.rockportlibrary.net/)
 - [Rockland Public Library](https://www.rocklandmaine.gov/157/Rockland-Public-Library)
@@ -442,6 +443,7 @@ Come join us for an evening of sweet herbal dreaming into 5786. Jewish herbalist
 - [Lexington Community Farm](https://lexfarm.org/)
 - [Newton Community Farm](https://www.newtoncommunityfarm.org/)
 - [Boston Nature Center Food Forest](https://www.bostonfoodforest.org/boston-nature-center-food-forest)
+- [Waltham Fields Community Farms](https://communityfarms.org/)
 {: .fancy-list}
 
 **Jewish Spaces:**
