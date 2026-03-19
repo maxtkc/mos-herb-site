@@ -137,7 +137,7 @@ No problem! Since this is an in-person program we won't be recording the session
 Yes! I recommend you bring a lunch since there aren't a ton of close by options, but there are a few. We'll have at least one potluck as well!
 
 **What if I don't have a car?**
-I don't either! Waltham Fields Community Farm is a 30 minute walk from the Waverly Commuter Rail station and easily accessible by bicycle.
+I don't either! LexFarm is easily accessible by bus and bicycle.
 
 **More questions? [Email me](https://mokatzchristy.com/contact.html) or [schedule a connection call](https://zcal.co/i/HNRlGjhc)!**
 
