@@ -42,10 +42,8 @@ navigation_header:
     url: /learn.html
   - title: Read
     url: /read.html
-  - title: Winter Seeds - FULL
-    url: /winter_seeds.html
-  - title: Bioregional Herbal Immersion
-    url: /bioregional_immersion.html
+  - title: Immersion Programs
+    url: /immersions.html
 - title: Contact
   url: /contact.html
 - title: Work with me
