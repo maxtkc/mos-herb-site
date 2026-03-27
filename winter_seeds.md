@@ -3,8 +3,7 @@ layout: page
 title: Winter Seeds of Herbalism Intensive
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
-
-##### FULL for 2026 - [click here](https://docs.google.com/forms/d/e/1FAIpQLScqE2Wtv0UAe-szcQLqNDpAlDpMSMn5ykJedyl_tHWa_adNsQ/viewform?usp=header) to be notified when our next immersion program opens up
+##### FULL for 2026 - [click here](https://mokatzchristy.com/immersions.html) to find out about immersion programs that have space available
 
 ![](/assets/images/webp/icywalk.webp){: style="float: right; width: 50%"}
 
