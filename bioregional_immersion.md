@@ -4,8 +4,6 @@ title: Bioregional Herbalism 9-Month Immersion
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
-##### [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSf0Om2Ni5Hvf9CroIT8CbWiwx34briY2k8X0WiUTKslan5A4g/viewform)
-
 ![](/assets/images/webp/hhfarm.webp){: style="float: right; width: 50%"}
 
 **Learn to follow the seasons as an herbalist!** In this immersive program we will integrate our bodies with the bodies of the land and learn what plant medicine can look like on seven acres in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
@@ -139,8 +137,6 @@ Yes! I recommend you bring a lunch since there aren't a ton of close by options,
 **What if I don't have a car?**
 I don't either! LexFarm is easily accessible by bus and bicycle.
 
-**More questions? [Email me](https://mokatzchristy.com/contact.html) or [schedule a connection call](https://zcal.co/i/HNRlGjhc)!**
-
 ### The Details:
 - The dates in one place (all Sundays):
     - March 29th 11am-5pm
@@ -159,5 +155,3 @@ I don't either! LexFarm is easily accessible by bus and bicycle.
     - Payment plans available!
 - +$100 materials fee for your take home apothecary
 - New to sliding scale? Learn more [here](https://www.wortsandcunning.com/blog/sliding-scale)
-- [Schedule a connection call](https://zcal.co/i/HNRlGjhc)
-- [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSf0Om2Ni5Hvf9CroIT8CbWiwx34briY2k8X0WiUTKslan5A4g/viewform)
