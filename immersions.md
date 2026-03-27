@@ -11,10 +11,10 @@ I offer several longer programs throughout the year including a [9-month apprent
 ### Cape Cod Herbal Immersion
 > May 23-24th, 2026\
 > $375-430\
-> [Welfleet Mass Adubon](https://www.massaudubon.org/programs/wellfleet-bay/101716-field-school-cape-cod-herbal-immersion)\
+> [Welfleet Mass Adubon](https://www.massaudubon.org/programs/wellfleet-bay/101716-field-school-cape-cod-herbal-immersion)
 > [Register here!](https://www.massaudubon.org/programs/wellfleet-bay/101716-field-school-cape-cod-herbal-immersion)
 
-![](/assets/images/Cove.jpeg){: style="float: right; width: 50%"}
+![](/assets/images/Cove.jpeg){: style="float: left; width: 60%"}
 
 ### Deer Isle Herbal Immersion
 > July 24-26, 2026\
