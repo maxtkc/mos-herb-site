@@ -57,11 +57,9 @@ navigation_footer:
 - title: Work with me
   url: /work_w_me.html
 - title: Community Classes
-  url: /learn.html
-- title: Bioregional Immersion
-  url: /bioregional_immersion.html
-- title: Personalized Plant Walk
-  url: /personalized_plant_walk.html
+  url: /learn.html  
+- title: Immersion Programs
+  url: /immersions.html
 - title: Read
   url: /read.html
 - title: Contact
