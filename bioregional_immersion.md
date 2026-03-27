@@ -103,7 +103,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
   - allergies, hypersensitivity, and inflammation
 - Focus herbs: goldenrod, New England aster, elderberries
 
-**Sunday, October 4th 10am-4pm**
+**Sunday, October 18th 10am-4pm**
 ![](/assets/images/webp/prettysjw.webp){: style="float: right; width: 50%"}
 - Projects:
   - vegetable fermentation
@@ -150,7 +150,7 @@ I don't either! LexFarm is easily accessible by bus and bicycle.
     - August 2nd 11am-5pm
     - August 30th 11am-5pm
     - September 20th 10am-4pm
-    - October 4th 10am-4pm
+    - October 18th 10am-4pm
     - November 8th 10am-4pm
 - Tiered pricing:
     - Receive a gift: $950
