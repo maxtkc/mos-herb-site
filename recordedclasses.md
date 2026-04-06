@@ -17,6 +17,8 @@ In this class, we will discuss two main herbal actions: adaptogens and nervines.
 
 Come learn the science behind why you should “stop and smell the roses”!
 
+[Listen here!](https://www.youtube.com/watch?v=aZHOK8Qbgdw&t=0s)
+
 ![](/assets/images/firecider.jpg){: style="float: right; width: 50%"}
 
 ### Medicine on the Seder Plate
@@ -26,6 +28,8 @@ Come learn the science behind why you should “stop and smell the roses”!
 Bitter herbs, spring greens – these plants contain nutrients and flavors that are essential to our springtime bodies, and hold the wisdom of liberation in their tiny beings. In this class, we will explore the physiological wisdom of the plants Jews place on our Seder plate at Passover, our springtime holiday of liberation. We will delve into the bitter flavor as we discuss why neither horseradish nor lettuce – the foods typically included as “bitter herbs” on the Seder plate – are particularly bitter. We will learn about the vital importance of the flavors on the Seder plate for the functioning of our body systems, and explore what they have to do with liberation.
 
 In this class, we will discuss how our springtime bodies' needs differ by climate and how that difference shows up in diasporic Jewish traditions. What does your body crave in springtime, and how is (or isn’t) that reflected in the ways you practice? Through exploring the wisdom of the Seder plate, we can embody the liberation of a diasporic Passover this spring.
+
+[Watch here!](https://vcih.newzenler.com/courses/medicine-on-the-seder-plate)
 
 {% include components/subscribe.html label="Join my monthly mailing list!" %}
 
