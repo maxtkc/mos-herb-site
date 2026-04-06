@@ -22,11 +22,13 @@ We will ask, what does it mean to be a human in relationship with our ecosystem?
 
 Come prepared to delight in the wonder of plants and leave with a bounty of herbal remedies to share with your community!
 
+[Register here!](https://www.massaudubon.org/programs/wellfleet-bay/101716-field-school-cape-cod-herbal-immersion)
+
 ![](/assets/images/Cove.jpeg){: style="float: left; width: 60%"}
 
 ### Deer Isle Herbal Immersion
 > July 24-26, 2026\
-> $150-$650\
+> $150-$650 including camping and meals\
 > Deer Isle, ME (location will be sent to registrants)\
 > [Register here!](https://docs.google.com/forms/d/e/1FAIpQLScXKmFetcBsf18qzpk0DVz-T85b4T6m7z1aor1x-1jAP7JMKw/viewform?usp=header)
 
@@ -37,6 +39,10 @@ In this weekend-long immersion, we will make our home on the shores of the magni
 We will spend the weekend hiking the different ecosystems of Deer Isle, learning about the plants we find. Baskets in hand, we will respectfully harvest abundant medicine and bring it back to the Cove where we will make teas, tinctures, salves, creams, and more. As we make medicine, we will learn about the chemistry, lineage, stories, and pharmacology of the plants with which we are building relationships. We will add them to our meals, along with clams we harvest from the sea.
 
 Join us to build beautiful, rich relationship with the ocean and the plants she tends.
+
+[Register here!](https://docs.google.com/forms/d/e/1FAIpQLScXKmFetcBsf18qzpk0DVz-T85b4T6m7z1aor1x-1jAP7JMKw/viewform?usp=header)
+
+---
 
 Unfortunately the [9-month apprentice-style program](https://mokatzchristy.com/bioregional_immersion.html) and [winter intensive](https://mokatzchristy.com/winter_seeds.html) are full for 2026. If you'd like to find out what programs are coming up you can...
 
