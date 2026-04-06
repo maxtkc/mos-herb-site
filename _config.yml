@@ -40,6 +40,8 @@ navigation_header:
   items:
   - title: Community Classes
     url: /learn.html
+  - title: Recorded Classes
+    url: /recordedclasses.html  
   - title: Read
     url: /read.html
   - title: Immersion Programs
