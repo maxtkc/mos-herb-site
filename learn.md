@@ -25,7 +25,7 @@ The best way to find out what classes are coming up is to...
 
 <h1 align="center">Class Offerings 2026 </h1>
 
-_Interested in booking me for one of these classes? Email me at mo (at) mokatzchristy.com!_
+_Interested in booking me for one of these classes? Check out my general availability [here](https://zcal.co/i/QrG3msxd) and email me at mo (at) mokatzchristy.com with some proposed times!_
 
 #### Medicine Making
 {% capture bitters %}
