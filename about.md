@@ -10,6 +10,8 @@ Hi there! I’m Mo, a Boston area clinical herbalist and community educator. I w
 I also teach herb classes and [herbal immersion programs](https://mokatzchristy.com/immersions.html) at over 50 sites in New England – email me at mo (at) mokatzchristy.com if you’d like me to teach for your local organization!
 
 ### Why gut health?
+While I support clients with all conditions, my practice focuses primarily on gut health.
+
 The gut is an ecosystem. We are living through deep ecosystem dysregulation on a global scale. Naturally, impacts ripple across the smaller ecosystems within our own bodies. Trauma shows up in many places in the body, and **I work with clients whose trauma is showing up specifically in the gut** to move, heal, and regulate so that we can show up fully embodied for our work in this world.
 
 **One reason I love the gut is its capacity for change.** The epithelial cells lining the small intestine are fully replaced every 3-5 days! We can use herbs as topical remedies on our internal “skin” to affect changes even with compounds we can’t absorb into our bloodstream. Thus, tea is essentially a gut bath!
