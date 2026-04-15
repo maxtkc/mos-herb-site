@@ -10,18 +10,14 @@ Want to **address the root imbalances** that are leading to dysregulation in you
 
 I can partner with you to understand your body from an herbal perspective – one that integrates scientific research with traditional botanical uses – in order to promote **long-term healing**.
 
-While **my practice centers gut health**, I follow my clients' lead and we work on what is showing up. I have experience supporting clients with:
+While **my practice centers gut health**, I follow my clients' lead and we work on what is showing up. Other common concerns of my clients include:
 
-- diabetes
-- thyroid imbalances and fatigue
-- sleep issues
-- depression and anxiety
-- migraines
-- GI dysregulation - IBS, diverticulitis, constipation, etc.
-- gender-affirming hormone therapy
-- immune support
-- allergies and asthma
-- skin issues
+- endocrine and energy: diabetes, sugar cravings, fatigue, poor circulation
+- nervous system regulation: depression, anxiety, grief, sleep
+- trans care: support alongside gender-affirming hormone therapy, surgical before + after care
+- immune regulation: allergies, asthma, frequent infections
+- skin: eczema, acne
+- hormonal regulation: menstrual cycle regulation, fertility support, cramps, PMS
 - and much, much more!
 
 {% include components/subscribe.html %}
