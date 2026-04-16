@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Herbal Care + Education in Boston, Maine, and Online
+title: Herbal Care + Education in Maine, Boston, and Online
 feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 ---
 
