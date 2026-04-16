@@ -14,6 +14,8 @@ The best way to find out what classes are coming up is to...
 
 {% include components/subscribe.html label="Join my monthly mailing list!" %}
 
+Interested in more longer-term programming? Check out my [Immersion Programs](https://mokatzchristy.com/immersions.html)!
+
 ---
 
 ![](/assets/images/webp/violet.webp){: style="float: right; width: 50%"}
