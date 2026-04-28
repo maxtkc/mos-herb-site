@@ -1,0 +1,15 @@
+{% assign cols = include.cols | default: 3 %}
+<div class="gallery-grid gallery-grid--cols-{{ cols }}">
+  {% for item in include.items %}
+    {% if item.image %}
+      <div class="gallery-item gallery-item--image">
+        <img src="{{ item.image }}" alt="{{ item.alt | default: '' }}">
+      </div>
+    {% elsif item.text %}
+      <div class="gallery-item gallery-item--testimonial">
+        <p class="gallery-testimonial__text">{{ item.text }}</p>
+        {% if item.attribution %}<p class="gallery-testimonial__attribution">{{ item.attribution }}</p>{% endif %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
