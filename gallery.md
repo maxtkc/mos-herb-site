@@ -6,7 +6,7 @@ gallery_items:
     alt: Roses in bloom
   - image: /assets/images/webp/calendulabasket.webp
     alt: Basket of calendula flowers
-  - text: "Mo's herbal knowledge is vast and her teaching style made everything feel accessible. I left with a whole new relationship to plants."
+  - text: "Mo's herbal knowledge is vast and their teaching style made everything feel accessible. I left with a whole new relationship to plants."
     attribution: "— Workshop participant"
   - image: /assets/images/webp/holdinggoldenrod.webp
     alt: Holding goldenrod
@@ -24,8 +24,8 @@ gallery_items:
     alt: Planting seeds
   - image: /assets/images/webp/firecider.webp
     alt: Fire cider
-  - text: "The way Mo teaches connects the scientific with the deeply human. Every class feels like coming home."
-    attribution: "— Immersion participant"
+  - text: "Mo is da besssst!"
+    attribution: "— Anonymous brother"
 ---
 
 {% include components/gallery.html items=page.gallery_items cols=3 %}
