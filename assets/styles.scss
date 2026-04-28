@@ -259,6 +259,65 @@ a {
   }
 }
 
+// Gallery component
+.gallery-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.gallery-grid--cols-2 { grid-template-columns: repeat(2, 1fr); }
+.gallery-grid--cols-3 { grid-template-columns: repeat(3, 1fr); }
+
+.gallery-item {
+  border-radius: 4px;
+}
+
+.gallery-item--image {
+  overflow: hidden;
+  min-height: 200px;
+}
+
+.gallery-item--image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.gallery-item--testimonial {
+  border-left: 4px solid #006244;
+  padding: 1rem 1.25rem;
+  background: #f9f9f9;
+  border-radius: 0 4px 4px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 0.9rem;
+}
+
+.gallery-testimonial__text {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+.gallery-testimonial__attribution {
+  font-size: 0.875rem;
+  color: #606060;
+  text-align: right;
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .gallery-grid--cols-3 { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 480px) {
+  .gallery-grid--cols-2,
+  .gallery-grid--cols-3 { grid-template-columns: 1fr; }
+}
+
 // Mobile dropdown adjustments
 @media screen and (max-width: 640px) {
   .item--nav__has-dropdown {
