@@ -139,7 +139,7 @@ We will taste different blends and each participant will make one designed for o
 %}
 
 {% capture firecider %}
-![](/assets/images/joshstrippinggoldenrod.jpg){: style="float: center; width: 100%"}
+![](/assets/images/webp/joshstrippinggoldenrod.webp){: style="float: center; width: 100%"}
 {: style="clear: left"}
 
 What do you get when you mix honey, vinegar, ginger, horseradish, and whatever else hot and spicy you find in the back of your fridge? A powerful and delicious fire cider that can help our immune system kick out colds, flus and more. In this class, we will discuss the ingredients in fire cider, different recipes for different conditions, and when and how to use them (salad dressings! mocktails!). Each participant will leave with their very own jar of fire cider to share with their community.
