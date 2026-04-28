@@ -5,7 +5,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
 Watch or listen to a recorded class to get a sense of my teaching style and see if we might be a good fit!
-![](/assets/images/catnip.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/catnip.webp){: style="float: right; width: 50%"}
 
 ### Herbs to Nourish Frayed Nerves
 > Taught at the [Blue Hill Co-Op](https://www.youtube.com/watch?v=aZHOK8Qbgdw&t=0s)
@@ -19,7 +19,7 @@ Come learn the science behind why you should “stop and smell the roses”!
 
 [Listen here!](https://www.youtube.com/watch?v=aZHOK8Qbgdw&t=0s)
 
-![](/assets/images/firecider.jpg){: style="float: right; width: 50%"}
+![](/assets/images/webp/firecider.webp){: style="float: right; width: 50%"}
 
 ### Medicine on the Seder Plate
 > Taught at the [Vermont Center for Integrative Herbalism](https://vcih.newzenler.com/courses/medicine-on-the-seder-plate)

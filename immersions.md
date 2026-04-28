@@ -6,7 +6,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 
 I offer several longer programs throughout the year including a [9-month apprentice-style program](https://mokatzchristy.com/bioregional_immersion.html), a [winter intensive](https://mokatzchristy.com/winter_seeds.html), and weekend immersions. Below are the weekend immersion programs for 2026 that still have space available:
 
-![](/assets/images/growingcenter.jpeg){: style="float: right; width: 50%"}
+![](/assets/images/webp/growingcenter.webp){: style="float: right; width: 50%"}
 
 ### Cape Cod Herbal Immersion
 > May 23-24th, 2026\
@@ -24,7 +24,7 @@ Come prepared to delight in the wonder of plants and leave with a bounty of herb
 
 [Register here!](https://www.massaudubon.org/programs/wellfleet-bay/101716-field-school-cape-cod-herbal-immersion)
 
-![](/assets/images/Cove.jpeg){: style="float: left; width: 60%"}
+![](/assets/images/webp/Cove.webp){: style="float: left; width: 60%"}
 
 ### Deer Isle Herbal Immersion
 > July 24-26, 2026\
