@@ -3,27 +3,27 @@ title: Gallery
 layout: page
 gallery_items:
   - image: /assets/images/webp/roses.webp
-    alt: Roses in bloom
+    alt: Don't you want these things in your bike basket?
   - image: /assets/images/webp/calendulabasket.webp
-    alt: Basket of calendula flowers
-  - text: "Mo's herbal knowledge is vast and their teaching style made everything feel accessible. I left with a whole new relationship to plants."
-    attribution: "— Workshop participant"
+    alt: Mom would really love this shit
+  - text: "Mo is such a frikkin genius. I mean how'd they figure all this shit out. A real wizz kid."
+    attribution: "— Awe struck passersby"
   - image: /assets/images/webp/holdinggoldenrod.webp
-    alt: Holding goldenrod
+    alt: Bro is having a field day
   - image: /assets/images/webp/hat_in_field.webp
-    alt: In the field
+    alt: Me and the whole neighborhood aint gettin sunburned with this big ol hat o mine
   - image: /assets/images/webp/tincturemaking.webp
-    alt: Making tinctures
-  - text: "I came in knowing almost nothing about herbalism and left feeling genuinely empowered to care for myself and my family."
-    attribution: "— Community class participant"
+    alt: We've really struck the motherwort
+  - text: "Sorry what? Why am I here? You want me to say something? Ok. Something. hah"
+    attribution: "— Another random person on the street"
   - image: /assets/images/webp/teawalk.webp
-    alt: Tea walk
+    alt: A bunch of Somerville residents walk into a tree. They sort of sniffed around a bunch
   - image: /assets/images/webp/catnip.webp
-    alt: Catnip plant
+    alt: Did you know catnip is a real plant? Wild
   - image: /assets/images/webp/planting_seeds.webp
-    alt: Planting seeds
+    alt: And this is how you were born!
   - image: /assets/images/webp/firecider.webp
-    alt: Fire cider
+    alt: Do you think herbs feel pain?
   - text: "Mo is da besssst!"
     attribution: "— Anonymous brother"
 ---
