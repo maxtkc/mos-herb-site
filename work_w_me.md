@@ -21,8 +21,6 @@ feature_image: "/assets/images/webp/planting_seeds.webp"
 
 Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other! For most people, this is your first time meeting with a clinical herbalist. We talk through what you're looking for and see if I might be able to support you.
 
-None of the above times work? Send me a message at mkatzchristy (at) gmail.com with your availability, and I'll see what I'm able to do!
-
 #### What does an herbal consult look like?
 
 We meet for 90 minutes for a thorough conversation in which I listen to your story and we try to uncover which patterns might be at the root of your symptoms. Afterwards, I'll do some research and then send you detailed recommendations including herbal formulas, dietary advice (optional!) and other guidance (blood tests, movement/massage, referrals to other practitioners). Once we settle on a protocol
