@@ -24,8 +24,8 @@ gallery_items:
     alt: And this is how you were born!
   - image: /assets/images/webp/firecider.webp
     alt: Do you think herbs feel pain?
-  - text: "Mo is da besssst!"
-    attribution: "— Anonymous brother"
+  - text: "Mo has provided me with an exceptional example of what a talented, knowledgeable, and grounded clinical herbalist looks like just after completing my first clinical apprenticeship. They are an incredible teacher!"
+    attribution: "— Kira Rib, anthropologist and herbalist"
 ---
 
 {% include components/gallery.html items=page.gallery_items cols=3 %}
