@@ -3,7 +3,7 @@ title: Gallery
 layout: page
 gallery_items:
   - image: /assets/images/webp/roses.webp
-    alt: Don't you want these things in your bike basket?
+    alt: Harvesting _Rosa rugosa_ petals for our tea blending class
   - image: /assets/images/webp/calendulabasket.webp
     alt: Mom would really love this shit
   - text: "Mo has empowerd me to be an active participant in my health. I feel so supported! They meet you where you are, with no judgement, only kind consideration."
