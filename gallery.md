@@ -6,7 +6,7 @@ gallery_items:
     alt: Don't you want these things in your bike basket?
   - image: /assets/images/webp/calendulabasket.webp
     alt: Mom would really love this shit
-  - text: "I feel so supported! Mo meets you where you are, with no judgement, only kind consideration."
+  - text: "Mo has empowerd me to be an active participant in my health. I feel so supported! They meet you where you are, with no judgement, only kind consideration."
     attribution: "— Client"
   - image: /assets/images/webp/holdinggoldenrod.webp
     alt: Bro is having a field day
@@ -14,7 +14,7 @@ gallery_items:
     alt: Me and the whole neighborhood aint gettin sunburned with this big ol hat o mine
   - image: /assets/images/webp/tincturemaking.webp
     alt: We've really struck the motherwort
-  - text: "Mo is a gifted herbalist with deep content knowledge, and their passion and joy in their work is palpable and genuine."
+  - text: "Mo is a gifted herbalist with deep content knowledge, and their passion and joy in their work is palpable."
     attribution: "— Naomi Spector, author of Sefardi Herbalism"
   - image: /assets/images/webp/teawalk.webp
     alt: A bunch of Somerville residents walk into a tree. They sort of sniffed around a bunch
