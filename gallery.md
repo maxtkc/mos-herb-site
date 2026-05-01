@@ -6,7 +6,7 @@ gallery_items:
     alt: Don't you want these things in your bike basket?
   - image: /assets/images/webp/calendulabasket.webp
     alt: Mom would really love this shit
-  - text: "When I first considered seeing Mo, I thought: "do I really need an herbalist?” I know now what a silly question it was! **If you eat food, you need an herbalist!** Mo has thoughtfully explained  how herbs can support me, and has empowered me to be an active participant in my general healthcare, and to learn more about plants and our relationship to nature. **I feel so supported! Mo meets you where you are, with no judgement, only kind consideration.** If you’re on the fence, do it!"
+  - text: "When I first considered seeing Mo, I thought: "do I really need an herbalist?" I know now what a silly question it was! **If you eat food, you need an herbalist!** Mo has thoughtfully explained  how herbs can support me, and has empowered me to be an active participant in my general healthcare, and to learn more about plants and our relationship to nature. **I feel so supported! Mo meets you where you are, with no judgement, only kind consideration.** If you’re on the fence, do it!"
     attribution: "— Laurel Valchuis, owner of [alFreshCo](https://al-freshco.com/)
   - image: /assets/images/webp/holdinggoldenrod.webp
     alt: Bro is having a field day
