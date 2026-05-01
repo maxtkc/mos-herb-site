@@ -6,7 +6,7 @@ gallery_items:
     alt: Don't you want these things in your bike basket?
   - image: /assets/images/webp/calendulabasket.webp
     alt: Mom would really love this shit
-  - text: "Mo is a gifted herbalist with deep content knowledge who supports people in learning about and connecting with plants and the natural world. I always feel inspired and energized after taking a class with Mo, because their passion and joy in their work is palpable and genuine."
+  - text: "Mo is a gifted herbalist and their passion and joy in their work is palpable and genuine."
     attribution: "— Laurel Valchuis, owner of [alFreshCo](https://al-freshco.com/)
   - image: /assets/images/webp/holdinggoldenrod.webp
     alt: Bro is having a field day
