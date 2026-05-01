@@ -4,14 +4,14 @@ layout: page
 gallery_items:
   - image: /assets/images/webp/roses.webp
     alt: Harvesting _Rosa rugosa_ petals for our tea blending class
-  - image: /assets/images/webp/calendulabasket.webp
-    alt: Mom would really love this shit
+  - image: /assets/images/webp/violet.webp
+    alt: Herb of the Month class by Jamiaca Pond
   - text: "Mo has empowerd me to be an active participant in my health. I feel so supported! They meet you where you are, with no judgement, only kind consideration."
     attribution: "— Client"
-  - image: /assets/images/webp/holdinggoldenrod.webp
-    alt: Bro is having a field day
-  - image: /assets/images/webp/hat_in_field.webp
-    alt: Me and the whole neighborhood aint gettin sunburned with this big ol hat o mine
+  - image: /assets/images/webp/teawalk.webp
+    alt: Plant walk in Medford
+  - image: /assets/images/webp/lindendrawing.webp
+    alt: Getting up close and personal with linden
   - image: /assets/images/webp/tincturemaking.webp
     alt: We've really struck the motherwort
   - text: "Mo is a gifted herbalist with deep content knowledge, and their passion and joy in their work is palpable."
