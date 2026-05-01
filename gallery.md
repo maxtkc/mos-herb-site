@@ -14,8 +14,8 @@ gallery_items:
     alt: Me and the whole neighborhood aint gettin sunburned with this big ol hat o mine
   - image: /assets/images/webp/tincturemaking.webp
     alt: We've really struck the motherwort
-  - text: "Sorry what? Why am I here? You want me to say something? Ok. Something. hah"
-    attribution: "— Another random person on the street"
+  - text: "Mo is a gifted herbalist with deep content knowledge, and their passion and joy in their work is palpable and genuine."
+    attribution: "— Naomi Spector, author of Sefardi Herbalism"
   - image: /assets/images/webp/teawalk.webp
     alt: A bunch of Somerville residents walk into a tree. They sort of sniffed around a bunch
   - image: /assets/images/webp/catnip.webp
