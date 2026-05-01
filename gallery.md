@@ -3,7 +3,7 @@ title: Gallery
 layout: page
 gallery_items:
   - image: /assets/images/webp/roses.webp
-    alt: Harvesting _Rosa rugosa_ petals for our tea blending class
+    alt: Harvesting Rosa rugosa petals for our tea blending class
   - image: /assets/images/webp/violet.webp
     alt: Herb of the Month class by Jamiaca Pond
   - text: "Mo has empowerd me to be an active participant in my health. I feel so supported! They meet you where you are, with no judgement, only kind consideration."
@@ -16,13 +16,49 @@ gallery_items:
     alt: We've really struck the motherwort
   - text: "Mo is a gifted herbalist with deep content knowledge, and their passion and joy in their work is palpable."
     attribution: "— Naomi Spector, author of Sefardi Herbalism"
-  - image: /assets/images/webp/teawalk.webp
-    alt: A bunch of Somerville residents walk into a tree. They sort of sniffed around a bunch
+  - image: /assets/images/cambnat.jpeg
+    alt: Immune health class at Cambridge Naturals
+  - image: /assets/images/kayak.jpg
+    alt: Yes, we do kayak around looking at plants!
+  - image: /assets/images/violetdrawing.jpg
+    alt: Drawing violets during an Herb of the Month class
+  - image: /assets/images/greenhouse.jpg
+    alt: Planting seeds with our 9-Month Immersion students
+  - image: /assets/images/goldenrodfield.jpg
+    alt: Harvesting goldenrod for fresh herb tinctures at a Jewish ancestral skills gathering
+  - image: /assets/images/cabbagesalt.jpg
+    alt: Nice lil cabbage salt bowl
+  - image: /assets/images/gcteaching.jpeg
+    alt: Plant walk at the Somerville Growing Center
+  - image: /assets/images/fementcn.jpg
+    alt: Fermentation class at Cambridge Naturals
+  - image: /assets/images/vervainavena.jpg
+    alt: Munching on some vervain flowers
+  - image: /assets/images/bowloftea.jpg
+    alt: Mutual aid herb blending
+  - image: /assets/images/pressingtinc.jpg
+    alt: You can almost smell the cardamom tincture through the screen!
+  - image: /assets/images/calendulafield.jpg
+    alt: Midsummer calendula abundance!
+  - image: /assets/images/calendulastrain.jpg
+    alt: Strain that calendula
+  - image: /assets/images/squeeze.jpeg
+    alt: Squeeze all that oil out
+  - image: /assets/images/salve.jpg
+    alt: Finished salves! Nice work everybody :)
+  - image: /assets/images/diving.jpg
+    alt: Diving for dandelion
+  - image: /assets/images/motherwortstem.jpg
+    alt: Motherwort has a square stem!
+  - image: /assets/images/pouringtea.jpg
+    alt: Pouring ancestral teas to share with fellow students
+  - image: /assets/images/reiki.jpg
+    alt: Student leading us in channeling energy towards our seeds
   - image: /assets/images/webp/catnip.webp
-    alt: Did you know catnip is a real plant? Wild
+    alt: Abundance of catnip
   - image: /assets/images/webp/planting_seeds.webp
     alt: And this is how you were born!
-  - image: /assets/images/webp/firecider.webp
+  - image: /assets/images/webp/nettle.webp
     alt: Do you think herbs feel pain?
   - text: "Mo has provided me with an exceptional example of what a talented, knowledgeable, and grounded clinical herbalist looks like."
     attribution: "— Kira Rib, anthropologist and herbalist"
