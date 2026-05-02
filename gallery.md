@@ -14,23 +14,23 @@ gallery_items:
     alt: Getting up close and personal with linden
   - image: /assets/images/webp/tincturemaking.webp
     alt: We've really struck the motherwort
-  - image: /assets/images/cambnat.jpeg
+  - image: /assets/images/webp/cambnat.webp
     alt: Immune health class at Cambridge Naturals
   - text: "I loved seeing people light up with questions, ideas, comments--a testament to the generous and affirming space and knowledge you cultivate."
     attribution: "— librarian"
   - image: /assets/images/kayak.JPG
     alt: Yes, we do kayak around looking at plants!
-  - image: /assets/images/violetdrawing.jpg
+  - image: /assets/images/webp/violetdrawing.webp
     alt: Drawing violets during an Herb of the Month class
-  - image: /assets/images/greenhouse.jpg
+  - image: /assets/images/webp/greenhouse.webp
     alt: Planting seeds with our 9-Month Immersion students
   - text: "Mo is a gifted herbalist with deep content knowledge, and their passion and joy in their work is palpable."
     attribution: "— Naomi Spector, author of Sefardi Herbalism"
-  - image: /assets/images/goldenrodfield.jpg
+  - image: /assets/images/webp/goldenrodfield.webp
     alt: Harvesting goldenrod for fresh herb tinctures at a Jewish ancestral skills gathering
   - image: /assets/images/cabbagesalt.JPG
     alt: Nice lil cabbage salt bowl
-  - image: /assets/images/gcteaching.jpeg
+  - image: /assets/images/webp/gcteaching.webp
     alt: Plant walk at the Somerville Growing Center
   - text: "Mo shows us to honor plants as our community members and elders and gives us all permission to set aside the notebook and relish in wonder."
     attribution: "— Student"
@@ -38,31 +38,31 @@ gallery_items:
     alt: Fermentation class at Cambridge Naturals
   - image: /assets/images/vervainavena.JPG
     alt: Munching on some vervain flowers
-  - image: /assets/images/bowloftea.jpg
+  - image: /assets/images/webp/bowloftea.webp
     alt: Mutual aid herb blending
   - text: "People have been singing your praises in the days afterwards! Your enthusiastic, warm nature made the whole experience so wonderful."
     attribution: "— librarian"
-  - image: /assets/images/pressingtinc.jpg
+  - image: /assets/images/webp/pressingtinc.webp
     alt: You can almost smell the cardamom tincture through the screen!
-  - image: /assets/images/calendulafield.jpg
+  - image: /assets/images/webp/calendulafield.webp
     alt: Midsummer calendula abundance!
-  - image: /assets/images/calendulastrain.jpg
+  - image: /assets/images/webp/calendulastrain.webp
     alt: Strain that calendula
   - text: "There are so many things to appreciate about Mo’s “how” in leading us. Mo is a fabulous educator!"
     attribution: "— student"
-  - image: /assets/images/squeeze.jpg
+  - image: /assets/images/webp/squeeze.webp
     alt: Squeeze all that oil out
-  - image: /assets/images/salve.jpeg
+  - image: /assets/images/webp/salve.webp
     alt: Finished salves! Nice work everybody :)
-  - image: /assets/images/diving.jpg
+  - image: /assets/images/webp/diving.webp
     alt: Diving for dandelion
   - text: "Mo has provided me with an exceptional example of what a talented, knowledgeable, and grounded clinical herbalist looks like."
     attribution: "— Kira Rib, anthropologist and herbalist"
-  - image: /assets/images/motherwortstem.jpg
+  - image: /assets/images/webp/motherwortstem.webp
     alt: Motherwort has a square stem!
-  - image: /assets/images/pouringtea.jpg
+  - image: /assets/images/webp/pouringtea.webp
     alt: Pouring ancestral teas to share with fellow students
-  - image: /assets/images/reiki.jpg
+  - image: /assets/images/webp/reiki.webp
     alt: Student leading us in channeling energy towards our seeds
   - text: I LOVED seeing your inclusive welcoming teaching style. Excited for all you're offering!"
     attribution: "— Education Director, community farm"
