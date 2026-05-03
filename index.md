@@ -35,7 +35,7 @@ While **my practice centers gut health**, I follow my clients' lead and we work 
   content = intro_call
 %}
 
-{% include figure.html image="/assets/images/webp/mo_and_friend_laugh.webp" caption="tea blending delight with my colleage" %}{: style="float: right; width: 50%"}
+{% include figure.html image="/assets/images/webp/gcteaching.webp" caption="Plant walk at the Growing Center" %}{: style="float: right; width: 50%"}
 
 ### Herbal Education:
 
@@ -49,3 +49,5 @@ The best way to find out about upcoming classes is to:
 Email me at mo (at) mokatzchristy.com if you’d like to request a class for your local organization!
 
 {% include components/gallery.html items=site.gallery_items cols=3 %}
+
+{% include components/subscribe.html %}
