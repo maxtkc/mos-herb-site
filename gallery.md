@@ -19,7 +19,7 @@ gallery_items:
   - text: "I loved seeing people light up with questions, ideas, comments--a testament to the generous and affirming space and knowledge you cultivate."
     attribution: "— librarian"
   - image: /assets/images/kayak.JPG
-    alt: Yes, we do kayak around looking at plants!
+    alt: Medicinal plant kayak tour on the Charles
   - image: /assets/images/webp/violetdrawing.webp
     alt: Drawing violets during an Herb of the Month class
   - image: /assets/images/webp/greenhouse.webp
@@ -29,7 +29,7 @@ gallery_items:
   - image: /assets/images/webp/goldenrodfield.webp
     alt: Harvesting goldenrod for fresh herb tinctures at a Jewish ancestral skills gathering
   - image: /assets/images/cabbagesalt.JPG
-    alt: Nice lil cabbage salt bowl
+    alt: Nice lil cabbage salt bowl at a fermentation class at the Natick library
   - image: /assets/images/webp/gcteaching.webp
     alt: Plant walk at the Somerville Growing Center
   - text: "Mo shows us to honor plants as our community members and elders and gives us all permission to set aside the notebook and relish in wonder."
@@ -39,31 +39,31 @@ gallery_items:
   - image: /assets/images/vervainavena.JPG
     alt: Munching on some vervain flowers
   - image: /assets/images/webp/bowloftea.webp
-    alt: Mutual aid herb blending
+    alt: Mutual aid herb blending with our Winter Seeds of Herbalism students
   - text: "People have been singing your praises in the days afterwards! Your enthusiastic, warm nature made the whole experience so wonderful."
     attribution: "— librarian"
   - image: /assets/images/webp/pressingtinc.webp
-    alt: You can almost smell the cardamom tincture through the screen!
+    alt: Pressing cardamom tincture
   - image: /assets/images/webp/calendulafield.webp
     alt: Midsummer calendula abundance!
   - image: /assets/images/webp/calendulastrain.webp
-    alt: Strain that calendula
+    alt: Straining our calendula oil
   - text: "There are so many things to appreciate about Mo’s “how” in leading us. Mo is a fabulous educator!"
     attribution: "— student"
   - image: /assets/images/webp/squeeze.webp
-    alt: Squeeze all that oil out
+    alt: Squeezing the last drops of oil
   - image: /assets/images/webp/salve.webp
     alt: Finished salves! Nice work everybody :)
   - image: /assets/images/webp/diving.webp
-    alt: Diving for dandelion
+    alt: Diving for dandelion on a LexFarm herb walk
   - text: "Mo has provided me with an exceptional example of what a talented, knowledgeable, and grounded clinical herbalist looks like."
     attribution: "— Kira Rib, anthropologist and herbalist"
   - image: /assets/images/webp/motherwortstem.webp
-    alt: Motherwort has a square stem!
+    alt: Exploring the shape of motherwort stems
   - image: /assets/images/webp/pouringtea.webp
-    alt: Pouring ancestral teas to share with fellow students
+    alt: Sharing tea with fellow students
   - image: /assets/images/webp/reiki.webp
-    alt: Student leading us in channeling energy towards our seeds
+    alt: Channeling energy towards our seeds
   - text: I LOVED seeing your inclusive welcoming teaching style. Excited for all you're offering!"
     attribution: "— Education Director, community farm"
   - image: /assets/images/webp/catnip.webp
