@@ -35,7 +35,7 @@ While **my practice centers gut health**, I follow my clients' lead and we work 
   content = intro_call
 %}
 
-{% include figure.html image="/assets/images/webp/gcteaching.webp" caption="Plant walk at the Growing Center" %}{: style="float: right; width: 50%"}
+{% include figure.html image="/assets/images/constellation.HEIC" caption="Tea Blending in our Winter Immersion" %}{: style="float: right; width: 50%"}
 
 ### Herbal Education:
 
