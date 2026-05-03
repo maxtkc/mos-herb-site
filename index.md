@@ -47,3 +47,5 @@ The best way to find out about upcoming classes is to:
 {% include components/subscribe.html %}
 
 Email me at mo (at) mokatzchristy.com if you’d like to request a class for your local organization!
+
+{% include components/gallery.html items=page.gallery_items cols=3 %}
