@@ -49,6 +49,8 @@ The best way to find out about upcoming classes is to:
 Email me at mo (at) mokatzchristy.com if you’d like to request a class for your local organization!
 
 ---
+title: Gallery
+layout: page
 gallery_items:
   - image: /assets/images/webp/roses.webp
     alt: Harvesting Rosa rugosa petals for our tea blending class
