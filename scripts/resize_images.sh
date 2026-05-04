@@ -1,5 +1,5 @@
 #!/bin/bash
-# Generate resized images for gallery items and update references in _config.yml
+# Generate resized images for all non-feature images and update references
 
 SIZE="480x480"
 
@@ -7,13 +7,16 @@ SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 REPO_DIR=$( dirname "$SCRIPT_DIR" )
 IMG_DIR="$REPO_DIR/assets/images"
 RESIZED_DIR="$IMG_DIR/resized_images"
-CONFIG_FILE="$REPO_DIR/_config.yml"
 
 # Create resized_images directory if it doesn't exist
 mkdir -p "$RESIZED_DIR"
 
-# Extract image paths from gallery_items in _config.yml
-image_paths=$(grep -oP "image: \K[^\s]+" "$CONFIG_FILE" | sort -u)
+# Collect all files to search: _config.yml + top-level markdown pages
+readarray -t md_files < <(find "$REPO_DIR" -maxdepth 1 -name "*.md")
+search_files=("$REPO_DIR/_config.yml" "${md_files[@]}")
+
+# Extract image paths, excluding feature_image entries
+image_paths=$(grep -ohP "(?<!feature_)image: \K[^\s]+" "${search_files[@]}" | sort -u)
 
 for image_path in $image_paths; do
     # Remove leading slash if present
@@ -53,12 +56,14 @@ for image_path in $image_paths; do
         echo "Already exists: $resized_filename"
     fi
 
-    # Update the reference in _config.yml
+    # Update references in all search files, skipping feature_image lines
     resized_ref="/assets/images/resized_images/$resized_filename"
-    sed -i "s|image: /$image_path|image: $resized_ref|g" "$CONFIG_FILE"
-    sed -i "s|image: $image_path|image: $resized_ref|g" "$CONFIG_FILE"
+    for f in "${search_files[@]}"; do
+        sed -i "/feature_image/!s|image: /$image_path|image: $resized_ref|g" "$f"
+        sed -i "/feature_image/!s|image: $image_path|image: $resized_ref|g" "$f"
+    done
 done
 
 echo ""
 echo "Done! Resized images saved to: $RESIZED_DIR"
-echo "Updated references in: $CONFIG_FILE"
+echo "Updated references in: _config.yml + ${#md_files[@]} markdown files"
