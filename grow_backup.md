@@ -15,7 +15,7 @@ feature_image: "/assets/images/webp/mos_garden.webp"
   content = garden_call
 %}
 
-![](/assets/images/webp/juanito_and_divora.webp){: style="float: right; width: 40%"}
+![](/assets/images/resized_images/juanito_and_divora_480x480.webp){: style="float: right; width: 40%"}
 
 Now offering herbal gardens! Let us plant you a personalized herb garden in
 your front yard. We offer full-service herb gardens or DIY options for each
@@ -111,7 +111,7 @@ Let’s design a garden together! Some other garden possibilities include:
 
 #### Add-ons
 
-![](/assets/images/webp/mo_in_garden.webp){: style="float: right; width: 40%"}
+![](/assets/images/resized_images/mo_in_garden_480x480.webp){: style="float: right; width: 40%"}
 
 - From garden to cupboard: We can bring your garden into your
 spice rack! Let Mo know how you’d like to use your garden, and leave the

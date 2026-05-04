@@ -5,7 +5,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 ##### FULL for 2026 - [click here](https://mokatzchristy.com/immersions.html) to find out about immersion programs that have space available
 
-![](/assets/images/webp/hhfarm.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/hhfarm_480x480.webp){: style="float: right; width: 50%"}
 
 **Learn to follow the seasons as an herbalist!** In this immersive program we will integrate our bodies with the bodies of the land and learn what plant medicine can look like on seven acres in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
 
@@ -26,7 +26,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 #### Tentative Schedule (dates are set, curriculum subject to change):
 
 **Sunday, March 29th 11am-5pm**
-![](/assets/images/webp/nettle.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/nettle_480x480.webp){: style="float: right; width: 50%"}
 - Projects:
   - wild weed pesto
   - violet syrup
@@ -37,7 +37,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: violet, nettle, cleavers
 
 **Sunday, April 26th 11am-5pm**
-![](/assets/images/webp/violet.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/violet_480x480.webp){: style="float: right; width: 50%"}
 - Projects:
   - digestive bitters
   - herbal "coffee"
@@ -48,7 +48,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: dandelion, yellow dock, horseradish
 
 **Sunday, May 31st 11am-5pm**
-![](/assets/images/webp/motalksatgc.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/motalksatgc_480x480.webp){: style="float: right; width: 50%"}
 - Projects:
   - oxymels
   - flower essences
@@ -59,7 +59,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: hawthorn, rose, elder flower
 
 **Sunday, June 28th 11am-5pm**
-![](/assets/images/webp/hawthornavena.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/hawthornavena_480x480.webp){: style="float: right; width: 50%"}
 - Projects:
   - fresh herb tea blending
   - hydrosols
@@ -70,7 +70,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: St. John's wort, motherwort, anise hyssop
 
 **Sunday, August 2nd 11am-5pm**
-![](/assets/images/webp/drawingatgc.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/drawingatgc_480x480.webp){: style="float: right; width: 50%"}
 - Projects:
   - infused oils
   - elixirs
@@ -81,7 +81,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: lemon balm, lavender, anise hyssop
 
 **Sunday, August 30th 11am-5pm**
-![](/assets/images/webp/calendulabasket.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/calendulabasket_480x480.webp){: style="float: right; width: 50%"}
 - Projects:
   - electuaries
   - infused honey
@@ -92,7 +92,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: thyme, calendula, yarrow
 
 **Sunday, September 20th 10am-4pm**
-![](/assets/images/webp/holdinggoldenrod.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/holdinggoldenrod_480x480.webp){: style="float: right; width: 50%"}
 - Projects:
   - double extraction tincture
   - salves
@@ -103,7 +103,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: goldenrod, New England aster, elderberries
 
 **Sunday, October 18th 10am-4pm**
-![](/assets/images/webp/prettysjw.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/prettysjw_480x480.webp){: style="float: right; width: 50%"}
 - Projects:
   - vegetable fermentation
   - wild basket weaving
@@ -114,7 +114,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Focus herbs: cattail, garlic, marshmallow
 
 **Sunday, November 8th 10am-4pm**
-![](/assets/images/webp/apothecary.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/apothecary_480x480.webp){: style="float: right; width: 50%"}
 - Projects:
   - syrups
   - medicinal broth

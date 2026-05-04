@@ -4,7 +4,7 @@ title: Read
 feature_image: "/assets/images/webp/grapesky.webp"
 ---
 
-![](/assets/images/webp/mograpebags.webp){: style="float: right; width: 40%"}
+![](/assets/images/resized_images/mograpebags_480x480.webp){: style="float: right; width: 40%"}
 
 I offer grape pruning for home arbors in the Boston area! Grape pruning happens January-March, but now is a great time to [get on my list](https://mokatzchristy.com/contact.html) for 2025.\
 \
@@ -12,7 +12,7 @@ Grape arbors provide food (+ drink!), shade, and beauty. But they grow like craz
 
 ---
 
-![](/assets/images/webp/image000002.webp){: style="float: left; width: 60%"}
+![](/assets/images/resized_images/image000002_480x480.webp){: style="float: left; width: 60%"}
 
 **Do you prune other fruit trees?**\
 Certainly! While grapes are my specialty, I’m happy to prune any other fruit trees including apples, pears, peaches, etc.

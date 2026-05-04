@@ -15,12 +15,20 @@ mkdir -p "$RESIZED_DIR"
 readarray -t md_files < <(find "$REPO_DIR" -maxdepth 1 -name "*.md")
 search_files=("$REPO_DIR/_config.yml" "${md_files[@]}")
 
-# Extract image paths, excluding feature_image entries
-image_paths=$(grep -ohP "(?<!feature_)image: \K[^\s]+" "${search_files[@]}" | sort -u)
+# Extract image paths from YAML keys (excluding feature_image) and markdown body ![](path) syntax
+yaml_paths=$(grep -ohP "(?<!feature_)image: \K[^\s]+" "${search_files[@]}")
+md_body_paths=$(grep -ohP "!\[.*?\]\(\K[^)\s]+" "${search_files[@]}")
+figure_paths=$(grep -ohP '{% include figure\.html image="\K[^"]+' "${search_files[@]}")
+image_paths=$(printf '%s\n' $yaml_paths $md_body_paths $figure_paths | sort -u)
 
 for image_path in $image_paths; do
     # Remove leading slash if present
     image_path="${image_path#/}"
+
+    # Skip already-resized images
+    if [[ "$image_path" == *"resized_images/"* ]]; then
+        continue
+    fi
 
     # Get the full file path
     full_path="$REPO_DIR/$image_path"
@@ -56,11 +64,18 @@ for image_path in $image_paths; do
         echo "Already exists: $resized_filename"
     fi
 
-    # Update references in all search files, skipping feature_image lines
+    # Update references in all search files
     resized_ref="/assets/images/resized_images/$resized_filename"
     for f in "${search_files[@]}"; do
+        # YAML keys (skip feature_image lines)
         sed -i "/feature_image/!s|image: /$image_path|image: $resized_ref|g" "$f"
         sed -i "/feature_image/!s|image: $image_path|image: $resized_ref|g" "$f"
+        # Markdown body ![](path) syntax
+        sed -i "s|](/$image_path)|]($resized_ref)|g" "$f"
+        sed -i "s|]($image_path)|]($resized_ref)|g" "$f"
+        # Liquid figure include syntax
+        sed -i "s|image=\"/$image_path\"|image=\"$resized_ref\"|g" "$f"
+        sed -i "s|image=\"$image_path\"|image=\"$resized_ref\"|g" "$f"
     done
 done
 
