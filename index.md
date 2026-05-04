@@ -6,7 +6,7 @@ feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 
 {% include figure.html image="/assets/images/webp/mo_has_a_mug.webp" caption="what an herbal consultation might look like" %}{: style="float: right; width: 50%"}
 
-### Herbal Care:
+### [Herbal Care](https://mokatzchristy.com/work_w_me.html):
 
 Want to **address the root imbalances** that are leading to dysregulation in your body systems?
 
