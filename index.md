@@ -35,7 +35,7 @@ While **my practice centers gut health**, I follow my clients' lead and we work 
   content = intro_call
 %}
 
-### Herbal Education:
+### [Herbal Education](https://mokatzchristy.com/learn.html):
 
 {% include figure.html image="/assets/images/webp/constellation.webp" caption="Tea Blending in our Winter Immersion" %}{: style="float: right; width: 50%"}
 
