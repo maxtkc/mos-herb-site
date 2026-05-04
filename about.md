@@ -28,17 +28,9 @@ I spent three years (1300+ hours) studying herbalism in-depth at the [Vermont Ce
 
 ### Next Steps
 **I’d love to hear your story** to see if we might be a good fit! To connect, you can schedule an intro call here:
-{% capture intro_call %}
-<!-- Practice Better Booking Widget: start -->
-<style>.better-inline-booking-widget{position:relative;overflow:hidden}.better-inline-booking-widget iframe{position:absolute;top:0;left:0;width:100%;height:100%}</style>
-<div class="better-inline-booking-widget" data-url="https://my.practicebetter.io" data-service="68ed21bf21132e5178047c4a" data-hash="68e946da2007bdcbf8337d47" data-theme="050505" data-theme-accent="32a363" style="width:100%;max-width:550px;height:550px;" data-scrollbar-visible="false"></div>
-<script type="text/javascript" src="https://cdn.practicebetter.io/assets/js/booking.widget.js"></script>
-<!-- Practice Better Booking Widget: end -->
-{% endcapture %}
-
-{% include components/dropdown.html 
-  title = "Schedule a free 15-minute intro call"
-  content = intro_call
+{% include components/booking-widget.html
+  title="Schedule a free 15-minute intro call"
+  service="68ed21bf21132e5178047c4a"
 %}
 
 Or, if you're interested in learning together, my mailing list is the best way to find out about offerings:
