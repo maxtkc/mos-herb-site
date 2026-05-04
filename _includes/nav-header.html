@@ -50,11 +50,13 @@
     }
 
     button.onclick = () => {
-      navList.style.setProperty('transition', `margin .1s`)
       if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.setProperty('transition', `margin .1s`)
         navList.style.removeProperty('--listHeight')
       } else {
-        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+        const h = navList.offsetHeight
+        navList.style.setProperty('transition', `margin .1s`)
+        navList.style.setProperty('--listHeight', `-${h}px`)
       }
     }
   }
