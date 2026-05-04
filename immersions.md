@@ -48,5 +48,7 @@ Unfortunately the [9-month apprentice-style program](https://mokatzchristy.com/b
 
 {% include components/subscribe.html label="Join my monthly mailing list!" %}
 
+{% include components/gallery.html items=site.gallery_items cols=3 %}
 
+{% include components/subscribe.html %}
 
