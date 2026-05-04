@@ -3,7 +3,7 @@
   {% for item in include.items %}
     {% if item.image %}
       <div class="gallery-item gallery-item--image">
-        <img src="{{ item.image }}" alt="{{ item.alt | default: '' }}">
+        <img src="{{ item.image }}" alt="{{ item.alt | default: '' }}" loading="lazy">
         {% if item.alt %}<span class="gallery-item__caption">{{ item.alt }}</span>{% endif %}
       </div>
     {% elsif item.text %}
