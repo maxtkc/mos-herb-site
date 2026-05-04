@@ -9,7 +9,7 @@ feature_image: "/assets/images/webp/planting_seeds.webp"
   service="68ed21bf21132e5178047c4a"
 %}
 
-{% include figure.html image="/assets/images/webp/pickingroses.webp" caption="beach rose harvest!" %}{: style="float: right; width: 60%"}
+{% include figure.html image="/assets/images/resized_images/pickingroses_480x480.webp" caption="beach rose harvest!" %}{: style="float: right; width: 60%"}
 
 Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other! For most people, this is your first time meeting with a clinical herbalist. We talk through what you're looking for and see if I might be able to support you.
 
@@ -21,7 +21,7 @@ filled, and you’ll receive your herbs in the mail.
 
 #### How often do we check in?
 
-![Picking Roses](/assets/images/webp/roses.webp){: style="float: left; width: 30%"}
+![Picking Roses](/assets/images/resized_images/roses_480x480.webp){: style="float: left; width: 30%"}
 
 As often as feels productive to you! Often, it is hard for us to track our own
 process -- I have clients who forget they used to have headaches and are

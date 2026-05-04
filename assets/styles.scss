@@ -106,6 +106,13 @@ details {
 		padding: $details-padding;
 		font-weight: 300;
 		line-height: 1.5;
+
+		img {
+			display: block;
+			margin: 0 auto 1em;
+			max-width: 60%;
+			border-radius: 6px;
+		}
 	}
 
 	summary {

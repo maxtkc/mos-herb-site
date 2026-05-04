@@ -5,7 +5,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 ##### FULL for 2026 - [click here](https://mokatzchristy.com/immersions.html) to find out about immersion programs that have space available
 
-![](/assets/images/webp/icywalk.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/icywalk_480x480.webp){: style="float: right; width: 50%"}
 
 **Calling all aspiring herbalists!** Spend these cold months cozy with a cup of tea in [Constellation studio](https://www.studioconstellation.com/event-details-registration/winter-seeds-of-herbalism-intensive-a-7-week-series) diving deep into the foundations of herbalism with a cohort of dedicated plant people.
 
@@ -19,7 +19,7 @@ Each week we’ll focus on a different body system and the ways that we can work
 - strong familiarity with **21 herbal allies**
 - a **community of fellow herbalists** who can help you continue on your herbal journey!
 
-![](/assets/images/webp/nettle.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/nettle_480x480.webp){: style="float: right; width: 50%"}
 
 #### Tentative schedule:
 
@@ -38,7 +38,7 @@ Each week we’ll focus on a different body system and the ways that we can work
 - Related lesson: making + keeping an effective apothecary
 - Focus herbs: comfrey, St John’s wort, yarrow
 
-![](/assets/images/webp/violet.webp){: style="float: right; width: 55%"}
+![](/assets/images/resized_images/violet_480x480.webp){: style="float: right; width: 55%"}
 
 **Week 4: Stress + sleep**
 - Prep(s): sleepy tincture, bliss balls
@@ -50,7 +50,7 @@ Each week we’ll focus on a different body system and the ways that we can work
 - Related lesson: bark medicine
 - Focus herbs: raspberry, shatavari, vitex
 
-![](/assets/images/webp/apothecary.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/apothecary_480x480.webp){: style="float: right; width: 50%"}
 
 **Week 6: Cardiovascular system**
 - Prep(s): oxymels, blood building syrup

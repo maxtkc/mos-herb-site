@@ -4,7 +4,7 @@ title: Herbal Care + Education in Maine, Boston, and Online
 feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 ---
 
-{% include figure.html image="/assets/images/webp/mo_has_a_mug.webp" caption="what an herbal consultation might look like" %}{: style="float: right; width: 50%"}
+{% include figure.html image="/assets/images/resized_images/mo_has_a_mug_480x480.webp" caption="what an herbal consultation might look like" %}{: style="float: right; width: 50%"}
 
 ### [Herbal Care](https://mokatzchristy.com/work_w_me.html):
 
@@ -29,7 +29,7 @@ While **my practice centers gut health**, I follow my clients' lead and we work 
 
 ### [Herbal Education](https://mokatzchristy.com/learn.html):
 
-{% include figure.html image="/assets/images/webp/constellation.webp" caption="Tea Blending in our Winter Immersion" %}{: style="float: right; width: 50%"}
+{% include figure.html image="/assets/images/resized_images/constellation_480x480.webp" caption="Tea Blending in our Winter Immersion" %}{: style="float: right; width: 50%"}
 
 Do you want to **care for your community** by connecting your beloved humans to the beloved plants around them?
 I teach herb classes at over 50 sites in New England, including a [9-month bioregional herb program](https://mokatzchristy.com/immersions.html), a [winter intensive](https://mokatzchristy.com/winter_seeds.html), and several [weekend-long immersions](https://mokatzchristy.com/immersions.html) throughout the year.
