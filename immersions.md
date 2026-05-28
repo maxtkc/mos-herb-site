@@ -6,24 +6,6 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 
 I offer several longer programs throughout the year including a [9-month apprentice-style program](https://mokatzchristy.com/bioregional_immersion.html), a [winter intensive](https://mokatzchristy.com/winter_seeds.html), and weekend immersions. Below are the weekend immersion programs for 2026 that still have space available:
 
-![](/assets/images/resized_images/growingcenter_480x480.webp){: style="float: right; width: 50%"}
-
-### Cape Cod Herbal Immersion
-> May 23-24th, 2026\
-> $375-430\
-> [Welfleet Mass Adubon](https://www.massaudubon.org/programs/wellfleet-bay/101716-field-school-cape-cod-herbal-immersion)
-> [Register here!](https://www.massaudubon.org/programs/wellfleet-bay/101716-field-school-cape-cod-herbal-immersion)
-
-Immerse yourself in the plants of Cape Cod! In this two-day course, we will explore the medicine of the trees, shrubs, and wildflowers of the dunes, fields, woods, and wetlands.
-
-We will spend the weekend hiking the different ecosystems of Cape Cod, learning about the plants we find. Baskets in hand, we will begin with a stroll along the beach to harvest beach rose petals to make into tea, infused honey, and elixir. Could anything be more euphoriant? We will learn the principles of ethical harvest and how to work with the plants and their chemistry to make effective remedies.
-
-We will ask, what does it mean to be a human in relationship with our ecosystem? How can we look to our ecosystems for healing, and how can we, in turn, heal our ecosystems?
-
-Come prepared to delight in the wonder of plants and leave with a bounty of herbal remedies to share with your community!
-
-[Register here!](https://www.massaudubon.org/programs/wellfleet-bay/101716-field-school-cape-cod-herbal-immersion)
-
 ![](/assets/images/resized_images/Cove_480x480.webp){: style="float: left; width: 60%"}
 
 ### Deer Isle Herbal Immersion
@@ -44,7 +26,7 @@ Join us to build beautiful, rich relationship with the ocean and the plants she 
 
 ---
 
-Unfortunately the [9-month apprentice-style program](https://mokatzchristy.com/bioregional_immersion.html) and [winter intensive](https://mokatzchristy.com/winter_seeds.html) are full for 2026. If you'd like to find out what programs are coming up you can...
+Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) form to be notified when registration opens up for our [9-month apprentice-style program](https://mokatzchristy.com/bioregional_immersion.html) and [winter intensive](https://mokatzchristy.com/winter_seeds.html) in 2027. If you'd like to find out what programs are coming up you can...
 
 {% include components/subscribe.html label="Join my monthly mailing list!" %}
 
