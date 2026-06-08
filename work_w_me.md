@@ -55,7 +55,7 @@ Our next five months together:
 
 For every four new clients who pay full price, I take on one new client on a sliding-scale $0-$180/mo. Book a connection call to get on the waitlist for this option!
 
-![Catmint](/assets/images/resized_images/catnip_480x480.webp){: style="float: right; width: 40%"}
+![Picking Roses](/assets/images/resized_images/pickingroses_480x480.webp){: style="float: right; width: 40%"}
 
 ##### Individual Herbal Sessions:
 
