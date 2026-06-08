@@ -21,9 +21,9 @@ I listen to your story and we try to uncover the patterns at the root of your sy
 
 #### Two Options
 
-![Picking Roses](/assets/images/resized_images/roses_480x480.webp){: style="float: left; width: 30%"}
-
 ##### 6 Month Restore from the Roots
+
+![Picking Roses](/assets/images/resized_images/roses_480x480.webp){: style="float: left; width: 50%"}
 
 Chronic issues are like onions: once we peel away one layer we find the next layer to address. In my experience, six months is the minimum amount of time it takes to both fully address the root causes of imbalances leading to dysregulation in the body, AND to develop a new habit. This six-month program is designed for us to walk together throughout that process. We add one step at a time so that we can track changes and build rhythms that lead to lasting changes.
 
