@@ -27,20 +27,20 @@ I listen to your story and we try to uncover the patterns at the root of your sy
 
 Chronic issues are like onions: once we peel away one layer we find the next layer to address. In my experience, six months is the minimum amount of time it takes to both fully address the root causes of imbalances leading to dysregulation in the body, AND to develop a new habit. This six-month program is designed for us to walk together throughout that process. We add one step at a time so that we can track changes and build rhythms that lead to lasting changes.
 
-This program includes:
-- 1:1 meetings twice a month
+**This program includes:**
+- **1:1 meetings** twice a month
 - off-week accountability check in
-- monthly, thoroughly-researched protocol writeups, including why I recommend each herb
-- custom formulation through Heart Hand Land apothecary (cost of herbs is separate - I’ll work within your budget)
-- priority filling and shipping for your herbal formulas
+- monthly, **thoroughly-researched protocols**, including why I recommend each herb
+- **custom formulation** through Heart Hand Land apothecary (cost of herbs is separate - I’ll work within your budget)
+- **priority filling** and shipping for your herbal formulas
 - messaging between sessions
 
 **So, what does this actually look like?**
 
 Our first month together:
 - We meet for 60 minutes to go over all of your concerns and the patterns in which they are showing up in your body. Based on this, we decide together what to address first.
-- I send you your thorough writeup within 48 hours, and the apothecary fills and ships your order.
-- We check in two weeks later for 30-60 minutes to see how the herbs are feeling in your body, to talk through the details of taking your herbs, and to decide together what makes sense to address next.
+- I send you your thorough writeup and the apothecary fills and ships your order.
+- We check in two weeks later for 30-60 minutes to see how the herbs are feeling in your body, to talk through the process of taking your herbs, and to decide together what makes sense to address next.
 - Based on our meeting, I send you the updates to your protocol and any additional recommendations
 
 Our next five months together:
@@ -59,3 +59,8 @@ These are for you if you are highly self-motivated and want to take a protocol a
 
 Initial (90 minutes) - $340
 Follow-up (45 minutes) - $140
+
+{% include components/booking-widget.html
+  title="Schedule a free 15-minute intro call"
+  service="68ed21bf21132e5178047c4a"
+%}
