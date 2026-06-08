@@ -15,46 +15,47 @@ Schedule a free intro call above to learn what an herbal consulatation is all ab
 
 #### What does an herbal consult look like?
 
+Our work is a partnership: I see you as the expert of your body, and I’m here to support you in addressing your goals.
+
 I listen to your story and we try to uncover the patterns at the root of your symptoms. Afterwards, I’ll do some research and then send you detailed recommendations including herbal formulas, dietary advice (optional!) and other guidance (blood tests, movement/massage, referrals to other practitioners). I’ll send you a thorough writeup of your protocol with info on why I recommended each herb, and you can order your custom formulations through Heart Hand Land apothecary (or grow them yourself, or whatever you like!).
 
-#### How often do we check in?
+#### Two Options
 
 ![Picking Roses](/assets/images/resized_images/roses_480x480.webp){: style="float: left; width: 30%"}
 
-As often as feels productive to you! Often, it is hard for us to track our own
-process -- I have clients who forget they used to have headaches and are
-very pleased when we meet and they realize that their headaches are gone! For
-most people, I recommend meeting once every six weeks for at least three visits
-and then every 3-6 months afterwards. However, some chronic issues can be like
-onions -- once we peel one layer away we discover another layer to care for --
-and can require more care and attention.
+##### 6 Month Restore from the Roots
 
-#### Appointment Pricing
+Chronic issues are like onions: once we peel away one layer we find the next layer to address. In my experience, six months is the minimum amount of time it takes to both fully address the root causes of imbalances leading to dysregulation in the body, AND to develop a new habit. This six-month program is designed for us to walk together throughout that process. We add one step at a time so that we can track changes and build rhythms that lead to lasting changes.
 
-I offer three tiers of pricing for consultations:
-- **Sustainer Rate** – When clients pay the sustainer rate, it directly funds pay-what-you-can consultations for those who cannot afford the base rate.
-- **Base Rate** – This is the price that compensates me for my time.
-- **Pay-What-You-Can** – If you cannot pay the base rate, you can [let me know](https://mokatzchristy.com/contact.html) what price you can pay. When there are funds available from clients paying the sustainer rate, I will reach out to you to schedule an appointment.
+This program includes:
+- 1:1 meetings twice a month
+- off-week accountability check in
+- monthly, thoroughly-researched protocol writeups, including why I recommend each herb
+- custom formulation through Heart Hand Land apothecary (cost of herbs is separate - I’ll work within your budget)
+- priority filling and shipping for your herbal formulas
+- messaging between sessions
 
-The consultations are the same, regardless of the price! Not sure how much to pay? Check out [this handy graphic](https://static1.squarespace.com/static/54a1bf90e4b07c077787ed68/t/55d650e6e4b0bb73fdc7b993/1440108774760/GreenBottleSlidingScale.png).
+**So, what does this actually look like?**
 
-|                          |                  | Sustainer    | Base          |Pay-What-You-Can|
-| Complimentary intro call | 15 minutes       |              | Always free   |                |
-| Initial consult          | 90 minutes       | $400         | $340          | $0-$339        |
-| Follow-up                | 30–60 minutes    | $180         | $140          | $0-$139        |
+Our first month together:
+- We meet for 60 minutes to go over all of your concerns and the patterns in which they are showing up in your body. Based on this, we decide together what to address first.
+- I send you your thorough writeup within 48 hours, and the apothecary fills and ships your order.
+- We check in two weeks later for 30-60 minutes to see how the herbs are feeling in your body, to talk through the details of taking your herbs, and to decide together what makes sense to address next.
+- Based on our meeting, I send you the updates to your protocol and any additional recommendations
 
-{% include components/booking-widget.html
-  title="Schedule a consultation"
-  booking_page="68f775e464033a7262c2b236"
-  height="800px"
-%}
+Our next five months together:
+- We meet once a month for 30-60 minutes to check in about how things are going and address the next layer of the onion, or to shift up formulas to better address your concerns.
+- I send you new formulas as needed.
+- We check in for 15 minutes two weeks after our longer appointment to address any questions or concerns you may have and to make sure we stay on the right track.
+- On off weeks when we’re not meeting, I send you an accountability check-in form to fill out. This lets me know how things are going for you that week so that I can follow your progress and track changes to see what is helping and what isn’t.
 
-{% include components/booking-widget.html
-  title="Schedule a follow up"
-  booking_page="68f69201ab61509540ddba49"
-  height="800px"
-%}
+**Cost:** $180/month for six months. Payment plans available at no additional charge.
 
-#### Cost of herbs
+For every four new clients who pay full price, I take on one new client on a sliding-scale $0-$180/mo. Book a connection call to get on the waitlist for this option!
 
-Herbs can cost anywhere from $50-$200 per month. I can support you in using foods and lower-cost remedies to work within your budget, but the herbs are not sliding scale. I primarily use [Heart Hand Lands apothecary](https://hearthandland.com/) for my clients’ formulas because they source quality, sustainable, relatively affordable herbs.
+##### Individual Herbal Sessions:
+
+These are for you if you are highly self-motivated and want to take a protocol and run with it with check-ins available as needed. We meet for 90 minutes and I give you a holistic protocol that addresses as many of your concerns as we’re able to get through in that time. We check in as needed -- usually six weeks after our initial appointment, and then every two months.
+
+Initial (90 minutes) - $340
+Follow-up (45 minutes) - $140
