@@ -9,7 +9,7 @@ feature_image: "/assets/images/webp/planting_seeds.webp"
   service="68ed21bf21132e5178047c4a"
 %}
 
-![Picking Roses](/assets/images/resized_images/pickingroses_480x480.webp){: style="float: right; width: 40%"}
+![Vervain Harvest](/assets/images/resized_images/vervainavena_480x480.webp){: style="float: right; width: 40%"}
 
 Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other! For most people, this is your first time meeting with a clinical herbalist. We talk through what you're looking for and see if I might be able to support you.
 
@@ -54,6 +54,8 @@ Our next five months together:
 **Cost:** $180/month for six months. Payment plans available at no additional charge.
 
 For every four new clients who pay full price, I take on one new client on a sliding-scale $0-$180/mo. Book a connection call to get on the waitlist for this option!
+
+![Catmint](/assets/images/resized_images/catnip_480x480.webp){: style="float: right; width: 40%"}
 
 ##### Individual Herbal Sessions:
 
