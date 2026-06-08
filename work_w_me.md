@@ -9,7 +9,7 @@ feature_image: "/assets/images/webp/planting_seeds.webp"
   service="68ed21bf21132e5178047c4a"
 %}
 
-{% include figure.html image="/assets/images/resized_images/pickingroses_480x480.webp" caption="beach rose harvest!" %}{: style="float: right; width: 60%"}
+![Picking Roses](/assets/images/resized_images/pickingroses_480x480.webp){: style="float: right; width: 40%"}
 
 Schedule a free intro call above to learn what an herbal consulatation is all about and whether or not we might be a good fit for each other! For most people, this is your first time meeting with a clinical herbalist. We talk through what you're looking for and see if I might be able to support you.
 
@@ -26,6 +26,8 @@ I listen to your story and we try to uncover the patterns at the root of your sy
 ##### 6 Month Restore from the Roots
 
 Chronic issues are like onions: once we peel away one layer we find the next layer to address. In my experience, six months is the minimum amount of time it takes to both fully address the root causes of imbalances leading to dysregulation in the body, AND to develop a new habit. This six-month program is designed for us to walk together throughout that process. We add one step at a time so that we can track changes and build rhythms that lead to lasting changes.
+
+![Catmint](/assets/images/resized_images/catnip_480x480.webp){: style="float: left; width: 40%"}
 
 **This program includes:**
 - **1:1 meetings** twice a month
