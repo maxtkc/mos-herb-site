@@ -60,7 +60,7 @@ For every four new clients who pay full price, I take on one new client on a sli
 
 These are for you if you are highly self-motivated and want to take a protocol and run with it with check-ins available as needed. We meet for 90 minutes and I give you a holistic protocol that addresses as many of your concerns as we’re able to get through in that time. We check in as needed -- usually six weeks after our initial appointment, and then every two months.
 
-Initial (90 minutes) - $340
+Initial (90 minutes) - $340\
 Follow-up (45 minutes) - $140
 
 {% include components/booking-widget.html
