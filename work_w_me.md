@@ -52,7 +52,7 @@ Our next five months together:
 
 **Cost:** $180/month for six months. Payment plans available at no additional charge.
 
-For every four new clients who pay full price, I take on one new client on a sliding-scale $0-$180/mo. Book a connection call to get on the waitlist for this option!
+I take on a percentage of sliding scale clients at $0-$180/mo. These slots are intended for those who are represented by the low end of [this sliding scale self-placement tool](https://static1.squarespace.com/static/54a1bf90e4b07c077787ed68/t/55d650e6e4b0bb73fdc7b993/1440108774760/GreenBottleSlidingScale.png). Book a connection call to get on the waitlist for this!
 
 ##### Individual Herbal Sessions:
 
