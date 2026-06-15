@@ -25,7 +25,7 @@ I listen to your story and we try to uncover the patterns at the root of your sy
 
 ##### 6 Month Restore from the Roots
 
-Chronic issues are like onions: once we peel away one layer we find the next layer to address. In my experience, six months is the minimum amount of time it takes to both fully address the root causes of imbalances leading to dysregulation in the body, AND to develop a new habit. This six-month program is designed for us to walk together throughout that process. We add one step at a time so that we can track changes and build rhythms that lead to lasting changes.
+Chronic issues are like onions: once we peel away one layer we find the next layer to address. In my experience, **six months** is the minimum amount of time it takes to both **fully address the root causes** of imbalances leading to dysregulation in the body, AND to **develop a new habit**. This six-month program is designed for us to walk together throughout that process. We add one step at a time so that we can track changes and **build rhythms that lead to lasting changes**.
 
 **This program includes:**
 ![Catmint](/assets/images/resized_images/catnip_480x480.webp){: style="float: right; width: 40%"}
@@ -45,14 +45,21 @@ Our first month together:
 - Based on our meeting, I send you the updates to your protocol and any additional recommendations
 
 Our next five months together:
-- We meet once a month for 30-60 minutes to check in about how things are going and address the next layer of the onion, or to shift up formulas to better address your concerns.
-- I send you new formulas as needed.
-- We check in for 15 minutes two weeks after our longer appointment to address any questions or concerns you may have and to make sure we stay on the right track.
+- Big session: We meet once a month to address the next layer of the onion, or to shift up formulas to better address your concerns.
+- Mini session: We check in two weeks after our longer appointment to address any questions or concerns you may have and to make sure we stay on the right track.
+- I send you new formulas and refills as needed.
 - On off weeks when we’re not meeting, I send you an accountability check-in form to fill out. This lets me know how things are going for you that week so that I can follow your progress and track changes to see what is helping and what isn’t.
 
 **Cost:** $180/month for six months. Payment plans available at no additional charge.
 
 I take on a percentage of sliding scale clients at $0-$180/mo. These slots are intended for those who are represented by the low end of [this sliding scale self-placement tool](https://static1.squarespace.com/static/54a1bf90e4b07c077787ed68/t/55d650e6e4b0bb73fdc7b993/1440108774760/GreenBottleSlidingScale.png). Book a connection call to get on the waitlist for this!
+
+If you think we might be a good fit, the first step is to schedule a free call so we can chat about your concerns and see if herbs are a good way to address them.
+
+{% include components/booking-widget.html
+  title="Schedule a free 15-minute intro call"
+  service="68ed21bf21132e5178047c4a"
+%}
 
 ##### Individual Herbal Sessions:
 
@@ -62,6 +69,8 @@ These are for you if you are highly self-motivated and want to take a protocol a
 
 Initial (90 minutes) - $340\
 Follow-up (45 minutes) - $140
+
+Not totally sure which option to choose, or even if we'd work well together? Feel free to schedule a call so we can talk it through together. There is no pressure to commit to working with me after booking a call!
 
 {% include components/booking-widget.html
   title="Schedule a free 15-minute intro call"
