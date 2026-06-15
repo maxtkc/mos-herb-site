@@ -39,9 +39,9 @@ Chronic issues are like onions: once we peel away one layer we find the next lay
 **So, what does this actually look like?**
 
 Our first month together:
-- We meet for 60 minutes to go over all of your concerns and the patterns in which they are showing up in your body. Based on this, we decide together what to address first.
+- In our initial session, we go over all of your concerns and the patterns in which they are showing up in your body. Based on this, we decide together what to address first.
 - I send you your thorough writeup and the apothecary fills and ships your order.
-- We check in two weeks later for 30-60 minutes to see how the herbs are feeling in your body, to talk through the process of taking your herbs, and to decide together what makes sense to address next.
+- We check in two weeks later to see how the herbs are feeling in your body, to talk through the process of taking your herbs, and to decide together what makes sense to address next.
 - Based on our meeting, I send you the updates to your protocol and any additional recommendations
 
 Our next five months together:
