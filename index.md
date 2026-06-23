@@ -36,10 +36,12 @@ I teach herb classes at over 50 sites in New England, including a [9-month biore
 
 The best way to find out about upcoming classes is to:
 
+<div id="mailing-list">
 {% include components/subscribe.html %}
+</div>
 
 Email me at mo (at) mokatzchristy.com if you’d like to request a class for your local organization!
 
 {% include components/gallery.html items=site.gallery_items cols=3 %}
 
-{% include components/subscribe.html %}
+[**Join my monthly mailing list!**](#mailing-list)
