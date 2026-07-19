@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Read
+title: Writing
 feature_image: "/assets/images/webp/dock.webp"
 ---
 
