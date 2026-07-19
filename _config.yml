@@ -42,8 +42,8 @@ navigation_header:
     url: /learn.html
   - title: Recorded Classes
     url: /recordedclasses.html  
-  - title: Read
-    url: /read.html
+  - title: Writing
+    url: /writing.html
   - title: Immersion Programs
     url: /immersions.html
 - title: Contact
@@ -62,8 +62,8 @@ navigation_footer:
   url: /learn.html  
 - title: Immersion Programs
   url: /immersions.html
-- title: Read
-  url: /read.html
+- title: Writing
+  url: /writing.html
 - title: Contact
   url: /contact.html
 - title: Privacy Policy
