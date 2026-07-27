@@ -4,7 +4,12 @@ title: Immersion Programs
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
-I offer several longer programs throughout the year including a [9-month apprentice-style program](https://mokatzchristy.com/bioregional_immersion.html), a [winter intensive](https://mokatzchristy.com/winter_seeds.html), and weekend immersions. Below are the weekend immersion programs for 2026 that still have space available:
+I offer several longer programs throughout the year including:
+- a [9-Month Bioregional Herbalism program](https://mokatzchristy.com/bioregional_immersion.html)
+- a [Seeds of Herbalism winter intensive](https://mokatzchristy.com/winter_seeds.html)
+- weekend immersion programs
+
+Below are the weekend immersion programs for 2026 that still have space available:
 
 ![](/assets/images/resized_images/Cove_480x480.webp){: style="float: left; width: 60%"}
 
