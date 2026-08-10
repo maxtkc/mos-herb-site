@@ -5,7 +5,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 ### [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSfGgir41jdiKFSW8PpSppegFAnPpxCnWeAoRE1ZQaiWyFXn9Q/viewform?usp=publish-editor)
 
-![](/assets/images/resized_images/icywalk_480x480.webp){: style="float: right; width: 50%"}
+![](/assets/images/webp/constellationblend.webp){: style="float: right; width: 50%"}
 
 **Calling all aspiring herbalists!** Spend these cold months cozy with a cup of tea at [Rockweed](https://www.rockweed.me/) diving deep into the foundations of herbalism with a cohort of dedicated plant people.
 
@@ -19,7 +19,7 @@ Each week we’ll focus on a different body system and the ways that we can work
 - strong familiarity with **21 herbal allies**
 - a **community of fellow herbalists** who can help you continue on your herbal journey!
 
-![](/assets/images/resized_images/nettle_480x480.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/calendulastrain_480x480.webp){: style="float: right; width: 50%"}
 
 #### Tentative schedule:
 
@@ -38,7 +38,7 @@ Each week we’ll focus on a different body system and the ways that we can work
 - Related lesson: making + keeping an effective apothecary
 - Focus herbs: raspberry, shatavari, vitex
 
-![](/assets/images/resized_images/violet_480x480.webp){: style="float: right; width: 55%"}
+![](/assets/images/resized_images/squeeze_480x480.webp{: style="float: right; width: 55%"}
 
 **Week 4: Circadian rhythms: energy + sleep**
 - Prep(s): tea blend, herbal "coffee"
@@ -50,7 +50,7 @@ Each week we’ll focus on a different body system and the ways that we can work
 - Related lesson: herbal safety
 - Focus herbs: ginger, hawthorn, blueberry
 
-![](/assets/images/resized_images/apothecary_480x480.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/salve_480x480.webp{: style="float: right; width: 50%"}
 
 **Week 6: First aid**
 - Prep(s): salves, creams
