@@ -15,7 +15,7 @@ Each week we’ll focus on a different body system and the ways that we can work
 
 #### In March, you’ll leave with:
 - a **mini-apothecary** of remedies to share with your loved ones
-- foundations of understanding of **six body systems** and the ways plants interact with them
+- foundations of understanding of **seven body systems** and the ways plants interact with them
 - strong familiarity with **21 herbal allies**
 - a **community of fellow herbalists** who can help you continue on your herbal journey!
 
