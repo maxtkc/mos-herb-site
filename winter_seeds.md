@@ -3,11 +3,11 @@ layout: page
 title: Winter Seeds of Herbalism Intensive
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
-##### FULL for 2026 - [click here](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) to express interest for 2027
+### [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSfGgir41jdiKFSW8PpSppegFAnPpxCnWeAoRE1ZQaiWyFXn9Q/viewform?usp=publish-editor)
 
 ![](/assets/images/resized_images/icywalk_480x480.webp){: style="float: right; width: 50%"}
 
-**Calling all aspiring herbalists!** Spend these cold months cozy with a cup of tea in [Constellation studio](https://www.studioconstellation.com/event-details-registration/winter-seeds-of-herbalism-intensive-a-7-week-series) diving deep into the foundations of herbalism with a cohort of dedicated plant people.
+**Calling all aspiring herbalists!** Spend these cold months cozy with a cup of tea at [Rockweed](https://www.rockweed.me/) diving deep into the foundations of herbalism with a cohort of dedicated plant people.
 
 #### Daily flow:
 Each week we’ll focus on a different body system and the ways that we can work with herbs to address common concerns. We’ll learn how to make **1-2 herbal preparations** that help to regulate and heal our body system of the week. In the afternoon, we’ll have a second herbal lesson to help us put the **physiology into practice!**
@@ -24,8 +24,8 @@ Each week we’ll focus on a different body system and the ways that we can work
 #### Tentative schedule:
 
 **Week 1: Immune + lymph**
-- Prep(s): elderberry syrup, bone broth
-- Related lesson: effective extraction of herbs
+- Prep(s): elderberry syrup
+- Related lesson: intro to herbalism
 - Focus herbs: echinacea, astragalus, elderberry
 
 **Week 2: Gut health**
@@ -33,37 +33,38 @@ Each week we’ll focus on a different body system and the ways that we can work
 - Related lesson: herbal energetics
 - Focus herbs: marshmallow, angelica, calendula
 
-**Week 3: First aid**
-- Prep(s): infused oils, salves
+**Week 3: Hormone regulation: menstruation, menopause + gender affirming hormones**
+- Prep(s): infused oil
 - Related lesson: making + keeping an effective apothecary
-- Focus herbs: comfrey, St John’s wort, yarrow
+- Focus herbs: raspberry, shatavari, vitex
 
 ![](/assets/images/resized_images/violet_480x480.webp){: style="float: right; width: 55%"}
 
-**Week 4: Stress + sleep**
-- Prep(s): sleepy tincture, bliss balls
-- Related lesson: botanical families
-- Focus herbs: eleuthero, tulsi, skullcap
+**Week 4: Circadian rhythms: energy + sleep**
+- Prep(s): tea blend, herbal "coffee"
+- Related lesson: processing dried herbs + herbs for mutual aid
+- Focus herbs: eleuthero, tulsi, licorice
 
-**Week 5: Hormone regulation: menstruation, menopause + gender affirming hormones**
-- Prep(s): tea blend, herbal honey
-- Related lesson: bark medicine
-- Focus herbs: raspberry, shatavari, vitex
+**Week 5: Cardiovascular system**
+- Prep(s): cardiovascular oxymel
+- Related lesson: herbal safety
+- Focus herbs: ginger, hawthorn, blueberry
 
 ![](/assets/images/resized_images/apothecary_480x480.webp){: style="float: right; width: 50%"}
 
-**Week 6: Cardiovascular system**
-- Prep(s): oxymels, blood building syrup
-- Related lesson: herbal safety
-- Focus herbs: ginger, hawthorn, motherwort
+**Week 6: First aid**
+- Prep(s): salves, creams
+- Related lesson: effective extraction
+- Focus herbs: comfrey, St John’s wort, yarrow
 
-**Week 7: Tying it together and prepping for springtime**
-- Prep(s): fresh herb teas, foraged spring salad
-- Related lesson: Plant walk!
-- Focus herbs: cleavers, nettle, Japanese knotweed
+**Week 7: Stress + mood support**
+- Prep(s): bliss balls, student projects
+- Related lesson: final presentations
+- Focus herbs: skullcap, lemon balm, blue vervain
 
 ### The Details:
-- 7 Sundays, 1/11-3/8, skipping federal holiday weekends
-- 10:30am-2:30pm
+- 7 Sundays, 1/24-3/14, skipping 3/21
+- 1:30-5:30, except 1/24 & 2/28 are 9:30-1:30 to accommodate the Community Care Clinic
 - $400-$600 sliding scale + $80 materials fee per person for your take-home apothecary
-- [Register here!](https://www.studioconstellation.com/event-details-registration/winter-seeds-of-herbalism-intensive-a-7-week-series)
+- [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSfGgir41jdiKFSW8PpSppegFAnPpxCnWeAoRE1ZQaiWyFXn9Q/viewform?usp=publish-editor)
+- Not sure yet? Book a call to chat about it [here](https://zcal.co/i/HNRlGjhc)
