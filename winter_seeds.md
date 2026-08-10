@@ -38,7 +38,7 @@ Each week we’ll focus on a different body system and the ways that we can work
 - Related lesson: making + keeping an effective apothecary
 - Focus herbs: raspberry, shatavari, vitex
 
-![](/assets/images/resized_images/squeeze_480x480.webp{: style="float: right; width: 55%"}
+![](/assets/images/resized_images/squeeze_480x480.webp){: style="float: right; width: 55%"}
 
 **Week 4: Circadian rhythms: energy + sleep**
 - Prep(s): tea blend, herbal "coffee"
@@ -50,7 +50,7 @@ Each week we’ll focus on a different body system and the ways that we can work
 - Related lesson: herbal safety
 - Focus herbs: ginger, hawthorn, blueberry
 
-![](/assets/images/resized_images/salve_480x480.webp{: style="float: right; width: 50%"}
+![](/assets/images/resized_images/salve_480x480.webp){: style="float: right; width: 50%"}
 
 **Week 6: First aid**
 - Prep(s): salves, creams
