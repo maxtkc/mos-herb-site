@@ -64,7 +64,7 @@ Each week we’ll focus on a different body system and the ways that we can work
 
 ### The Details:
 - 7 Sundays, 1/24-3/14, skipping 3/21
-- 1:30-5:30, except 1/24 & 2/28 are 9:30-1:30 to accommodate the Community Care Clinic
+- 1:30-5:30, except 1/24 & 2/28 are 9:30-1:30 to accommodate the [Midcoast Community Care Collective](https://www.rockweed.me/events/midcoast-community-care-collective-clinic)
 - $400-$600 sliding scale + $80 materials fee per person for your take-home apothecary
 - [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSfGgir41jdiKFSW8PpSppegFAnPpxCnWeAoRE1ZQaiWyFXn9Q/viewform?usp=publish-editor)
 - Not sure yet? Book a call to chat about it [here](https://zcal.co/i/HNRlGjhc)
