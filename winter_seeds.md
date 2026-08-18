@@ -72,6 +72,8 @@ Each week we’ll focus on a different body system and the ways that we can work
 
 “I loved the way that you fostered a space that felt open and curious, and which really made it safe to ask questions and not know-- and simultaneously, which honored the knowledge and experience that folks DID bring into the space.”
 
+![](/assets/images/webp/Palestinenails.webp){: style="float: right; width: 40%"}
+
 “I appreciated the way that you were intentional about engaging each of us-- down to making sure that everyone knew everyone's name (it makes such a difference!). I also thought that this structure really embodied the idea of praxis -- it was helpful and meaningful to be able to immediately apply ideas in the making of things. This was an ambitious curriculum to cover in 8 weeks, and I think you balanced a lot of content with open discussion and play and making things beautifully. I also really appreciated the way that you grounded us in the realities of systemic violence periodically, without getting stuck there.”
 
 “I am already using some of what we learned in my clinical practice when folks want to try to avoid using prescribed drugs, and it is amazing to watch how people light up when we talk about herbalism as another option, or validate that the traditions that many of them grew up with are welcome in our clinical encounter space.”
