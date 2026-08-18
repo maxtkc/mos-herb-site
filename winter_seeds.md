@@ -62,6 +62,19 @@ Each week we’ll focus on a different body system and the ways that we can work
 - Related lesson: final presentations
 - Focus herbs: skullcap, lemon balm, blue vervain
 
+### What students say about the program:
+
+“You are an absolute joy to learn from, and the playful/open/curious culture of the class is a result of who you are and the energy that you bring.”
+
+“I really liked how we talked about a way of thinking about energetics in the body and how to match that with different herbs. I felt like that gave people the space to share their own experiences and that became part of the knowledge we created together.”
+
+“I loved the way that you fostered a space that felt open and curious, and which really made it safe to ask questions and not know-- and simultaneously, which honored the knowledge and experience that folks DID bring into the space.”
+
+“I appreciated the way that you were intentional about engaging each of us-- down to making sure that everyone knew everyone's name (it makes such a difference!). I also thought that this structure really embodied the idea of praxis -- it was helpful and meaningful to be able to immediately apply ideas in the making of things. This was an ambitious curriculum to cover in 8 weeks, and I think you balanced a lot of content with open discussion and play and making things beautifully. I also really appreciated the way that you grounded us in the realities of systemic violence periodically, without getting stuck there.”
+
+“I am already using some of what we learned in my clinical practice when folks want to try to avoid using prescribed drugs, and it is amazing to watch how people light up when we talk about herbalism as another option, or validate that the traditions that many of them grew up with are welcome in our clinical encounter space.”
+
+
 ### The Details:
 - 7 Sundays, 1/24-3/14, skipping 3/21
 - 1:30-5:30, except 1/24 & 2/28 are 9:30-1:30 to accommodate the [Midcoast Community Care Collective](https://www.rockweed.me/events/midcoast-community-care-collective-clinic)
