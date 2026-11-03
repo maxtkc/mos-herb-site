@@ -178,6 +178,10 @@ a {
     color: #606060;
 }
 
+.button--nav {
+    color: #006244;
+}
+
 .footer .item--current a {
     color: #d0d0d0;
 }
@@ -384,4 +388,71 @@ a {
       display: block;
     }
   }
+}
+
+// Footer nav: centered full-width row
+.footer .nav {
+  width: 100%;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+.footer .item--nav {
+  white-space: nowrap;
+}
+
+// Content buttons (scoped so the header menu toggle keeps theme styles)
+.typeset .button {
+  display: inline-block;
+  margin: 0.5rem 0 1.5rem;
+  padding: 0.6em 1.2em;
+  background: #006244;
+  color: #ffffff;
+  border-radius: 6px;
+
+  &:hover {
+    background: #004d35;
+    color: #ffffff;
+  }
+}
+
+.tincture-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.tincture {
+  padding: 1rem 1.25rem;
+  background: #f9f9f9;
+  border-left: 4px solid #006244;
+  border-radius: 0 4px 4px 0;
+
+  h4 {
+    margin: 0;
+    padding-bottom: 0.25rem;
+  }
+
+  p {
+    margin-bottom: 0.5rem;
+  }
+}
+
+.tincture__herbs {
+  font-style: italic;
+}
+
+.tincture__tag {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  padding: 0.1em 0.6em;
+  font-size: 0.8rem;
+  background: #e3eee9;
+  border-radius: 999px;
+}
+
+.tincture__note {
+  font-weight: bold;
+  color: #8a3b12;
 }
