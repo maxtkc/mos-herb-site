@@ -38,14 +38,14 @@ navigation_header:
 - title: Learn
   url: /learn.html
   items:
+  - title: Immersion Programs
+    url: /immersions.html
   - title: Community Classes
     url: /learn.html
   - title: Recorded Classes
     url: /recordedclasses.html  
   - title: Writing
     url: /writing.html
-  - title: Immersion Programs
-    url: /immersions.html
 - title: Contact
   url: /contact.html
 - title: Work with me
