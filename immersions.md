@@ -4,6 +4,8 @@ title: Immersion Programs
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
+Want to learn to care for your community using plants? In the longer immersion programs, we dive deep into how we can use plants to support community care.
+
 I offer several longer programs throughout the year including:
 - a [9-Month Bioregional Herbalism program](https://mokatzchristy.com/bioregional_immersion.html)
 - a [Seeds of Herbalism winter intensive](https://mokatzchristy.com/winter_seeds.html) - **Now enrolling for 2027!**
