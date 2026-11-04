@@ -4,36 +4,32 @@ title: Immersion Programs
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
-Want to learn to care for your community using plants? In the longer immersion programs, we dive deep into how we can use plants to support community care.
+Want to learn to care for your community using plants? In the longer immersion programs, we dive deep into learning how to use plants for community care.
 
 I offer several longer programs throughout the year including:
-- a [9-Month Bioregional Herbalism program](https://mokatzchristy.com/bioregional_immersion.html)
-- a [Seeds of Herbalism winter intensive](https://mokatzchristy.com/winter_seeds.html) - **Now enrolling for 2027!**
+- a [Seeds of Herbalism winter intensive](https://mokatzchristy.com/winter_seeds.html) 
+- A two-year [Bioregional Community Herbalist training program](https://mokatzchristy.com/bioregional_immersion.html)
 - weekend immersion programs
 
-Below is one weekend immersion program - there are none left for 2026 but stay tuned for 2027 :)
+### [Winter Seeds of Herbalism](https://mokatzchristy.com/winter_seeds.html):
 
-![](/assets/images/resized_images/Cove_480x480.webp){: style="float: left; width: 60%"}
+> 7 week winter herbal immersion
+> 4 hours every Sunday, January-March
+> Rockweed, Belfast ME
 
-### Deer Isle Herbal Immersion
-> July 24-26, 2026\
-> $150-$650 including camping and meals\
-> Deer Isle, ME (location will be sent to registrants)\
-> [Register here!](https://docs.google.com/forms/d/e/1FAIpQLScXKmFetcBsf18qzpk0DVz-T85b4T6m7z1aor1x-1jAP7JMKw/viewform?usp=header)
+### [Bioregional Community Herbalist training program](https://mokatzchristy.com/bioregional_immersion.html)
 
-Immerse yourself in the plants of Deer Isle!
+#### Year One: Bioregional + Ancestral Immersion
 
-In this weekend-long immersion, we will make our home on the shores of the magnificent Firefly Cove, a tidal cove that is swimmable in high tide and mud flats in low tide. There will be space for kayaking, potentially some sailing, swimming, sauna-ing, and more.
+Learn to follow the seasons as an herbalist! In this immersive program we will integrate our bodies with the bodies of the land and learn what bioregional and ancestral plant medicine can look like in New England. We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body. We will connect with the herbs that grow around us and those of our ancestors, and see what connections we can make between the two.
 
-We will spend the weekend hiking the different ecosystems of Deer Isle, learning about the plants we find. Baskets in hand, we will respectfully harvest abundant medicine and bring it back to the Cove where we will make teas, tinctures, salves, creams, and more. As we make medicine, we will learn about the chemistry, lineage, stories, and pharmacology of the plants with which we are building relationships. We will add them to our meals, along with clams we harvest from the sea.
+#### Year Two: Community Herbalism Training
 
-Join us to build beautiful, rich relationship with the ocean and the plants she tends.
-
-[Register here!](https://docs.google.com/forms/d/e/1FAIpQLScXKmFetcBsf18qzpk0DVz-T85b4T6m7z1aor1x-1jAP7JMKw/viewform?usp=header)
+Learn how to be your community's herbalist! Herbs can be a powerful tool for community resilience and liberation. This year, we'll focus on the nitty gritty of supporting our community members with common conditions that we can help with: respiratory infections, menstrual cramps, wound healing, cardiovascular wellness, etc.
 
 ---
 
-Fill out [this](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) form to be notified when registration opens up for our [9-month apprentice-style program](https://mokatzchristy.com/bioregional_immersion.html) and [winter intensive](https://mokatzchristy.com/winter_seeds.html) in 2027. If you'd like to find out what programs are coming up you can...
+If you'd like to find out what programs are coming up you can...
 
 {% include components/subscribe.html label="Join my monthly mailing list!" %}
 
