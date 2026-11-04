@@ -11,8 +11,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 
 ### Quick info:
 > - Where: Lexington Community Farm and Midcoast Maine
->     - Each year will have 4-6 Sunday sessions in Lexington, MA and 2-3 weekend immersions in Midcoast Maine (see below for all the details)
-> - When: 11am-5pm with a lunch break (10am-4pm in fall for daylight)\
+> - When: Each year will have 4-6 Sunday sessions in Lexington, MA and 2-3 weekend immersions in Midcoast Maine (see below for all the details)
 > - Who:
 >     - Year One: Herbal enthusiasts wanting to get your hands dirty!
 >     - Year Two: Previous herbal students who want to learn to care for their communities more specifically
@@ -25,6 +24,12 @@ Each session we’ll start by walking the land, baskets in hand. We’ll take no
 As we scrub roots and strip leaves we’ll learn all about the medicine of the plants we are working with. Who is this plant, and how can we work with them? What is their chemistry, and what are their traditional uses? How are they best extracted? Who are they best for, and who would do better with other plants?
 
 We will balance hands-on learning with lessons on the foundations of herbalism so that we can build a stronger understanding of the ways plants interact with bodies in general.
+
+#### What makes this herb program unique?
+- I prioritize community above else. My students who've attended other herb programs previously have shared that they felt closer to their classmates after day one than they did after a whole nine months in other programs.
+- Once you're introduced to the farm, it's your farm: you can go anytime to harvest, tend, water, bathe in the lavender, etc. Students are always texting the group chat, "Who wants to go to the farm tomorrow morning?"
+- Herbalism can be a tool for collective liberation, and it can also cause so much harm. We reckon with this tension constantly.
+- I have a strong chemistry and physiology focus and always want you to understand the "how" behind how herbs work.
 
 #### Things we may learn together
 - Starting herbs from seed
@@ -60,12 +65,6 @@ Each student will be responsible for three projects throughout the session:
 Think herb camp! During the Maine weekends, we will have the opportunity to spend the whole weekend immersing ourselves in the medicine of the land. There will be free camping available and I will provide recommendations of places to stay for those who prefer. Childcare will be available for all but the last weekend: bring your whole family! While you're learning, they'll be playing with rockweed in the tidepools :) Prepare to leave with an ABUNDANCE of herbs to take home for your communities.
 
 The final weekend will be held at Deer Isle, on a magical tidal cove. We will sauna next to the ocean, harvest clams from the sea (optional!), and add seaweed to all our meals. For this weekend, we'll all camp together (other options available for accessibility), share our meals, and share many of our ancestral presentations. This is one of my favorite places in the world and I can't wait to share it with you.
-
-#### What makes this herb program unique?
-- I prioritize community above else. My students who've attended other herb programs previously have shared that they felt closer to their classmates after day one than they did after a whole nine months in other programs.
-- Once you're introduced to the farm, it's your farm: you can go anytime to harvest, tend, water, bathe in the lavender, etc. Students are always texting the group chat, "Who wants to go to the farm tomorrow morning?"
-- Herbalism can be a tool for collective liberation, and it can also cause so much harm. We reckon with this tension constantly.
-- I have a strong chemistry and physiology focus and always want you to understand the "how" behind how herbs work.
 
 #### FAQ
 
