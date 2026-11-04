@@ -83,7 +83,7 @@ Yes! I recommend you bring a lunch since there aren't a ton of close by options,
 **What if I don't have a car?**
 I am committed to offering a car-free accessible program. LexFarm is easily accessible by bus and bicycle, and we will arrange carpools. We will arrange carpools for the Maine immersions which should cover everyone; otherwise, we'll arrange pickups from the bus station.
 
-### The Details:
+#### The Details:
 - LexFarm dates (all Sundays):
     - April 18th 11am-5pm
     - May 16st 11am-5pm
@@ -138,7 +138,7 @@ Maine:
 7/17-18
 8/14-15
 
-### The Details:
+#### The Details:
 - LexFarm dates (all Sundays):
     - March 21st 11am-5pm
     - April 25th 11am-5pm
