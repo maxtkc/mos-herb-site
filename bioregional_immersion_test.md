@@ -16,6 +16,12 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 >     - Year One: Herbal enthusiasts wanting to get your hands dirty!
 >     - Year Two: Previous herbal students who want to learn to care for their communities more specifically
 
+#### What makes this herb program unique?
+- I prioritize community above else. My students who've attended other herb programs previously have shared that they felt closer to their classmates after day one than they did after a whole nine months in other programs.
+- Once you're introduced to the farm, it's your farm: you can go anytime to harvest, tend, water, bathe in the lavender, etc. Students are always texting the group chat, "Who wants to go to the farm tomorrow morning?"
+- Herbalism can be a tool for collective liberation, and it can also cause so much harm. We reckon with this tension constantly.
+- I have a strong chemistry and physiology focus and always want you to understand the "how" behind how herbs work.
+
 ### Year One: Bioregional + Ancestral Immersion
 
 #### Daily flow
@@ -24,12 +30,6 @@ Each session we’ll start by walking the land, baskets in hand. We’ll take no
 As we scrub roots and strip leaves we’ll learn all about the medicine of the plants we are working with. Who is this plant, and how can we work with them? What is their chemistry, and what are their traditional uses? How are they best extracted? Who are they best for, and who would do better with other plants?
 
 We will balance hands-on learning with lessons on the foundations of herbalism so that we can build a stronger understanding of the ways plants interact with bodies in general.
-
-#### What makes this herb program unique?
-- I prioritize community above else. My students who've attended other herb programs previously have shared that they felt closer to their classmates after day one than they did after a whole nine months in other programs.
-- Once you're introduced to the farm, it's your farm: you can go anytime to harvest, tend, water, bathe in the lavender, etc. Students are always texting the group chat, "Who wants to go to the farm tomorrow morning?"
-- Herbalism can be a tool for collective liberation, and it can also cause so much harm. We reckon with this tension constantly.
-- I have a strong chemistry and physiology focus and always want you to understand the "how" behind how herbs work.
 
 #### Things we may learn together
 - Starting herbs from seed
