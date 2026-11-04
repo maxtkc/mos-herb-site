@@ -1,130 +1,69 @@
 ---
 layout: page
-title: Bioregional Herbalism 9-Month Immersion
+title: Bioregional Community Herbalist Training Program
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
-##### 2027 registration coming soon - [click here](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) to be notified when registration opens
+##### Register Here for Year 1
 
 ![](/assets/images/resized_images/hhfarm_480x480.webp){: style="float: right; width: 50%"}
 
-**Learn to follow the seasons as an herbalist!** In this immersive program we will integrate our bodies with the bodies of the land and learn what plant medicine can look like on seven acres in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
-
-We’ll learn from and work with three main areas of the farm: the woodland edges, weeds in the fields, and the herb garden we’ll tend. **Each month we'll make herbal preparations to bring home and share with our communities!**
+**Learn to follow the seasons as an herbalist!** In this immersive program we will integrate our bodies with the bodies of the land and learn what plant bioregional and ancestral plant medicine can look like in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
 
 ### Quick info:
-> Where: Lexington Community Farm\
-> When: One Sunday per month, 11am-5pm with a lunch break (10am-4pm in fall for daylight)\
-> Who: Herbal enthusiasts wanting to get your hands dirty!
+> Where: Lexington Community Farm and Midcoast Maine
+> - Each year will have 4-6 Sunday sessions in Lexington, MA and 2-3 weekend immersions in Midcoast Maine (see below for all the details)
 
-#### Daily flow:
-Each month we’ll start by walking the land, baskets in hand. We’ll take note of the plants that are thriving and those that need extra care. We’ll harvest those that are abundant and at their peak and bring them back to our medicine-making house where we’ll process them and infuse them in oil, vinegar, alcohol, honey, and more.
+> When: 11am-5pm with a lunch break (10am-4pm in fall for daylight)\
+> Who:
+> - Year One: Herbal enthusiasts wanting to get your hands dirty!
+> - Year Two: Previous herbal students who want to learn to care for their communities more specifically
+
+### Year One:
+
+#### Daily flow
+Each session we’ll start by walking the land, baskets in hand. We’ll take note of the plants that are thriving and those that need extra care. We’ll harvest those that are abundant and at their peak and bring them back to our medicine-making house where we’ll process them and infuse them in oil, vinegar, alcohol, honey, and more.
 
 As we scrub roots and strip leaves we’ll learn all about the medicine of the plants we are working with. Who is this plant, and how can we work with them? What is their chemistry, and what are their traditional uses? How are they best extracted? Who are they best for, and who would do better with other plants?
 
 We will balance hands-on learning with lessons on the foundations of herbalism so that we can build a stronger understanding of the ways plants interact with bodies in general.
 
-#### Tentative Schedule (dates are set, curriculum subject to change):
+#### Things we may learn together
+- Starting herbs from seed
+- Identification of botanical families
+- Proportions of herbal blends
+- Propagating herbs from cutting and division
+- Herbal energetic systems
+- Herbal first aid
+- How to process and dry herbs for tea
+- Intro to herbal safety
+- How to support sleep, digestion, immune system, cardiovascular system, stress and mood, hormonal regulation, and more!
 
-**Sunday, March 29th 11am-5pm**
-![](/assets/images/resized_images/nettle_480x480.webp){: style="float: right; width: 50%"}
-- Projects:
-  - wild weed pesto
-  - violet syrup
-- Lessons:
-  - starting herbs from seed (very different from vegetables!)
-  - intro to plant ID
-  - intro to human physiology
-- Focus herbs: violet, nettle, cleavers
+#### Things we may make together
+- Wild weed pesto
+- Violet syrup
+- Oxymels
+- Tinctures
+- Infused oils
+- Salves
+- Herbal "coffee"
+- Digestive bitters
+- Hydrosols
+- Flower essences
+- Medicinal broths
 
-**Sunday, April 26th 11am-5pm**
-![](/assets/images/resized_images/violet_480x480.webp){: style="float: right; width: 50%"}
-- Projects:
-  - digestive bitters
-  - herbal "coffee"
-- Lessons:
-  - tincture making
-  - propogating herbs from cutting and division
-  - regulating the digestive system
-- Focus herbs: dandelion, yellow dock, horseradish
+#### Projects
+Each student will be responsible for three projects throughout the session:
+1. An herbal tea to share with the class. In the beginning of the program, these will likely be store bought herbs blending based on flavor or vibes. By the end of the program, students will be able to make teas from herbs harvested from the land and blend them based on a specific condition they are trying to address (ie a tea for someone who holds anxiety in their cardiovascular system).
+2. An ancestral herbal presentation. We will talk through how to research the plants our ancestors used and each student will have the opportunity to share about the medicine of their ancestors. Don't worry if this intimidates you! You are in good company, and I will hold your hand every step of the way.
+3. A final herbal presentation for our medicine show on the last day!
 
-**Sunday, May 31st 11am-5pm**
-![](/assets/images/resized_images/motalksatgc_480x480.webp){: style="float: right; width: 50%"}
-- Projects:
-  - oxymels
-  - flower essences
-- Lessons:
-  - the medicine of different plant families -- working with a plant by knowing who they’re related to
-  - low-till perennial gardening
-  - cardiovascular wellness
-- Focus herbs: hawthorn, rose, elder flower
+#### What makes this herb program unique?
+- I prioritize community above else. My students who've attended other herb programs previously have shared that they felt closer to their classmates after day one than they did after a whole nine months in other programs.
+- Once you're introduced to the farm, it's your farm: you can go anytime to harvest, tend, water, bathe in the lavender, etc. Students are always texting the group chat, "Who wants to go to the farm tomorrow morning?"
+- Herbalism can be a tool for collective liberation, and it can also cause so much harm. We reckon with this tension constantly.
+- I have a strong chemistry and physiology focus and always want you to understand the "how" behind how herbs work.
 
-**Sunday, June 28th 11am-5pm**
-![](/assets/images/resized_images/hawthornavena_480x480.webp){: style="float: right; width: 50%"}
-- Projects:
-  - fresh herb tea blending
-  - hydrosols
-- Lessons:
-  - herbal energetics
-  - working with weeds
-  - sleep, energy, and circadian rhythms
-- Focus herbs: St. John's wort, motherwort, anise hyssop
-
-**Sunday, August 2nd 11am-5pm**
-![](/assets/images/resized_images/drawingatgc_480x480.webp){: style="float: right; width: 50%"}
-- Projects:
-  - infused oils
-  - elixirs
-- Lessons:
-  - herbal chemistry
-  - effective extraction of plant constituents
-  - regulating mood and stress
-- Focus herbs: lemon balm, lavender, anise hyssop
-
-**Sunday, August 30th 11am-5pm**
-![](/assets/images/resized_images/calendulabasket_480x480.webp){: style="float: right; width: 50%"}
-- Projects:
-  - electuaries
-  - infused honey
-- Lessons:
-  - connecting with our own ancestral plant lineages
-  - drying and storing herbs for optimal freshness
-  - herbal first aid
-- Focus herbs: thyme, calendula, yarrow
-
-**Sunday, September 20th 10am-4pm**
-![](/assets/images/resized_images/holdinggoldenrod_480x480.webp){: style="float: right; width: 50%"}
-- Projects:
-  - double extraction tincture
-  - salves
-- Lessons:
-  - tincture formulation: parts and proportions for an effective formula
-  - fall perennial care
-  - allergies, hypersensitivity, and inflammation
-- Focus herbs: goldenrod, New England aster, elderberries
-
-**Sunday, October 18th 10am-4pm**
-![](/assets/images/resized_images/prettysjw_480x480.webp){: style="float: right; width: 50%"}
-- Projects:
-  - vegetable fermentation
-  - wild basket weaving
-- Lessons:
-  - herbal safety in pregnancy + lactation
-  - herb-drug interactions
-  - the gut microbiome and how to regulate it
-- Focus herbs: cattail, garlic, marshmallow
-
-**Sunday, November 8th 10am-4pm**
-![](/assets/images/resized_images/apothecary_480x480.webp){: style="float: right; width: 50%"}
-- Projects:
-  - syrups
-  - medicinal broth
-- Lessons:
-  - building a home apothecary
-  - colds, flu, and COVID
-  - integrating our learning this year
-- Focus herbs: burdock, elecampane, eleuthero
-
-### FAQ
+#### FAQ
 
 **Can I join even if I have no formal herbal training?**
 Yes! This program is for herb enthusiasts who are in the beginning of their herbal journey. Maybe you've taken a couple of courses or studied on your own, or maybe you are completely green and ready to dive in.
