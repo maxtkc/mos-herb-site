@@ -101,6 +101,8 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
 - +$100 materials fee for your take home apothecary
 - Have questions? [Book a call to chat here](https://zcal.co/i/HNRlGjhc)
 
+---
+
 ### Year Two: Community Herbalism Training
 
 #### Daily flow
