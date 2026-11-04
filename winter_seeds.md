@@ -7,7 +7,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 
 ![](/assets/images/webp/constellationblend.webp){: style="float: right; width: 50%"}
 
-**Calling all aspiring herbalists!** Spend four hours each Sunday during these cold months cozy with a cup of tea at [Rockweed](https://www.rockweed.me/) diving deep into the foundations of herbalism with a cohort of dedicated plant people.
+**Calling all aspiring herbalists!** Spend **four hours each Sunday** during these cold months cozy with a cup of tea at [Rockweed](https://www.rockweed.me/) diving deep into the foundations of herbalism with a cohort of dedicated plant people.
 
 #### Daily flow:
 Each week we’ll focus on a different body system and the ways that we can work with herbs to address common concerns. We’ll learn how to make **1-2 herbal preparations** that help to regulate and heal our body system of the week. In the afternoon, we’ll have a second herbal lesson to help us put the **physiology into practice!**
