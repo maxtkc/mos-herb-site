@@ -110,6 +110,10 @@ Each session will focus on a condition that community herbalists can support wit
 
 As we process our herbs, we'll learn about the physiology of this condition, and the ways we can work with plants to address it. We will work through case studies and students will work together to come up with protocols for each case.
 
+We'll discuss: what is our scope of care as community herbalists? What is our role in our communities, and what is unethical for us to try to impact? How do we care for each other while supporting each individual's autonomy?
+
+My hope is that you will leave each session, not with a protocol, but with a clear sense of how you can create your own protocol to care for the condition we're studying.
+
 #### Maine Immersions
 Think herb camp! During the Maine weekends, we will have the opportunity to dive deep into topics that would take too long to cover in one session. Think hydrosol making, tongue assessment, getting a full case history, and making an energetic assessment. There will be free camping available and I will provide recommendations of places to stay for those who prefer. Childcare will be available for the first weekend: bring your whole family! While you're learning, they'll be playing with rockweed in the tidepools :) Prepare to leave with an ABUNDANCE of herbs to take home for your communities.
 
