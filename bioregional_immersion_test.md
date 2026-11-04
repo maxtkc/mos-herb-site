@@ -7,7 +7,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 
 ![](/assets/images/resized_images/hhfarm_480x480.webp){: style="float: right; width: 50%"}
 
-**Learn to follow the seasons as an herbalist!** In this immersive program we will integrate our bodies with the bodies of the land and learn what plant bioregional and ancestral plant medicine can look like in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
+**Learn to follow the seasons as an herbalist!** In this immersive program we will integrate our bodies with the bodies of the land and learn what bioregional and ancestral plant medicine can look like in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
 
 ### Quick info:
 > - Where: Lexington Community Farm and Midcoast Maine
