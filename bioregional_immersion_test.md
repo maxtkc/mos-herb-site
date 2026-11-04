@@ -10,13 +10,12 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 **Learn to follow the seasons as an herbalist!** In this immersive program we will integrate our bodies with the bodies of the land and learn what plant bioregional and ancestral plant medicine can look like in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
 
 ### Quick info:
-> Where: Lexington Community Farm and Midcoast Maine
-> - Each year will have 4-6 Sunday sessions in Lexington, MA and 2-3 weekend immersions in Midcoast Maine (see below for all the details)
-
-> When: 11am-5pm with a lunch break (10am-4pm in fall for daylight)\
-> Who:
-> - Year One: Herbal enthusiasts wanting to get your hands dirty!
-> - Year Two: Previous herbal students who want to learn to care for their communities more specifically
+> - Where: Lexington Community Farm and Midcoast Maine
+>     - Each year will have 4-6 Sunday sessions in Lexington, MA and 2-3 weekend immersions in Midcoast Maine (see below for all the details)
+> - When: 11am-5pm with a lunch break (10am-4pm in fall for daylight)\
+> - Who:
+>     - Year One: Herbal enthusiasts wanting to get your hands dirty!
+>     - Year Two: Previous herbal students who want to learn to care for their communities more specifically
 
 ### Year One: Bioregional + Ancestral Immersion
 
