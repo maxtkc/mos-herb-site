@@ -55,7 +55,12 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 Each student will be responsible for three projects throughout the session:
 1. An herbal tea to share with the class. In the beginning of the program, these will likely be store bought herbs blending based on flavor or vibes. By the end of the program, students will be able to make teas from herbs harvested from the land and blend them based on a specific condition they are trying to address (ie a tea for someone who holds anxiety in their cardiovascular system).
 2. An ancestral herbal presentation. We will talk through how to research the plants our ancestors used and each student will have the opportunity to share about the medicine of their ancestors. Don't worry if this intimidates you! You are in good company, and I will hold your hand every step of the way.
-3. A final herbal presentation for our medicine show on the last day!
+4. A final herbal presentation for our medicine show on the last day!
+
+#### Maine Immersions
+Think herb camp! During the Maine weekends, we will have the opportunity to spend the whole weekend immersing ourselves in the medicine of the land. There will be free camping available and I will provide recommendations of places to stay for those who prefer. Childcare will be available for all but the last weekend: bring your whole family! While you're learning, they'll be playing with rockweed in the tidepools :) Prepare to leave with an ABUNDANCE of herbs to take home for your communities.
+
+The final weekend will be held at Deer Isle, on a magical tidal cove. We will sauna next to the ocean, harvest clams from the sea (optional!), and add seaweed to all our meals. For this weekend, we'll all camp together (other options available for accessibility), share our meals, and share many of our ancestral presentations. This is one of my favorite places in the world and I can't wait to share it with you.
 
 #### What makes this herb program unique?
 - I prioritize community above else. My students who've attended other herb programs previously have shared that they felt closer to their classmates after day one than they did after a whole nine months in other programs.
@@ -68,30 +73,32 @@ Each student will be responsible for three projects throughout the session:
 **Can I join even if I have no formal herbal training?**
 Yes! This program is for herb enthusiasts who are in the beginning of their herbal journey. Maybe you've taken a couple of courses or studied on your own, or maybe you are completely green and ready to dive in.
 
-**What if I have to miss one of the Sundays?**
-No problem! Since this is an in-person program we won't be recording the sessions, but I'll send you the handouts and your classmates can share their notes. You may be able to go to the farm and harvest herbs to make medicine on your own time. That said, if you know you'll need to miss more than 2-3 classes, it may not be the best fit.
+**What about if I have taken some herb classes and/or played around with herbs a lot? Will I get anything out of this?**
+Last year, we had one student who was starting an herb farm, three students who teach herbalism classes, some folks who'd taken at least a dozen of my classes before, and many students who'd never engaged with herbalism before. This program is designed to meet you where you are at and give your learning more structure. If you think you may be ready for Year 2, [book a call to chat with me here](https://zcal.co/i/HNRlGjhc).
+
+**What if I have to miss one of the sessions?**
+Most students miss 1-2 sessions, so that's totally fine. Since this is an in-person program we won't be recording the sessions, but I'll send you the handouts and your classmates will share their notes. You can always go to the farm and harvest herbs to make medicine on your own time. That said, if you know you'll need to miss more than 2-3 classes, it may not be the best fit.
 
 **Will there be a lunch break?**
 Yes! I recommend you bring a lunch since there aren't a ton of close by options, but there are a few. We'll have at least one potluck as well!
 
 **What if I don't have a car?**
-I don't either! LexFarm is easily accessible by bus and bicycle.
+I am committed to offering a car-free accessible program. LexFarm is easily accessible by bus and bicycle, and we will arrange carpools. We will arrange carpools for the Maine immersions which should cover everyone; otherwise, we'll arrange pickups from the bus station.
 
 ### The Details:
-- The dates in one place (all Sundays):
-    - March 29th 11am-5pm
-    - April 26th 11am-5pm
-    - May 31st 11am-5pm
-    - June 28th 11am-5pm
-    - August 2nd 11am-5pm
-    - August 30th 11am-5pm
-    - September 20th 10am-4pm
-    - October 18th 10am-4pm
-    - November 8th 10am-4pm
-- Tiered pricing:
+- LexFarm dates (all Sundays):
+    - April 18th 11am-5pm
+    - May 16st 11am-5pm
+    - October 10th 9am-3pm
+    - November 7th 9am-3pm
+- Maine dates:
+    - June 26th-27th
+    - July 31st-August 1st
+    - August 28th-29th
+- Tiered pricing (Early Bird rates below last till 1/15):
     - Receive a gift: $950
     - Actual cost: $1150
     - Pay it forward: $1350
     - Payment plans available!
 - +$100 materials fee for your take home apothecary
-- New to sliding scale? Learn more [here](https://www.wortsandcunning.com/blog/sliding-scale)
+- Have questions? [Book a call to chat here](https://zcal.co/i/HNRlGjhc)
