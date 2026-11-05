@@ -19,9 +19,9 @@ I offer several longer programs throughout the year including:
 
 ### [Bioregional Community Herbalist training program](https://mokatzchristy.com/bioregional_immersion.html)
 
-#### Year One: Bioregional + Ancestral Immersion
+#### Year One: Bioregional Immersion
 
-Learn to follow the seasons as an herbalist! In this immersive program we will integrate our bodies with the bodies of the land and learn what bioregional and ancestral plant medicine can look like in New England. We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body. We will connect with the herbs that grow around us and those of our ancestors, and see what connections we can make between the two.
+Learn to follow the seasons as an herbalist! In this immersive program we will integrate our bodies with the bodies of the land and learn what bioregional and ancestral plant medicine can look like in New England. We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.
 
 #### Year Two: Community Herbalism Training
 
