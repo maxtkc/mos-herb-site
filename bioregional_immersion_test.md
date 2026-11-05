@@ -182,3 +182,6 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
 “I appreciated the way that you were intentional about engaging each of us– down to making sure that everyone knew everyone’s name (it makes such a difference!). I also thought that this structure really embodied the idea of praxis – it was helpful and meaningful to be able to immediately apply ideas in the making of things. I also really appreciated the way that you grounded us in the realities of systemic violence periodically, without getting stuck there.”
 
 “I am already using some of what we learned in my clinical practice when folks want to try to avoid using prescribed drugs, and it is amazing to watch how people light up when we talk about herbalism as another option, or validate that the traditions that many of them grew up with are welcome in our clinical encounter space.”
+
+**[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) to be notified when registration opens
+**
