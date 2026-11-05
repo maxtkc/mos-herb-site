@@ -62,7 +62,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Medicinal broths
 
 #### Projects
-![](/assets/images/greenyellowsalves.jpeg){: style="float: left; width: 50%"}
+![](/assets/images/greenyellowsalves.jpeg){: style="float: right; width: 50%"}
 Each student will be responsible for three projects throughout the session:
 1. An herbal tea to share with the class. In the beginning of the program, these will likely be store bought herbs, blended together based on flavor or vibes. By the end of the program, students will be able to make teas from herbs harvested from the land and blend them based on a specific condition they are trying to address (ie a tea for someone who holds anxiety in their cardiovascular system).
 2. An ancestral herbal presentation. We will talk through how to research the plants our ancestors used and each student will have the opportunity to share about the medicine of their ancestors. Don't worry if this intimidates you! You are in good company, and I will hold your hand every step of the way.
@@ -75,7 +75,7 @@ Think herb camp! During the Maine weekends, we will have the opportunity to spen
 The final weekend will be held on Deer Isle, at a magical tidal cove. We will sauna next to the ocean, harvest clams from the sea (optional!), and add seaweed to all our meals. For this weekend, we'll all camp together (other options available for accessibility), share our meals by the fire, and share many of our ancestral presentations. This is one of my favorite places in the world and I can't wait to share it with you.
 
 #### FAQ
-![](/assets/images/umapolypod.jpg){: style="float: left; width: 50%"}
+![](/assets/images/umapolypod.jpg){: style="float: right; width: 50%"}
 **Can I join even if I have no formal herbal training?**
 Yes! This program is for herb enthusiasts who are in the beginning of their herbal journey. Maybe you've taken a couple of courses or studied on your own, or maybe you are completely green and ready to dive in.
 
@@ -119,7 +119,7 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
 {% capture yeartwo %}
 
 ### Year Two: Community Herbalism Training
-
+![](/assets/images/stealthplantingspot.jpg){: style="float: right; width: 50%"}
 #### Daily flow
 Each session will focus on a condition that community herbalists can support with: respiratory infections, menstrual cramps, wound healing, cardiovascular wellness, etc. We'll start by walking the land to ground us in the plants, and harvest those who are looking abundant. We'll meet plants we didn't connect with last year and make new medicinal preparations.
 
@@ -130,12 +130,13 @@ We'll discuss: what is our scope of care as community herbalists? What is our ro
 My hope is that you will leave each session with a clear sense of how you can create your own protocol to care for the condition we're studying.
 
 #### Maine Immersions
+![](/assets/images/resized_images/canoe.jpg){: style="float: right; width: 50%"}
 Think herb camp! During the Maine weekends, we will have the opportunity to dive deep into topics that would take too long to cover in one session. Think hydrosol making, tongue assessment, getting a full case history, and making an energetic assessment. There will be free camping available and I will provide recommendations of places to stay for those who prefer. Childcare will be available for the first weekend: bring your whole family! While you're learning, they'll be playing with rockweed in the tidepools :) Prepare to leave with an ABUNDANCE of herbs to take home for your communities.
 
 The final weekend will be held on Deer Isle, at a magical tidal cove. We will sauna next to the ocean, harvest clams from the sea (optional!), and add seaweed to all our meals. For this weekend, we'll all camp together (other options available for accessibility) and share our meals. This is one of my favorite places in the world and I can't wait to share it with you.
 
 #### FAQ
-
+![](/assets/images/resized_images/annagrasshopper.jpg){: style="float: right; width: 50%"}
 **How do I know if I have enough herbal education to take this program?**
 Let's talk about it! This program is designed for folks who've completed a similar season-long apprenticeship style herb program to my Year 1 program. If you think you may be ready for Year 2, [book a call to chat with me here](https://zcal.co/i/HNRlGjhc).
 
@@ -149,6 +150,7 @@ Yes! I recommend you bring a lunch since there aren't a ton of close by options,
 I am committed to offering a car-free accessible program. LexFarm is easily accessible by bus and bicycle, and we will arrange carpools. We will arrange carpools for the Maine immersions which should cover everyone; otherwise, we'll arrange pickups from the bus station.
 
 #### The Details:
+![](/assets/images/resized_images/ginkgoharvest.jpg){: style="float: right; width: 50%"}
 - LexFarm dates (all Sundays):
     - March 21st 11am-5pm
     - April 25th 11am-5pm
