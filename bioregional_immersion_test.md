@@ -14,7 +14,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 > - When: Each year will have 4-6 Sunday sessions in Lexington, MA and 2-3 weekend immersions in Midcoast Maine (see below for all the details)
 > - Who:
 >     - Year One: Herbal enthusiasts wanting to get your hands dirty!
->     - Year Two: Previous herbal students who want to learn to care for their communities more specifically
+>     - Year Two: Graduates of Year One and previous herbal students
 
 #### What makes this herb program unique?
 - I prioritize community above all else. My students who've attended other herb programs have shared that they felt closer to their classmates after day one than they did after a whole nine months in other programs.
@@ -112,7 +112,7 @@ As we process our herbs, we'll learn about the physiology of this condition, and
 
 We'll discuss: what is our scope of care as community herbalists? What is our role in our communities, and what is unethical for us to try to impact? How do we care for each other while supporting each individual's autonomy?
 
-My hope is that you will leave each session, not with a protocol, but with a clear sense of how you can create your own protocol to care for the condition we're studying.
+My hope is that you will leave each session with a clear sense of how you can create your own protocol to care for the condition we're studying.
 
 #### Maine Immersions
 Think herb camp! During the Maine weekends, we will have the opportunity to dive deep into topics that would take too long to cover in one session. Think hydrosol making, tongue assessment, getting a full case history, and making an energetic assessment. There will be free camping available and I will provide recommendations of places to stay for those who prefer. Childcare will be available for the first weekend: bring your whole family! While you're learning, they'll be playing with rockweed in the tidepools :) Prepare to leave with an ABUNDANCE of herbs to take home for your communities.
@@ -139,8 +139,8 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
     - April 25th 11am-5pm
     - May 23rd 11am-5pm
     - September 12th 11am-5pm
-    - October 10th 11am-5pm
-    - November 7th 10am-4pm
+    - October 24th 11am-5pm
+    - November 14th 10am-4pm
 - Maine dates:
     - July 17-18th
     - August 14-15th
