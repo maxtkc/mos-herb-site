@@ -13,9 +13,9 @@ I offer several longer programs throughout the year including:
 - A two-year [Bioregional Community Herbalist training program](https://mokatzchristy.com/bioregional_immersion.html)
 - weekend immersion programs
 
-### [Winter Seeds of Herbalism](https://mokatzchristy.com/winter_seeds.html):
+![](/assets/images/communalgarble.jpg){: style="float: right; width: 45%"}
 
-![](/assets/images/communalgarble.jpg){: style="float: right; width: 50%"}
+### [Winter Seeds of Herbalism](https://mokatzchristy.com/winter_seeds.html):
 
 > 7 week winter herbal immersion\
 > 4 hours every Sunday, January-March\
