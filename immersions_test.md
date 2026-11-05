@@ -13,6 +13,8 @@ I offer several longer programs throughout the year including:
 
 ### [Winter Seeds of Herbalism](https://mokatzchristy.com/winter_seeds.html):
 
+![](/assets/images/communalgarble.jpg){: style="float: right; width: 50%"}
+
 > 7 week winter herbal immersion\
 > 4 hours every Sunday, January-March\
 > Rockweed, Belfast ME\
