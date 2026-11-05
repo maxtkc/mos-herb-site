@@ -19,7 +19,7 @@ I offer several longer programs throughout the year including:
 
 > - 7 week winter herbal immersion
 > - 4 hours every Sunday, January-March
-> - Rockweed, Belfast ME
+> - Rockweed, Belfast ME\
 > [More info here](https://mokatzchristy.com/winter_seeds.html)
 
 ![](/assets/images/calendulaharvest.jpg){: style="float: right; width: 45%"}
@@ -28,7 +28,7 @@ I offer several longer programs throughout the year including:
 
 > - Two years of herbal learning
 > - Sundays in Lexington, MA and weekend immersions in Midcoast Maine
-> - Sign up for one or both years
+> - Sign up for one or both years\
 > [More info here](https://mokatzchristy.com/bioregional_immersion.html)
 
 ---
