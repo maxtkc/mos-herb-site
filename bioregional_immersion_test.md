@@ -3,7 +3,7 @@ layout: page
 title: Bioregional Community Herbalist Training Program
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
-##### Register Here
+##### 2027 registration coming soon - [click here](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) to be notified when registration opens
 
 ![](/assets/images/resized_images/hhfarm_480x480.webp){: style="float: right; width: 50%"}
 
