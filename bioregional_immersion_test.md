@@ -167,3 +167,17 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
   title = "Year Two: Community Herbalism Training"
   content = yeartwo
 %}
+
+#### What students say about the program:
+
+"It was an incredibly healing space for me and exactly what I needed. It has profoundly changed my relationship to plants and my awareness of the natural world."
+
+"I must say that I have really been inspired by you and your teaching. Witnessing your own journey and seeing the incredible ease and command you bring now is so encouraging. You are an exceptional teacher. You explain complex concepts in a very simple and accessible way, yet you also go deeper than your average herb teacher by discussing biochemical mechanisms, cool historical relationships, and body physiology. Thank you Mo!"
+
+“You are an absolute joy to learn from, and the playful/open/curious culture of the class is a result of who you are and the energy that you bring.”
+
+“I loved the way that you fostered a space that felt open and curious, and which really made it safe to ask questions and not know– and simultaneously, which honored the knowledge and experience that folks DID bring into the space.”
+
+“I appreciated the way that you were intentional about engaging each of us– down to making sure that everyone knew everyone’s name (it makes such a difference!). I also thought that this structure really embodied the idea of praxis – it was helpful and meaningful to be able to immediately apply ideas in the making of things. I also really appreciated the way that you grounded us in the realities of systemic violence periodically, without getting stuck there.”
+
+“I am already using some of what we learned in my clinical practice when folks want to try to avoid using prescribed drugs, and it is amazing to watch how people light up when we talk about herbalism as another option, or validate that the traditions that many of them grew up with are welcome in our clinical encounter space.”
