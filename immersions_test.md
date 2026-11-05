@@ -15,17 +15,15 @@ I offer several longer programs throughout the year including:
 
 > 7 week winter herbal immersion\
 > 4 hours every Sunday, January-March\
-> Rockweed, Belfast ME
+> Rockweed, Belfast ME\
+> [More info here](https://mokatzchristy.com/winter_seeds.html)
 
 ### [Bioregional Community Herbalist training program](https://mokatzchristy.com/bioregional_immersion.html)
 
-#### Year One: Bioregional Immersion
-
-Learn to follow the seasons as an herbalist! In this immersive program we will integrate our bodies with the bodies of the land and learn what bioregional and ancestral plant medicine can look like in New England. We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.
-
-#### Year Two: Community Herbalism Training
-
-Learn how to be your community's herbalist! Herbs can be a powerful tool for community resilience and liberation. This year, we'll focus on the nitty gritty of supporting our community members with common conditions that we can help with: respiratory infections, menstrual cramps, wound healing, cardiovascular wellness, etc.
+> Two years of herbal learning\
+> Sundays in Lexington, MA and weekend immersions in Midcoast Maine\
+> Sign up for one or both years\
+> [More info here](https://mokatzchristy.com/bioregional_immersion.html)
 
 ---
 
