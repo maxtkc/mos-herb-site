@@ -4,6 +4,8 @@ title: Immersion Programs
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
+![](/assets/images//resized_images/diving_480x480.webp){: style="float: right; width: 50%"}
+
 Want to learn to care for your community using plants? In the longer immersion programs, we dive deep into learning how to use plants for community care.
 
 I offer several longer programs throughout the year including:
