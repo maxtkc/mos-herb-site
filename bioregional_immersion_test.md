@@ -28,6 +28,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 ### Year One: Bioregional Immersion
 
 #### Daily flow
+![](/assets/images/baskethead.jpg){: style="float: right; width: 50%"}
 Each session we’ll start by walking the land, baskets in hand. We’ll take note of the plants that are thriving and those that need extra care. We’ll harvest those that are abundant and at their peak and bring them back to our medicine-making house where we’ll process them and infuse them in oil, vinegar, alcohol, honey, and more.
 
 As we scrub roots and strip leaves we’ll learn all about the medicine of the plants we are working with. Who is this plant, and how can we work with them? What is their chemistry, and what are their traditional uses? How are they best extracted? Who are they best for, and who would do better with other plants?
@@ -35,6 +36,7 @@ As we scrub roots and strip leaves we’ll learn all about the medicine of the p
 We will balance hands-on learning with lessons on the foundations of herbalism so that we can build a stronger understanding of the ways plants interact with bodies in general.
 
 #### Things we may learn together
+![](/assets/images/resized_images/greenhouse_480x480.webp){: style="float: right; width: 50%"}
 - Starting herbs from seed
 - Identification of botanical families
 - Proportions of herbal blends
@@ -46,6 +48,7 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - How to use herbs to support sleep, digestion, immune system, cardiovascular system, stress and mood, hormonal regulation, and more!
 
 #### Things we may make together
+![](/assets/images/resized_images/calendulastrain_480x480.webp){: style="float: right; width: 50%"}
 - Wild weed pesto
 - Herbal syrup
 - Oxymels
@@ -59,18 +62,20 @@ We will balance hands-on learning with lessons on the foundations of herbalism s
 - Medicinal broths
 
 #### Projects
+![](/assets/images/greenyellowsalves.jpeg){: style="float: left; width: 50%"}
 Each student will be responsible for three projects throughout the session:
 1. An herbal tea to share with the class. In the beginning of the program, these will likely be store bought herbs, blended together based on flavor or vibes. By the end of the program, students will be able to make teas from herbs harvested from the land and blend them based on a specific condition they are trying to address (ie a tea for someone who holds anxiety in their cardiovascular system).
 2. An ancestral herbal presentation. We will talk through how to research the plants our ancestors used and each student will have the opportunity to share about the medicine of their ancestors. Don't worry if this intimidates you! You are in good company, and I will hold your hand every step of the way.
-4. A final herbal presentation for our medicine show on the last day!
+3. A final herbal presentation for our medicine show on the last day!
 
-#### Maine Immersions
+#### Maine Immersion
+![](/assets/images/rockweedexploring.jpg){: style="float: right; width: 50%"}
 Think herb camp! During the Maine weekends, we will have the opportunity to spend the whole weekend immersing ourselves in the medicine of the land. There will be free camping available and I will provide recommendations of places to stay for those who prefer. Childcare will be available for all but the last weekend: bring your whole family! While you're learning, they'll be playing with rockweed in the tidepools :) Prepare to leave with an ABUNDANCE of herbs to take home for your communities.
 
 The final weekend will be held on Deer Isle, at a magical tidal cove. We will sauna next to the ocean, harvest clams from the sea (optional!), and add seaweed to all our meals. For this weekend, we'll all camp together (other options available for accessibility), share our meals by the fire, and share many of our ancestral presentations. This is one of my favorite places in the world and I can't wait to share it with you.
 
 #### FAQ
-
+![](/assets/images/umapolypod.jpg){: style="float: left; width: 50%"}
 **Can I join even if I have no formal herbal training?**
 Yes! This program is for herb enthusiasts who are in the beginning of their herbal journey. Maybe you've taken a couple of courses or studied on your own, or maybe you are completely green and ready to dive in.
 
@@ -191,5 +196,4 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
 
 ![](/assets/images/ginkgoharvest.jpg){: style="float: right; width: 50%"}
 
-**[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) to be notified when registration opens
-**
+**[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) to be notified when registration opens**
