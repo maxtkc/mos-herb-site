@@ -22,6 +22,8 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 - Herbalism can be a tool for collective liberation, and it can also cause so much harm. We spend our time together reckoning with this tension.
 - I have a strong chemistry and physiology focus and always want you to understand the "how" behind how herbs work.
 
+{% capture yearone %}
+
 ### Year One: Bioregional Immersion
 
 #### Daily flow
@@ -101,7 +103,14 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
 - +$100 materials fee for your take home apothecary
 - Have questions? [Book a call to chat here](https://zcal.co/i/HNRlGjhc)
 
----
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Year One: Bioregional Immersion"
+  content = yearone
+%}
+
+{% capture yeartwo %}
 
 ### Year Two: Community Herbalism Training
 
@@ -151,3 +160,10 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
     - Payment plans available!
 - +$100 materials fee for your take home apothecary
 - Think you might be ready for year 2? [Book a call to chat here](https://zcal.co/i/HNRlGjhc)
+
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Year Two: Community Herbalism Training"
+  content = yeartwo
+%}
