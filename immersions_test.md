@@ -22,6 +22,8 @@ I offer several longer programs throughout the year including:
 > Rockweed, Belfast ME\
 > [More info here](https://mokatzchristy.com/winter_seeds.html)
 
+![](/assets/images/calendulaharvest.jpg){: style="float: right; width: 45%"}
+
 ### [Bioregional Community Herbalist training program](https://mokatzchristy.com/bioregional_immersion.html)
 
 > Two years of herbal learning\
