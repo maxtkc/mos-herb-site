@@ -13,22 +13,22 @@ I offer several longer programs throughout the year including:
 - A two-year [Bioregional Community Herbalist training program](https://mokatzchristy.com/bioregional_immersion.html)
 - weekend immersion programs
 
-![](/assets/images/communalgarble.jpg){: style="float: right; width: 45%"}
+![](/assets/images/communalgarble.jpg){: style="float: left; width: 45%"}
 
 ### [Winter Seeds of Herbalism](https://mokatzchristy.com/winter_seeds.html):
 
-> 7 week winter herbal immersion\
-> 4 hours every Sunday, January-March\
-> Rockweed, Belfast ME\
+> - 7 week winter herbal immersion\
+> - 4 hours every Sunday, January-March\
+> - Rockweed, Belfast ME\
 > [More info here](https://mokatzchristy.com/winter_seeds.html)
 
 ![](/assets/images/calendulaharvest.jpg){: style="float: right; width: 45%"}
 
 ### [Bioregional Community Herbalist training program](https://mokatzchristy.com/bioregional_immersion.html)
 
-> Two years of herbal learning\
-> Sundays in Lexington, MA and weekend immersions in Midcoast Maine\
-> Sign up for one or both years\
+> - Two years of herbal learning\
+> - Sundays in Lexington, MA and weekend immersions in Midcoast Maine\
+> - Sign up for one or both years\
 > [More info here](https://mokatzchristy.com/bioregional_immersion.html)
 
 ---
