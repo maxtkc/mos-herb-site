@@ -150,4 +150,4 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
     - Pay it forward: $1350
     - Payment plans available!
 - +$100 materials fee for your take home apothecary
-- Have questions? [Book a call to chat here](https://zcal.co/i/HNRlGjhc)
+- Think you might be ready for year 2? [Book a call to chat here](https://zcal.co/i/HNRlGjhc)
