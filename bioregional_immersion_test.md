@@ -3,7 +3,7 @@ layout: page
 title: Bioregional Community Herbalist Training Program
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
-##### Register Here for Year 1
+##### Register Here
 
 ![](/assets/images/resized_images/hhfarm_480x480.webp){: style="float: right; width: 50%"}
 
