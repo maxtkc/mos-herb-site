@@ -5,7 +5,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 ##### 2027 registration coming soon - [click here](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) to be notified when registration opens
 
-![](/assets/images/resized_images/hhfarm_480x480.webp){: style="float: right; width: 50%"}
+![](/assets/images/heathertulsi.jpg){: style="float: left; width: 50%"}
 
 **Learn to follow the seasons as an herbalist!** In this immersive program we will integrate our bodies with the bodies of the land and learn what bioregional and ancestral plant medicine can look like in New England. **We will follow the whole path of herbal medicine from seed, to harvest, to jar, to body.**
 
@@ -17,6 +17,7 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 >     - Year Two: Graduates of Year One and previous herbal students
 
 #### What makes this herb program unique?
+![](/assets/images/picnictable.jpg){: style="float: right; width: 50%"}
 - I prioritize community above all else. My students who've attended other herb programs have shared that they felt closer to their classmates after day one than they did after a whole nine months in other programs.
 - Once you're introduced to the farm, it's your farm: you can go anytime to harvest, tend, water, bathe in the lavender, etc. Students are always texting the group chat, "Who wants to go to the farm tomorrow morning?"
 - Herbalism can be a tool for collective liberation, and it can also cause so much harm. We spend our time together reckoning with this tension.
