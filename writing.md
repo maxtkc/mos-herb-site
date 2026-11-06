@@ -18,4 +18,6 @@ feature_image: "/assets/images/webp/dock.webp"
 {: .fancy-list}
 
 **Newsletter writing:** Each month I write and send a seasonal herbal recipe!
+
+I also have dozens of handouts for the classes I've taught. I'm happy to share them if you send me an email — I just ask that you don't put them into AI.
 {% include components/subscribe.html label="Join my monthly mailing list!" %}
