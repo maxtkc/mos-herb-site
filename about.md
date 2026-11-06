@@ -5,9 +5,11 @@ feature_image: "/assets/images/webp/little_pink_flowers.webp"
 ---
 {% include figure.html image="/assets/images/resized_images/moginkgomedford_480x480.webp" caption="a plant walk in Medford w/ ginko" %}{: style="float: right; width: 55%"}
 
-Hi there! I’m Mo, a Boston area clinical herbalist and community educator. I work with clients in person in **Davis Square, Somerville and virtually** worldwide. We use plants to **address the root imbalances** that are causing dysregulation in order to build **long-term healing**, focusing on gut health.
+Hi there! I’m Mo, a clinical herbalist and community educator. I teach herbalism in both **Maine and Boston**, and work with clients virtually worldwide.
 
-I also teach herb classes and [herbal immersion programs](https://mokatzchristy.com/immersions.html) at over 50 sites in New England – email me at mo (at) mokatzchristy.com if you’d like me to teach for your local organization!
+As a clinical herbalist, I use plants to **address the root imbalances** that are causing dysregulation in order to build **long-term healing**, focusing on gut health.
+
+I also teach a two year [Community Herbalist Training Program](https://mokatzchristy.com/immersions.html) and [community herbalism classes](https://mokatzchristy.com/learn.html) at over 60 sites in New England – email me at mo (at) mokatzchristy.com if you’d like me to teach for your local organization!
 
 ### Why gut health?
 While I support clients with all conditions, my practice focuses primarily on gut health.
