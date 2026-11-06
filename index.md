@@ -32,7 +32,7 @@ While **my practice centers gut health**, I follow my clients' lead and we work 
 {% include figure.html image="/assets/images/resized_images/constellation_480x480.webp" caption="Tea Blending in our Winter Immersion" %}{: style="float: right; width: 50%"}
 
 Do you want to **care for your community** by connecting your beloved humans to the beloved plants around them?
-I teach herb classes at over 50 sites in New England, including a [9-month bioregional herb program](https://mokatzchristy.com/immersions.html), a [winter intensive](https://mokatzchristy.com/winter_seeds.html), and several [weekend-long immersions](https://mokatzchristy.com/immersions.html) throughout the year.
+I teach herb classes at over 60 sites in New England, including a [9-month bioregional herb program](https://mokatzchristy.com/immersions.html), a [winter intensive](https://mokatzchristy.com/winter_seeds.html), and several [weekend-long immersions](https://mokatzchristy.com/immersions.html) throughout the year.
 
 The best way to find out about upcoming classes is to:
 
