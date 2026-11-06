@@ -17,11 +17,11 @@ In this class, we will discuss two main herbal actions: adaptogens and nervines.
 
 Come learn the science behind why you should “stop and smell the roses”!
 
+![](/assets/images/stealthplantingspot.jpg){: style="float: right; width: 50%"}
+
 [Listen here!](https://www.youtube.com/watch?v=aZHOK8Qbgdw&t=0s)
 
 ### Medicinal Plant Walk
-
-![](/assets/images/stealthplantingspot.jpg){: style="float: right; width: 50%"}
 
 > Taught with the Ayer Public Library
 > [Watch here!](https://www.youtube.com/watch?v=QOSFCGtDCXA)
