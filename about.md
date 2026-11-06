@@ -3,7 +3,7 @@ layout: page
 title: About Mo
 feature_image: "/assets/images/webp/little_pink_flowers.webp"
 ---
-{% include figure.html image="/assets/images/resized_images/moginkgomedford_480x480.webp" caption="a plant walk in Medford w/ ginko" %}{: style="float: right; width: 55%"}
+{% include figure.html image="/assets/images/resized_images/gcteaching_480x480.webp" caption="a plant walk at the Somerville Growing Center" %}{: style="float: right; width: 50%"}
 
 Hi there! I’m Mo, a clinical herbalist and community educator. I teach herbalism in both **Maine and Boston**, and work with clients virtually worldwide.
 
