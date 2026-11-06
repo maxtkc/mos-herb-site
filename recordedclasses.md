@@ -19,6 +19,15 @@ Come learn the science behind why you should “stop and smell the roses”!
 
 [Listen here!](https://www.youtube.com/watch?v=aZHOK8Qbgdw&t=0s)
 
+### Medicinal Plant Walk
+
+![](/assets/images/stealthplantingspot.jpg){: style="float: right; width: 50%"}
+
+> Taught with the Ayer Public Library
+> [Watch here!](https://www.youtube.com/watch?v=QOSFCGtDCXA)
+
+Join me for a meander through Ayer to meet local plants and explore their medicinal uses! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like, and meet us in front of the library.
+
 ![](/assets/images/resized_images/firecider_480x480.webp){: style="float: right; width: 50%"}
 
 ### Medicine on the Seder Plate
