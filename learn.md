@@ -380,6 +380,18 @@ Come join us for an evening of sweet herbal dreaming into 5786. Jewish herbalist
   content = honey
 %}
 
+{% capture lulav %}
+![](/assets/images/lulav.HEIC)
+What does it mean to “take for yourselves” a lulav? In this class we will explore the possibility that the act of taking for ourselves is a commandment to be in intimate relationship with the land we live with. We will learn about local species of plants that we can harvest for each of the four species and harvest our own lulav. We will explore the medicine of willow, the diasporic tree that connects us to so many of our Jewish ecosystems.
+
+Next, we will learn how to weave the “koishele,” the woven holder that keeps the lulav in place, using a simple cattail weaving technique. We can use this same technique to weave cattail baskets for all kinds of uses -- let’s see what else we can make!
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Local Lulav Harvest and Weave"
+  content = lulav
+%}
+
 ![](/assets/images/resized_images/prettysjw_480x480.webp){: style="float: right; width: 50%"}
 
 > "Thank you so very much for hosting such an enriching and enchanting plant walk last week. People have been singing your praises in the days afterwards! Thank you for sharing your wisdom with the community here: your enthusiastic, warm nature made the whole experience so wonderful. I loved seeing people light up with questions, ideas, comments--a testament to the generous and affirming space and knowledge you cultivate."
