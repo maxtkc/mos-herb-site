@@ -4,7 +4,7 @@ title: Recorded Classes
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
 
-Watch or listen to a recorded class to get a sense of my teaching style and see if we might be a good fit!
+Watch or listen to a recorded class to get a sense of my teaching style and see if we might be a good fit! The vast majority of my teaching is in person, so I have very few recorded classes.
 ![](/assets/images/resized_images/catnip_480x480.webp){: style="float: right; width: 50%"}
 
 ### Herbs to Nourish Frayed Nerves
