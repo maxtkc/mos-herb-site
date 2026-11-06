@@ -345,6 +345,20 @@ Come taste some relaxing herbal teas and tinctures, and leave sleepy and ready t
   content = sleep
 %}
 
+{% capture bloodsugar %}
+![](/assets/images/seaweed.jpg)
+Our bodies evolved with medicinal plants and seaweeds, and we can use them to help us return to balance. In this class, we will discuss all the many facets that can lead to blood sugar dysregulation including generational trauma, chronic stress, genetic predisposition, food insecurity, microbiome imbalance, and more.
+
+When our bodies are craving sugar, there’s usually another unmet need that we are missing. We’ll learn how to identify and meet that underlying need and work with plants and seaweeds that are specific to our bodies. We’ll touch on how to work with herbs safely along with diabetes medications.
+
+Whether you’re constantly hangry, are prediabetic and trying to lower your blood sugar, or have diabetes and want to learn how to support your body more holistically, this class is for you!
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Regulate your Blood Sugar with Herbs and Seaweed"
+  content = bloodsugar
+%}
+
 #### Jewish Herbal Classes
 {% capture seder %}
 ![](/assets/images/resized_images/seder_480x480.webp)
