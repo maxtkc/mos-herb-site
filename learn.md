@@ -72,7 +72,7 @@ After we’ve fully nerded out on chemistry, Mo will guide the class in making o
   content = spice
 %}
 {% capture grow %}
-![](/assets/images/resized_images/grow_480x480.webp)
+![](/assets/images/resized_images/hhfarm_480x480.webp)
 No matter how dark and tiny your apartment is, you can grow herbs! Herb gardens are stellar for urban spaces because herbs thrive in a wide variety of ecological niches. We will focus on herbs for gut health, stress regulation and sleep, and immune support. We will discuss herbs you can bring inside for the winter, herbs that you can grow in lead soil, and herbs that can handle neglect. Leave with the information to grow, tend, harvest, and use herbs that you grow here in Boston!
 {% endcapture %}
 
@@ -169,6 +169,16 @@ Worried about lead? While our soil does have very high levels of lead, fruit fro
 
 
 #### Plant Walks
+{% capture medicinalplantpaddle %}
+![](/assets/images/medicinalpaddle.jpg)
+Join A Mass Audubon naturalist, herbalist Mo Katz-Christy, and a few turtles basking on rocks for an evening paddle in search of unique plants along the river's edge. Learn about the medicinal use of these plants and their natural histories while enjoying the natural beauty against the backdrop of Cambridge’s cityscape.
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Medicinal Plant Paddle"
+  content = medicinalplantpaddle
+%}
+
 {% capture medicinalplantwalk %}
 ![](/assets/images/resized_images/moginkgomedford_480x480.webp)
 (Example Description) Join herbalist Mo Katz-Christy for a meander through Danehy park to meet wintertime city plants and explore their medicinal uses! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like, and meet us at the parking lot on Sherman Street (if you're late you should be able to find us -- we won't move too far too fast!). 
@@ -198,15 +208,6 @@ Bring a mug and join us to learn about the uses, flavors, and energies of differ
   title = "Herbal Tea Walk"
   content = tea_walk
 %}
-{% capture weed %}
-![](/assets/images/resized_images/calendulabasket_480x480.webp)
-Let's welcome fall by exploring the wonder of wild weeds! Join clinical herbalist Mo Katz-Christy for a stroll along the Community Path to learn about the medicine, botany, and magic of medicinal herbs. We will ask, what does it mean to look towards our local plants for medicine, especially when our soils are contaminated and invasive plants abound? What does it mean for a plant to be a "weed", and where do humans belong in relationship to our ecosystem? We will discuss the bounty of medicinal plants in Somerville and their specific indications and properties. Bring a notebook and get ready to scribble fast as we delight in the bounty of our neighborhood!
-{% endcapture %}
-
-{% include components/dropdown.html 
-  title = "Wild Weed Fall Herb Walk"
-  content = weed
-%}
 {% capture pesto %}
 ![](/assets/images/resized_images/weedwalk_480x480.webp)
 Together, we will walk the farm, woods, and fields, learning about the medicinal uses of so-called weeds. Baskets in hand we will harvest as we go, bringing back a bounty of delicious and nutrient-dense greens that we will make into pesto to enjoy together.
@@ -217,15 +218,6 @@ We’ll learn how local weeds can soothe a hyperactive immune system, modulate t
 {% include components/dropdown.html 
   title = "Wild Weed Medicinal Pesto"
   content = pesto
-%}
-{% capture senior %}
-![](/assets/images/resized_images/motalksatgc_480x480.webp)
-Join herbalist Mo Katz-Christy for a slow meander through the fields of LexFarm to learn how we can harvest local plants to use as medicine! We will explore weeds and cultivated plants, trees and shrubs, and have lots of space for questions and conversation. Bring a notebook if you like and get ready to nibble and use all our senses to explore our botanical neighbors.
-{% endcapture %}
-
-{% include components/dropdown.html 
-  title = "Senior Medicinal Wellness Walk"
-  content = senior
 %}
 
 #### Discussion Classes
