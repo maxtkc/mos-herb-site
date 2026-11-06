@@ -18,7 +18,7 @@ The best way to find out what classes are coming up is to...
 
 ---
 
-![](/assets/images/resized_images/violet_480x480.webp){: style="float: right; width: 30%"}
+![](/assets/images/resized_images/violet_480x480.webp){: style="float: right; width: 50%"}
 
 > "There are so many things to appreciate about Mo's "how" in leading us, including honoring plants as our community members and elders and giving us all permission to set aside the notebook and relish in wonder. Mo is a fabulous educator!"
 
@@ -30,7 +30,7 @@ _Interested in booking me for one of these classes, or have a different idea of 
 
 #### Medicine Making
 {% capture bitters %}
-![](/assets/images/resized_images/nettle_480x480.webp)
+![](/assets/images/resized_images/nettle_480x480.webp){: style="float: right; width: 50%"}
 
 Come learn the art and science of making your own digestive bitters! We’ll discuss how our bodies and cultures evolved with the bitter flavor and how we can use bitters to regulate our guts, mood, blood sugar and more. We’ll explore how to choose bitter herbs that are appropriate for our individual constitutions, and how to balance a formula to make it delicious and get it where it needs to go in the body. We'll each make an individualized bitters tincture specially formulated for our bodies that we can take home!
 
