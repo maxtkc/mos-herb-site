@@ -331,6 +331,19 @@ Calling all trans and nonbinary herb lovers! Join us over a cup of herbal tea to
   title = "Trans Tea Time"
   content = trans
 %}
+{% capture sleep %}
+![](/assets/images/calendulaharvest.jpg)
+As those of us who have struggled to get a good night’s rest know, sleep is better than pretty much anything else at keeping our immune systems robust, regulating our mood and hormones, promoting libido, and whatever else we want to experience in our bodies.
+
+There’s a million different herbs that are purported to promote sleep: which do you choose, what dosage, when, and what’s the best way to prepare them? Join clinical herbalist Mo Katz-Christy to learn how to choose the herbs that are most appropriate for your physiology and constitution. We’ll explore effective strategies to balance out your circadian rhythm over the long term and to work with plants to get a good night’s rest and feel energized the next day.
+
+Come taste some relaxing herbal teas and tinctures, and leave sleepy and ready to select the herbs that are right for you!
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "Let's Get Some Sleep: Herbal Strategies to Promote Regular Circadian Rhythms and Rest"
+  content = sleep
+%}
 
 #### Jewish Herbal Classes
 {% capture seder %}
