@@ -18,7 +18,7 @@ The best way to find out what classes are coming up is to...
 
 ---
 
-![](/assets/images/resized_images/violet_480x480.webp){: style="float: right; width: 50%"}
+![](/assets/images/resized_images/violet_480x480.webp){: style="float: right; width: 30%"}
 
 > "There are so many things to appreciate about Mo's "how" in leading us, including honoring plants as our community members and elders and giving us all permission to set aside the notebook and relish in wonder. Mo is a fabulous educator!"
 
