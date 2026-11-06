@@ -4,6 +4,8 @@ title: Upcoming Community Classes
 feature_image: "/assets/images/webp/hosing_seeds.webp"
 ---
 
+Interested in more longer-term programming? Check out my [Immersion Programs](https://mokatzchristy.com/immersions.html)!
+
 I teach classes at over sixty different libraries, community centers, herb stores, farms, schools, and more! Details and registration information for all upcoming classes is available on this calendar:
  
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%23ffffff&title=Herb%20Classes&showTitle=0&src=YTFkMWFhZWFiNDA0ZDNlMDIyYzM2N2E1Mjg0YzJlMTM0NDBhYjJjNWQ2YWVmNmZhNjkxODhiNTRlMmIwYjViM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -13,8 +15,6 @@ _To subscribe to the calendar, click "add to Google Calendar" (it may look diffe
 The best way to find out what classes are coming up is to...
 
 {% include components/subscribe.html label="Join my monthly mailing list!" %}
-
-Interested in more longer-term programming? Check out my [Immersion Programs](https://mokatzchristy.com/immersions.html)!
 
 ---
 
