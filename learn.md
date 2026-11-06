@@ -4,7 +4,7 @@ title: Upcoming Community Classes
 feature_image: "/assets/images/webp/hosing_seeds.webp"
 ---
 
-Interested in more longer-term programming? Check out my [Immersion Programs](https://mokatzchristy.com/immersions.html)!
+**Interested in more longer-term programming? Check out my [Immersion Programs](https://mokatzchristy.com/immersions.html)!**
 
 I teach classes at over sixty different libraries, community centers, herb stores, farms, schools, and more! Details and registration information for all upcoming classes is available on this calendar:
  
