@@ -26,7 +26,7 @@ The best way to find out what classes are coming up is to...
 
 <h1 align="center">Class Offerings 2026 </h1>
 
-_Interested in booking me for one of these classes? Check out my general availability [here](https://zcal.co/i/QrG3msxd) and email me at mo (at) mokatzchristy.com with some proposed times!_
+_Interested in booking me for one of these classes, or have a different idea of a class you'd like me to teach? Check and email me at mo (at) mokatzchristy.com to schedule!_
 
 #### Medicine Making
 {% capture bitters %}
@@ -150,6 +150,21 @@ What’s all this fuss about fermented foods? Why are fermented foods essential 
 {% include components/dropdown.html 
   title = "Vegetable Fermentation for Gut Health"
   content = ferment
+%}
+
+{% capture grapes %}
+![](/assets/images/resized_images/grow_480x480.webp)
+
+Somerville (and the Greater Somerville area) is full of magnificent Concord Grape arbors that were lovingly planted and have been tended for generations by our neighbors, many of whom have passed on. When we stop tending them, they become overgrown and messy, and eventually, are cut down as part of gentrification.
+
+With love and tending, grapes can feed us and strengthen our neighborhoods! Come learn how to prune your local arbor and nourish your community.
+
+Worried about lead? While our soil does have very high levels of lead, fruit from woody plants (ie trees/shrubs) does not uptake meaningful quantities of lead (https://online.ucpress.edu/elementa/article/8/1/004/115207/Beyond-community-gardensA-participatory-research)
+{% endcapture %}
+
+{% include components/dropdown.html 
+  title = "How to Prune Your Neighbor's Grape Arbor"
+  content = grapes
 %}
 
 
