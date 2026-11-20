@@ -4,6 +4,8 @@ title: Herbal Care + Education in Maine, Boston, and Online
 feature_image: "/assets/images/webp/fuzzy_bee_plant_cropped.webp"
 ---
 
+#### [Now enrolling for 2027 immersions!](https://www.hisawyer.com/lexington-community-farm/schedules/activity-set/2106092)
+
 {% include figure.html image="/assets/images/resized_images/mo_has_a_mug_480x480.webp" caption="what an herbal consultation might look like" %}{: style="float: right; width: 50%"}
 
 ### [Herbal Care](https://mokatzchristy.com/work_w_me.html):
