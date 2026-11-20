@@ -9,8 +9,8 @@ feature_image: "/assets/images/webp/vtharvest.webp"
 Want to learn to care for your community using plants? In the longer immersion programs, we dive deep into learning how to use plants for community care.
 
 I offer several longer programs throughout the year including:
-- a [Seeds of Herbalism winter intensive](https://mokatzchristy.com/winter_seeds.html) 
-- A two-year [Bioregional Community Herbalist training program](https://mokatzchristy.com/bioregional_immersion.html)
+- a [Seeds of Herbalism winter intensive](https://mokatzchristy.com/winter_seeds.html) in Belfast, ME
+- A two-year [Bioregional Community Herbalist training program](https://mokatzchristy.com/bioregional_immersion.html) in Lexington, MA with some Maine weekends
 - weekend immersion programs
 
 ![](/assets/images/communalgarble.jpg){: style="float: left; width: 45%"}
