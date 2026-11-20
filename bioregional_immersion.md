@@ -3,7 +3,7 @@ layout: page
 title: Bioregional Community Herbalist Training Program
 feature_image: "/assets/images/webp/vtharvest.webp"
 ---
-##### 2027 registration coming soon - [click here](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) to be notified when registration opens
+##### [Register here](https://www.hisawyer.com/lexington-community-farm/schedules/activity-set/2106092) for 2027!
 
 ![](/assets/images/heathertulsi.jpg){: style="float: left; width: 50%"}
 
@@ -109,6 +109,7 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
     - Payment plans available!
 - +$100 materials fee for your take home apothecary
 - Have questions? [Book a call to chat here](https://zcal.co/i/HNRlGjhc)
+- [Register here!](https://www.hisawyer.com/lexington-community-farm/schedules/activity-set/2106092)
 
 {% endcapture %}
 
@@ -199,4 +200,4 @@ I am committed to offering a car-free accessible program. LexFarm is easily acce
 
 ![](/assets/images/ginkgoharvest.jpg){: style="float: right; width: 50%"}
 
-**[Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSfL16-vCnt3RLzjhfuJvnpSVvvSfcrBDJ0tdO3Ll1sZrcAteg/viewform?usp=publish-editor) to be notified when registration opens**
+**[Register here](https://www.hisawyer.com/lexington-community-farm/schedules/activity-set/2106092)
