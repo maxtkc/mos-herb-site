@@ -75,7 +75,7 @@ gallery_items:
     alt: And this is how you were born!
 ---
 
-#### [Now enrolling for 2027 immersions!](https://www.hisawyer.com/lexington-community-farm/schedules/activity-set/2106092)
+#### [Now enrolling for 2027 immersions!](https://mokatzchristy.com/immersions.html)
 
 {% include figure.html image="/assets/images/resized_images/mo_has_a_mug_480x480.webp" caption="what an herbal consultation might look like" %}{: style="float: right; width: 50%"}
 
